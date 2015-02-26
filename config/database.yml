@@ -1,0 +1,13 @@
+development: &common
+  adapter: postgresql
+  database: sdg
+  host: localhost
+  encoding: unicode
+  min_messages: WARNING
+
+production:
+  <<: *common
+
+test:
+  <<: *common
+  database: sdg_test

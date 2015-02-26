@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="The Suncoast Developers Guild, SDG">
+    <meta name="author" content="The Suncoast Developers Guild">
+    <title>The Suncoast Developers Guild</title>
+    <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track' => true %>
+    <%= javascript_include_tag 'application', 'data-turbolinks-track' => true %>
+    <%= csrf_meta_tags %>
+  </head>
+  <body>
+    <div class="site-wrapper">
+      <div class="site-wrapper-inner">
+        <div class="cover-container">
+          <div class="masthead clearfix">
+            <div class="inner">
+              <h3 class="masthead-brand">The Suncoast Developers Guild</h3>
+              <nav>
+                <ul class="nav masthead-nav">
+                  <li class="<%= "active" if current_page?(root_path) %>"><a href="<%= root_path %>">Home</a></li>
+                  <li><a disabled>Organizations</a></li>
+                  <li><a disabled>Contact</a></li>
+                </ul>
+              </nav>
+            </div>
+          </div>
+          <%= flash_messages %>
+          <%= yield %>
+          <div class="mastfoot">
+            <div class="inner">
+              <p>&copy; 2015 <a href="http://suncoast.io">The Suncoast Developers Guild</a>.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
+
