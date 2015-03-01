@@ -9,6 +9,7 @@ class OrganizationsControllerTest < ActionController::TestCase
   end
 
   test "the page lists the organizations" do
+    2.times { Organization.create }
     visit organizations_path
     assert page.has_selector?('.organization', count: 2), 'the page should list two organizations'
   end

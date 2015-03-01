@@ -2,7 +2,7 @@
   <% @organizations.each do |organization| %>
 
     <div class="organization col-md-12" style="background-color: <%= organization.color %>">
-      <%= react_component('Organization', organization.marshal_dump) %>
+      <%= react_component('Organization', organization.attributes) %>
     </div>
 
   <% end %>

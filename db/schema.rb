@@ -11,7 +11,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20150226051755) do
+ActiveRecord::Schema.define(version: 20150301031013) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -26,5 +26,13 @@ ActiveRecord::Schema.define(version: 20150226051755) do
   end
 
   add_index "invitations", ["email_address"], name: "index_invitations_on_email_address", unique: true, using: :btree
+
+  create_table "organizations", force: :cascade do |t|
+    t.string   "name"
+    t.string   "meetup_id"
+    t.string   "color"
+    t.datetime "created_at"
+    t.datetime "updated_at"
+  end
 
 end
