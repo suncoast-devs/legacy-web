@@ -12,8 +12,14 @@ gem 'uglifier', '>= 1.3.0'
 
 gem 'jquery-rails'
 gem 'turbolinks'
+gem 'react-rails', '~> 1.0.0.pre', github: 'reactjs/react-rails'
+
+gem 'httparty'
+
 
 group :development, :test do
+  gem 'capybara'
+  gem 'mocha'
   gem 'byebug'
   gem 'web-console', '~> 2.0'
   gem 'spring'

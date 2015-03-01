@@ -12,3 +12,7 @@
 !/log/.keep
 /tmp
 .env
+.envrc
+
+*.sublime-workspace
+*.sublime-project
