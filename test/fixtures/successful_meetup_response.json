@@ -1,0 +1,59 @@
+{
+    "category": {
+        "id": 34,
+        "name": "Tech",
+        "shortname": "Tech"
+    },
+    "city": "Tampa",
+    "country": "US",
+    "created": 1151871503000,
+    "description": "<p>Curious about Ruby? Into web development and want to improve your technique, do things faster and cleaner? Want to learn more and meet others thinking along the same lines in the Tampa Bay area? If so, this is the place.</p>",
+    "group_photo": {
+        "highres_link": "http://photos4.meetupstatic.com/photos/event/a/5/5/c/highres_52722332.jpeg",
+        "id": 52722332,
+        "photo_link": "http://photos4.meetupstatic.com/photos/event/a/5/5/c/600_52722332.jpeg",
+        "thumb_link": "http://photos2.meetupstatic.com/photos/event/a/5/5/c/thumb_52722332.jpeg"
+    },
+    "id": 275634,
+    "join_mode": "open",
+    "lat": 27.920000076293945,
+    "link": "http://www.meetup.com/tampa-rb/",
+    "lon": -82.51000213623047,
+    "members": 505,
+    "name": "The Tampa Ruby Brigade",
+    "next_event": {
+        "id": "220791818",
+        "name": "Weekly Hack"
+    },
+    "photos": [
+        {
+            "highres_link": "http://photos3.meetupstatic.com/photos/event/e/2/2/8/highres_433137896.jpeg",
+            "id": 433137896,
+            "photo_link": "http://photos3.meetupstatic.com/photos/event/e/2/2/8/600_433137896.jpeg",
+            "thumb_link": "http://photos3.meetupstatic.com/photos/event/e/2/2/8/thumb_433137896.jpeg"
+        },
+        {
+            "highres_link": "http://photos2.meetupstatic.com/photos/event/e/2/2/a/highres_433137898.jpeg",
+            "id": 433137898,
+            "photo_link": "http://photos2.meetupstatic.com/photos/event/e/2/2/a/600_433137898.jpeg",
+            "thumb_link": "http://photos4.meetupstatic.com/photos/event/e/2/2/a/thumb_433137898.jpeg"
+        },
+        {
+            "highres_link": "http://photos1.meetupstatic.com/photos/event/a/f/2/0/highres_433364832.jpeg",
+            "id": 433364832,
+            "photo_link": "http://photos1.meetupstatic.com/photos/event/a/f/2/0/600_433364832.jpeg",
+            "thumb_link": "http://photos1.meetupstatic.com/photos/event/a/f/2/0/thumb_433364832.jpeg"
+        },
+        {
+            "highres_link": "http://photos3.meetupstatic.com/photos/event/4/5/3/2/highres_434477714.jpeg",
+            "id": 434477714,
+            "photo_link": "http://photos3.meetupstatic.com/photos/event/4/5/3/2/600_434477714.jpeg",
+            "thumb_link": "http://photos3.meetupstatic.com/photos/event/4/5/3/2/thumb_434477714.jpeg"
+        }
+    ],
+    "state": "FL",
+    "timezone": "US/Eastern",
+    "urlname": "tampa-rb",
+    "visibility": "public",
+    "who": "Rubyists"
+}

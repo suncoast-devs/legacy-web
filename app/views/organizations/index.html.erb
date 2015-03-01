@@ -1,0 +1,9 @@
+<div class="row">
+  <% @organizations.each do |organization| %>
+
+    <div class="organization col-md-12" style="background-color: <%= organization.color %>; opacity: 0.8;">
+      <%= react_component('Organization', organization.marshal_dump) %>
+    </div>
+
+  <% end %>
+</div>
