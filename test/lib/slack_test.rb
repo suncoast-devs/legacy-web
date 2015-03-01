@@ -15,7 +15,7 @@ class SlackTest < ActiveSupport::TestCase
     assert_includes params, 'email=foo%40bar.com'
     assert_includes params, 'first_name=FirstName'
     assert_includes params, 'last_name=LastName'
-    assert_includes params, "token=#{Slack.token}"
+    assert_includes params, "token=abcd"
     assert_includes params, 'set_active=true'
   end
 
