@@ -19,6 +19,7 @@ gem 'httparty'
 
 group :development, :test do
   gem 'capybara'
+  gem 'webmock', require: false
   gem 'mocha'
   gem 'byebug'
   gem 'web-console', '~> 2.0'

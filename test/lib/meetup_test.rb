@@ -6,8 +6,9 @@ class MeetupTest < ActiveSupport::TestCase
   end
 
   test "it can generate a url and also apply the correct auth params" do
+    Meetup.stubs(:token).returns('abcd')
     url = Meetup.path_for('tampa-rb')
     assert_includes url, "sign=true"
-    assert_includes url, "key=#{ENV['MEETUP_API_TOKEN']}"
+    assert_includes url, "key=abcd"
   end
 end
