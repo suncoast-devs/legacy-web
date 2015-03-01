@@ -61,7 +61,7 @@ var OrganizationMembers = React.createClass({
 var OrganizationEvent = React.createClass({
   render: function() {
     if (this.props.event.name == void(0) ) {
-      return <span><strong>Next Event:</strong> No event scheduled</span>;
+      return <span><strong>Next Event:</strong> <em>No event scheduled</em></span>;
     } else {
       return <a href={this.urlForEvent()}>
         <strong>Next Event:</strong> {this.props.event.name}
