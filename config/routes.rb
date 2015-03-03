@@ -5,4 +5,6 @@ Rails.application.routes.draw do
 
   get '/organizations' => 'organizations#index', as: :organizations
   get '/meetup/group/:id' => 'meetup#group', as: :meetup_group
+
+  resource :contact, only: [:create, :show]
 end
