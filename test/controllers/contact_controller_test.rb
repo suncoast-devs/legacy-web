@@ -6,6 +6,7 @@ class ContactControllerTest < ActionController::TestCase
   def submit_contact_form!
     visit '/contact'
     fill_in "Name", with: "Test Name"
+    fill_in "Email", with: "foo@bar.com"
     fill_in "Message", with: "This is a message"
     click_button "Send"
   end

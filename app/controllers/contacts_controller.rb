@@ -4,7 +4,16 @@ class ContactsController < ApplicationController
 
   def create
     notification = SlackNotification.deliver({
-      text: "Contact from *#{params[:name]}*: #{params[:message]}"
+      attachments: [{
+        fallback: "New message from contact form:",
+        pretext: "New message from contact form:",
+        color: 'success',
+        fields: [{
+          title: "#{params[:name]} <#{params[:email]}>",
+          value: params[:message],
+          short: false
+        }]
+      }]
     })
 
     if notification.successful?
