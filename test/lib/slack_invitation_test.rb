@@ -1,17 +1,17 @@
 require 'test_helper'
 
-class SlackTest < ActiveSupport::TestCase
+class SlackInvitationTest < ActiveSupport::TestCase
 
   def setup
-    Slack.stubs(:token).returns('abcd')
+    SlackInvitation.stubs(:token).returns('abcd')
   end
 
   test "it has the base URI set to slack.com" do
-    assert_includes Slack.base_uri, 'slack.com/api'
+    assert_includes SlackInvitation.base_uri, 'slack.com/api'
   end
 
   test "it generates the correct query params for invitations" do
-    params = Slack.new('foo@bar.com', 'FirstName', 'LastName').query
+    params = SlackInvitation.new('foo@bar.com', 'FirstName', 'LastName').query
     assert_includes params, 'email=foo%40bar.com'
     assert_includes params, 'first_name=FirstName'
     assert_includes params, 'last_name=LastName'
@@ -26,7 +26,7 @@ class SlackTest < ActiveSupport::TestCase
         headers: { 'Content-Type' => 'application/json' }
       })
 
-    request = Slack.invite('foo@bar.com', 'first', 'last')
+    request = SlackInvitation.deliver('foo@bar.com', 'first', 'last')
     assert request.successful?
   end
 end

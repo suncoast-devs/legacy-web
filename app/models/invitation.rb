@@ -6,7 +6,7 @@ class Invitation < ActiveRecord::Base
   after_create :invite_to_slack!
 
   def invite_to_slack!
-    request = Slack.invite(email_address, given_name, family_name)
+    request = SlackInvitation.deliver(email_address, given_name, family_name)
     update_attribute(:invited_at, Time.now) if request.successful?
   end
 end
