@@ -1,0 +1,18 @@
+<%= form_tag contact_path, method: :post do %>
+  <div class="form-group">
+    <%= label_tag :name %>
+    <%= text_field_tag :name, '', class: 'form-control' %>
+  </div>
+
+  <div class="form-group">
+    <%= label_tag :email %>
+    <%= email_field_tag :email, '', class: 'form-control' %>
+  </div>
+
+  <div class="form-group">
+    <%= label_tag :message %>
+    <%= text_area_tag :message, '', class: 'form-control', rows: 4 %>
+  </div>
+
+  <%= submit_tag 'Send Us A Message', class: 'btn btn-block btn-success' %>
+<% end %>

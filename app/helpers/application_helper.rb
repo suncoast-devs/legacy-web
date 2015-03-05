@@ -21,4 +21,10 @@ module ApplicationHelper
     end
     nil
   end
+
+  def navigation_link(title, path)
+    content_tag(:li, class: ('active' if current_page? path)) do
+      link_to(title, path)
+    end
+  end
 end

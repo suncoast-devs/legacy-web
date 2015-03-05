@@ -20,15 +20,9 @@
               <h3 class="masthead-brand">The Suncoast Developers Guild</h3>
               <nav>
                 <ul class="nav masthead-nav">
-                  <li class="<%= "active" if current_page?(root_path) %>">
-                    <%= link_to 'Home', root_path %>
-                  </li>
-
-                  <li class="<%= "active" if current_page?(organizations_path) %>">
-                    <%= link_to 'Organizations', organizations_path %>
-                  </li>
-
-                  <li><a disabled>Contact</a></li>
+                  <%= navigation_link 'Home', root_path %>
+                  <%= navigation_link 'Organizations', organizations_path %>
+                  <%= navigation_link 'Contact', contact_path %>
                 </ul>
               </nav>
             </div>

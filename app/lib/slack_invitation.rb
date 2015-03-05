@@ -1,4 +1,4 @@
-class Slack
+class SlackInvitation
   include HTTParty
   base_uri 'https://slack.com/api'
 
@@ -6,7 +6,7 @@ class Slack
     ENV['SLACK_API_TOKEN']
   end
 
-  def self.invite(*args)
+  def self.deliver(*args)
     new(*args).tap(&:request)
   end
 
