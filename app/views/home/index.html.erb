@@ -1,48 +1,89 @@
-<div class="inner cover">
-  <h1 class="cover-heading">We&rsquo;re just getting started&hellip;</h1>
-  <p class="lead">The <acronym title="Suncoast Developers Guild">SDG</acronym> is a community representing a number of developer organizations in the Greater Tampa Bay area.</p>
-  <p>We're just getting started, but you can join us now on <a href="https://suncoast-devs.slack.com/">Slack</a>:</p>
-  <p class="lead">
-    <a href="#" data-toggle="modal" data-target="#invite-modal" class="btn btn-lg btn-default">Request an Invitation</a>
-  </p>
-</div>
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="The Suncoast Developers Guild, SDG">
+    <meta name="author" content="The Suncoast Developers Guild">
+    <title>The Suncoast Developers Guild</title>
+    <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track' => true %>
+    <%= javascript_include_tag 'application', 'data-turbolinks-track' => true %>
+    <%= csrf_meta_tags %>
+  </head>
+  <body>
+    <div class="site-wrapper">
+      <div class="site-wrapper-inner">
+        <div class="cover-container">
+          <div class="masthead clearfix">
+            <div class="inner">
+              <h3 class="masthead-brand">The Suncoast Developers Guild</h3>
+              <nav>
+                <ul class="nav masthead-nav">
+                  <%= navigation_link 'Home', root_path %>
+                  <%= navigation_link 'Organizations', organizations_path %>
+                  <%= navigation_link 'Contact', contact_path %>
+                </ul>
+              </nav>
+            </div>
+          </div>
+          <%= flash_messages %>
+          <div class="inner cover">
+            <h1 class="cover-heading">We&rsquo;re just getting started&hellip;</h1>
+            <p class="lead">The <acronym title="Suncoast Developers Guild">SDG</acronym> is a community representing a number of developer organizations in the Greater Tampa Bay area.</p>
+            <p>We're just getting started, but you can join us now on <a href="https://suncoast-devs.slack.com/">Slack</a>:</p>
+            <p class="lead">
+              <a href="#" data-toggle="modal" data-target="#invite-modal" class="btn btn-lg btn-default">Request an Invitation</a>
+            </p>
+          </div>
+          <div id="invite-modal" class="modal fade">
+            <div class="modal-dialog">
+              <div class="modal-content">
+                <%= form_for(Invitation.new, html: { class: "form-horizontal" }) do |form| %>
+                  <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                    <h4 class="modal-title">Request an Invitation</h4>
+                  </div>
+                  <div class="modal-body">
+                    <div class="form-group">
+                      <label for="invitation_given_name" class="col-sm-2 control-label">Name</label>
+                      <div class="col-sm-10">
+                        <input type="text" class="form-control" name="invitation[given_name]" id="invitation_given_name" placeholder="First Name">
+                      </div>
+                    </div>
+                    <div class="form-group">
+                      <label for="invitation_family_name" class="col-sm-2 control-label"></label>
+                      <div class="col-sm-10">
+                        <input type="text" class="form-control" name="invitation[family_name]" id="invitation_family_name" placeholder="Last Name">
+                      </div>
+                    </div>
+                    <div class="form-group">
+                      <label for="invitation_email_address" class="col-sm-2 control-label">Email</label>
+                      <div class="col-sm-10">
+                        <input type="email" class="form-control" name="invitation[email_address]" id="invitation_email_address" placeholder="Email Address">
+                      </div>
+                    </div>
+                  </div>
+                  <div class="modal-footer">
+                    <div class="col-sm-offset-2 col-sm-10">
+                      <button type="submit" class="btn btn-default">Submit</button>
+                    </div>
+                  </div>
+                <% end %>
+              </div><!-- /.modal-content -->
+            </div><!-- /.modal-dialog -->
+          </div><!-- /.modal -->
+          <div class="mastfoot">
+            <div class="inner">
+              <p class="copyright">&copy; 2015 <a href="http://suncoast.io">The Suncoast Developers Guild</a>.</p>
+              <p class="conduct"><%= link_to 'Code of Conduct', code_of_conduct_path %></p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
 
-<div id="invite-modal" class="modal fade">
-  <div class="modal-dialog">
-    <div class="modal-content">
-      <%= form_for(Invitation.new, html: { class: "form-horizontal" }) do |form| %>
-        <div class="modal-header">
-          <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-          <h4 class="modal-title">Request an Invitation</h4>
-        </div>
-        <div class="modal-body">
-          <div class="form-group">
-            <label for="invitation_given_name" class="col-sm-2 control-label">Name</label>
-            <div class="col-sm-10">
-              <input type="text" class="form-control" name="invitation[given_name]" id="invitation_given_name" placeholder="First Name">
-            </div>
-          </div>
-          <div class="form-group">
-            <label for="invitation_family_name" class="col-sm-2 control-label"></label>
-            <div class="col-sm-10">
-              <input type="text" class="form-control" name="invitation[family_name]" id="invitation_family_name" placeholder="Last Name">
-            </div>
-          </div>
-          <div class="form-group">
-            <label for="invitation_email_address" class="col-sm-2 control-label">Email</label>
-            <div class="col-sm-10">
-              <input type="email" class="form-control" name="invitation[email_address]" id="invitation_email_address" placeholder="Email Address">
-            </div>
-          </div>
-        </div>
-        <div class="modal-footer">
-          <div class="col-sm-offset-2 col-sm-10">
-            <button type="submit" class="btn btn-default">Submit</button>
-          </div>
-        </div>
-      <% end %>
-    </div><!-- /.modal-content -->
-  </div><!-- /.modal-dialog -->
-</div><!-- /.modal -->
 
 

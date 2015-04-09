@@ -1,0 +1,3 @@
+[submodule "lib/code-of-conduct"]
+	path = lib/code-of-conduct
+	url = git@github.com:suncoast-devs/code-of-conduct.git

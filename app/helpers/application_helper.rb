@@ -27,4 +27,8 @@ module ApplicationHelper
       link_to(title, path)
     end
   end
+
+  def markdown_filter(source, options = {})
+    Kramdown::Document.new(source, options).to_html.html_safe
+  end
 end

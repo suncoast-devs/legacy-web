@@ -13,9 +13,8 @@ gem 'uglifier', '>= 1.3.0'
 gem 'jquery-rails'
 gem 'turbolinks'
 gem 'react-rails', '~> 1.0.0.pre', github: 'reactjs/react-rails'
-
+gem 'kramdown'
 gem 'httparty'
-
 
 group :development, :test do
   gem 'capybara'

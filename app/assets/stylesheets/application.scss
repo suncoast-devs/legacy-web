@@ -22,7 +22,6 @@ a:hover {
   border: 1px solid #fff;
 }
 
-
 /*
  * Base structure
  */
@@ -32,9 +31,20 @@ body {
   height: 100%;
   background-color: #333;
 }
+
 body {
   color: #fff;
   text-shadow: 0 1px 3px rgba(0,0,0,.5);
+}
+
+body > .container {
+  padding: 60px 15px 0;
+}
+
+.footer > .container {
+  line-height: 60px;
+  padding-right: 15px;
+  padding-left: 15px;
 }
 
 /* Extra markup and styles for table-esque vertical and horizontal centering */
@@ -63,9 +73,6 @@ body {
     text-align: center;
   }
 }
-
-
-
 
 /*
  * Header
@@ -133,8 +140,39 @@ body {
 .mastfoot {
   color: #999; /* IE8 proofing */
   color: rgba(255,255,255,.5);
+
+  p {
+    &.copyright {
+      float: left;
+    }
+
+    &.conduct {
+      float: right;
+    }
+  }
 }
 
+.footer {
+  margin-top: 10px;
+  width: 100%;
+  height: 60px;
+  color: #999; /* IE8 proofing */
+  color: rgba(255,255,255,.5);
+  background-color: #222;
+  border-top: 1px solid #090909;
+
+  p {
+    margin: 0;
+
+    &.copyright {
+      float: left;
+    }
+
+    &.conduct {
+      float: right;
+    }
+  }
+}
 
 /*
  * Affix and center
@@ -245,3 +283,14 @@ body {
     }
   }
 }
+
+#code-of-conduct {
+  table {
+    width: 100%;
+
+    thead tr {
+      border-bottom: 1px solid #eee;
+    }
+  }
+}
+

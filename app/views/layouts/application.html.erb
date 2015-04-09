@@ -12,31 +12,36 @@
     <%= csrf_meta_tags %>
   </head>
   <body>
-    <div class="site-wrapper">
-      <div class="site-wrapper-inner">
-        <div class="cover-container">
-          <div class="masthead clearfix">
-            <div class="inner">
-              <h3 class="masthead-brand">The Suncoast Developers Guild</h3>
-              <nav>
-                <ul class="nav masthead-nav">
-                  <%= navigation_link 'Home', root_path %>
-                  <%= navigation_link 'Organizations', organizations_path %>
-                  <%= navigation_link 'Contact', contact_path %>
-                </ul>
-              </nav>
-            </div>
-          </div>
-          <%= flash_messages %>
-          <%= yield %>
-          <div class="mastfoot">
-            <div class="inner">
-              <p>&copy; 2015 <a href="http://suncoast.io">The Suncoast Developers Guild</a>.</p>
-            </div>
-          </div>
+    <nav class="navbar navbar-inverse navbar-fixed-top">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="<%= root_path %>">The Suncoast Developers Guild</a>
         </div>
+        <div id="navbar" class="collapse navbar-collapse">
+          <ul class="nav navbar-nav">
+            <%= navigation_link 'Home', root_path %>
+            <%= navigation_link 'Organizations', organizations_path %>
+            <%= navigation_link 'Contact', contact_path %>
+          </ul>
+        </div><!--/.nav-collapse -->
       </div>
+    </nav>
+    <div class="container">
+      <%= flash_messages %>
+      <%= yield %>
     </div>
+    <footer class="footer">
+      <div class="container">
+        <p class="copyright">&copy; 2015 <a href="http://suncoast.io">The Suncoast Developers Guild</a>.</p>
+        <p class="conduct"><%= link_to 'Code of Conduct', code_of_conduct_path %></p>
+      </div>
+    </footer>
   </body>
 </html>
 
