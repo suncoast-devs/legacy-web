@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-ruby '2.2.0'
+ruby '2.2.2'
 
 gem 'rails', '4.2.0'
 gem 'pg'
@@ -12,9 +12,11 @@ gem 'uglifier', '>= 1.3.0'
 
 gem 'jquery-rails'
 gem 'turbolinks'
-gem 'react-rails', '~> 1.0.0.pre', github: 'reactjs/react-rails'
+gem 'react-rails', '~> 1.0'
 gem 'kramdown'
 gem 'httparty'
+gem 'newrelic_rpm'
+gem 'autoprefixer-rails'
 
 group :development, :test do
   gem 'capybara'

@@ -32,7 +32,7 @@
         </div><!--/.nav-collapse -->
       </div>
     </nav>
-    <div class="container">
+    <div class="container main">
       <%= flash_messages %>
       <%= yield %>
     </div>
@@ -42,6 +42,8 @@
         <p class="conduct"><%= link_to 'Code of Conduct', code_of_conduct_path %></p>
       </div>
     </footer>
+    <div class="photo-credit">
+      <a href="http://eol.jsc.nasa.gov/SearchPhotos/photo.pl?mission=ISS041&roll=E&frame=74232">Image courtesy of the Earth Science and Remote Sensing Unit, NASA Johnson Space Center.</a>
+    </div>
   </body>
 </html>
-

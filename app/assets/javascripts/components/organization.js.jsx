@@ -48,7 +48,7 @@ var OrganizationName = React.createClass({
 
 var OrganizationMembers = React.createClass({
   render: function() {
-    return <a href={this.urlForMembers()}>
+    return <a className="property" href={this.urlForMembers()}>
       <strong>Members:</strong> {this.props.members}
     </a>;
   },
@@ -61,9 +61,9 @@ var OrganizationMembers = React.createClass({
 var OrganizationEvent = React.createClass({
   render: function() {
     if (this.props.event.name == void(0) ) {
-      return <span><strong>Next Event:</strong> <em>No event scheduled</em></span>;
+      return <span className="property"><strong>Next Event:</strong> <em>No event scheduled</em></span>;
     } else {
-      return <a href={this.urlForEvent()}>
+      return <a className="property" href={this.urlForEvent()}>
         <strong>Next Event:</strong> {this.props.event.name}
       </a>;
     }

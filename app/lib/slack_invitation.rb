@@ -1,3 +1,4 @@
+# Use Slack's undocumented admin API to creat invitations.
 class SlackInvitation
   include HTTParty
   base_uri 'https://slack.com/api'
@@ -25,7 +26,7 @@ class SlackInvitation
   end
 
   def successful?
-    request.parsed_response["ok"]
+    request.parsed_response['ok']
   end
 
   def query
@@ -34,7 +35,7 @@ class SlackInvitation
       first_name: @given_name,
       last_name: @family_name,
       token: self.class.token,
-      set_active: true,
+      set_active: true
     }.to_query
   end
 end
