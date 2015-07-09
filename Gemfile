@@ -6,17 +6,16 @@ gem 'rails', '4.2.0'
 gem 'pg'
 gem 'puma'
 
-gem 'sass-rails', '~> 5.0'
-gem 'bootstrap-sass', '~> 3.3.3'
 gem 'uglifier', '>= 1.3.0'
-
 gem 'jquery-rails'
 gem 'turbolinks'
 gem 'react-rails', '~> 1.0'
 gem 'kramdown'
 gem 'httparty'
 gem 'newrelic_rpm'
+gem 'less-rails-semantic_ui'
 gem 'autoprefixer-rails'
+gem 'therubyracer', require: false, platforms: :ruby
 
 group :development, :test do
   gem 'capybara'

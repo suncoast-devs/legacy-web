@@ -1,22 +1,27 @@
 module ApplicationHelper
 
-  def bootstrap_class_for(flash_type)
-    { notice: "alert-success", alert: "alert-danger" }[flash_type.to_sym] || flash_type.to_s
+  def semantic_class_for(flash_type)
+    { notice: "positive", alert: "negative" }[flash_type.to_sym] || flash_type.to_s
   end
 
-  def bootstrap_icon_for(flash_type)
-    { notice: "ok-circle", alert: "warning-sign" }[flash_type.to_sym] || "question-sign"
+  def semantic_icon_for(flash_type)
+    { notice: "info circle", alert: "warning sign" }[flash_type.to_sym] || "question-sign"
   end
 
-  def flash_messages(opts = {})
-    flash.each do |msg_type, message|
-      concat(content_tag(:div, message, class: "alert #{bootstrap_class_for(msg_type)} alert-dismissible", role: 'alert') do
-        concat(content_tag(:button, class: 'close', data: { dismiss: 'alert' }) do
-          concat content_tag(:span, '&times;'.html_safe, 'aria-hidden' => true)
-          concat content_tag(:span, 'Close', class: 'sr-only')
-        end)
-        concat content_tag(:i, nil, class: "glyphicon glyphicon-#{bootstrap_icon_for(msg_type)}")
-        concat message
+  def flash_messages
+    unless flash.empty?
+      concat(content_tag(:div, class: 'ui vertical container segment') do
+        flash.each do |msg_type, message|
+          concat(content_tag(:div, class: "ui icon floating #{semantic_class_for(msg_type)} message") do
+            concat content_tag(:i, nil, class: "close icon")
+            concat content_tag(:i, nil, class: "#{semantic_icon_for(msg_type)} icon")
+            title, body = Array.wrap(message)
+            concat(content_tag(:div, class: 'content') do
+              concat content_tag(:div, title, class: 'header')
+              concat content_tag(:p, body) unless body.blank?
+            end)
+          end)
+        end
       end)
     end
     nil

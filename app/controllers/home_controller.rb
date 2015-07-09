@@ -1,7 +1,7 @@
 class HomeController < ApplicationController
 
   def index
-    render :layout => false
+    @organizations = Organization.all
   end
 
   def conduct

@@ -1,92 +1,84 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="The Suncoast Developers Guild, SDG">
-    <meta name="author" content="The Suncoast Developers Guild">
-    <title>The Suncoast Developers Guild</title>
-    <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track' => true %>
-    <%= javascript_include_tag 'application', 'data-turbolinks-track' => true %>
-    <%= csrf_meta_tags %>
-  </head>
-  <body>
-    <div class="site-wrapper">
-      <div class="site-wrapper-inner">
-        <div class="cover-container">
-          <div class="masthead clearfix">
-            <div class="inner">
-              <h3 class="masthead-brand">The Suncoast Developers Guild</h3>
-              <nav>
-                <ul class="nav masthead-nav">
-                  <%= navigation_link 'Home', root_path %>
-                  <%= navigation_link 'Organizations', organizations_path %>
-                  <%= navigation_link 'Contact', contact_path %>
-                </ul>
-              </nav>
+<div class="ui inverted vertical masthead center aligned segment">
+  <h1 class="ui inverted header">The Suncoast Developers Guild</h1>
+  <h2>Welcome programmers, geeks and enthusiasts!</h2>
+  <div class="ui huge primary button">
+    <i class="left slack icon"></i>
+    Join us on Slack.
+  </div>
+</div>
+
+<div class="ui vertical stripe segment intro">
+  <div class="ui text container">
+    <h3 class="ui header">We are a collective of software engineers and programmers in the Tampa Bay Area.</h3>
+    <p>Our purpose is to promote a sense of community among local
+      technology organizations and their members. We seek to better
+      communication between leaders, centralize efforts, improve culture,
+      and to support our members in a way that strengthens our community
+      and promotes the common good.</p>
+
+    <h4 class="ui horizontal header divider">
+      <a href="#">Organizations</a>
+    </h4>
+
+    <h3 class="ui header">Are you interested in joining our organizations?</h3>
+
+    <div class="ui items">
+      <% @organizations.each do |organization| %>
+        <div class="organization item">
+          <div class="ui image tiny">
+            <img src="<%= organization.photo_url %>" width="80" height="80">
+          </div>
+          <div class="content">
+            <a href="http://www.meetup.com/<%= organization.meetup_id %>" style="color: <%= organization.color %>" class="header"><%= organization.name %></a>
+            <div class="description">
+              <strong>Next Event:</strong> <%= organization.next_event %>
             </div>
-          </div>
-          <%= flash_messages %>
-          <div class="inner cover">
-            <h1 class="cover-heading">The Suncoast Developers Guild</h1>
-            <p class="lead">We are a collective of software engineers and programmers
-              in the Tampa Bay Area. Our purpose is to promote a sense of community among local technology organizations and their members.
-              We seek to better communication between leaders, centralize efforts, and to support our members in a way that strengthens
-              our community and promotes the common good.</p>
-            <p>Join us now on <a href="https://suncoast-devs.slack.com/">Slack</a>:</p>
-            <p class="lead">
-              <a href="#" data-toggle="modal" data-target="#invite-modal" class="btn btn-lg btn-default">Request an Invitation</a>
-            </p>
-          </div>
-          <div id="invite-modal" class="modal fade">
-            <div class="modal-dialog">
-              <div class="modal-content">
-                <%= form_for(Invitation.new, html: { class: "form-horizontal" }) do |form| %>
-                  <div class="modal-header">
-                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-                    <h4 class="modal-title">Request an Invitation</h4>
-                  </div>
-                  <div class="modal-body">
-                    <div class="form-group">
-                      <label for="invitation_given_name" class="col-sm-2 control-label">Name</label>
-                      <div class="col-sm-10">
-                        <input type="text" class="form-control" name="invitation[given_name]" id="invitation_given_name" placeholder="First Name">
-                      </div>
-                    </div>
-                    <div class="form-group">
-                      <label for="invitation_family_name" class="col-sm-2 control-label"></label>
-                      <div class="col-sm-10">
-                        <input type="text" class="form-control" name="invitation[family_name]" id="invitation_family_name" placeholder="Last Name">
-                      </div>
-                    </div>
-                    <div class="form-group">
-                      <label for="invitation_email_address" class="col-sm-2 control-label">Email</label>
-                      <div class="col-sm-10">
-                        <input type="email" class="form-control" name="invitation[email_address]" id="invitation_email_address" placeholder="Email Address">
-                      </div>
-                    </div>
-                  </div>
-                  <div class="modal-footer">
-                    <div class="col-sm-offset-2 col-sm-10">
-                      <button type="submit" class="btn btn-default">Submit</button>
-                    </div>
-                  </div>
-                <% end %>
-              </div><!-- /.modal-content -->
-            </div><!-- /.modal-dialog -->
-          </div><!-- /.modal -->
-          <div class="mastfoot">
-            <div class="inner">
-              <p class="copyright">&copy; 2015 <a href="http://suncoast.io">The Suncoast Developers Guild</a>.</p>
-              <p class="conduct"><%= link_to 'Code of Conduct', code_of_conduct_path %></p>
+            <div class="extra">
+              <%= organization.members %>
             </div>
           </div>
         </div>
+      <% end %>
+    </div>
+  </div>
+</div>
+
+<div class="ui modal basic small invitation">
+  <i class="close icon"></i>
+  <div class="header">
+    Request an Invitation
+  </div>
+  <div class="content">
+    <%= form_for Invitation.new, html: { class: 'ui form inverted' } do |form| %>
+    <div class="two fields">
+      <div class="field">
+        <label>First Name</label>
+        <input type="text" name="invitation[given_name]" placeholder="First Name">
+      </div>
+      <div class="field">
+        <label>Last Name</label>
+        <input type="text" name="invitation[family_name]" placeholder="Last Name">
       </div>
     </div>
-    <div class="photo-credit">
-      <a href="http://eol.jsc.nasa.gov/SearchPhotos/photo.pl?mission=ISS041&roll=E&frame=74232">Image courtesy of the Earth Science and Remote Sensing Unit, NASA Johnson Space Center.</a>
+    <div class="field">
+      <label>Email</label>
+      <input type="email" name="invitation[email_address]" placeholder="Email Address">
     </div>
-  </body>
-</html>
+    <% end %>
+  </div>
+  <div class="actions">
+    <div class="ui red basic cancel inverted button">
+      <i class="remove icon"></i>
+      Nevermind.
+    </div>
+    <div class="ui green ok inverted button">
+      <i class="checkmark icon"></i>
+      Invite Me!
+    </div>
+  </div>
+</div>
+
+<!--
+  <h4></h4>
+
+ -->

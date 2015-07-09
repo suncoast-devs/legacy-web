@@ -5,9 +5,9 @@ class InvitationsController < ApplicationController
     @invitation = Invitation.new(invitation_params)
 
     if @invitation.save
-      redirect_to root_path, notice: "Thanks, #{@invitation.given_name}, you should receive an email shortly inviting you to join us."
+      redirect_to root_path, notice: ["Thanks, #{@invitation.given_name}", 'You should receive an email shortly inviting you to join us.']
     else
-      redirect_to root_path, alert: "Invitation was not created: #{@invitation.errors.full_messages.to_sentence.downcase}."
+      redirect_to root_path, alert: ['Invitation was not created', @invitation.errors.full_messages.to_sentence.downcase]
     end
   end
 

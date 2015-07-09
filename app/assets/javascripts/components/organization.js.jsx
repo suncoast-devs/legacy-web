@@ -21,24 +21,30 @@ var Organization = React.createClass({
   render: function() {
     return <div>
       <OrganizationImage photos={this.state.group_photo} />
-      <OrganizationName name={this.state.name} meetupURL={this.meetupURL} />
-      <OrganizationEvent event={this.state.next_event} meetupURL={this.meetupURL} />
-      <OrganizationMembers members={this.state.members} meetupURL={this.meetupURL} />
+      <div className="content">
+        <OrganizationName name={this.state.name} meetupURL={this.meetupURL} />
+        <div className="description">
+          <OrganizationEvent event={this.state.next_event} meetupURL={this.meetupURL} />
+          <OrganizationMembers members={this.state.members} meetupURL={this.meetupURL} />
+        </div>
+      </div>
     </div>;
   }
 });
 
 var OrganizationImage = React.createClass({
   render: function() {
-    return <img src={this.props.photos.highres_link} width="80" height="80"/>;
+    return <div className="ui image">
+      <img src={this.props.photos.highres_link} width="80" height="80"/>
+    </div>;
   }
 });
 
 var OrganizationName = React.createClass({
   render: function() {
-    return <h2><a href={this.urlForMeetup()}>
+    return <a href={this.urlForMeetup()} className="header">
       {this.props.name}
-    </a></h2>;
+    </a>;
   },
 
   urlForMeetup: function() {

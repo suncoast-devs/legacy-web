@@ -13,7 +13,21 @@
 //= require jquery
 //= require jquery_ujs
 //= require turbolinks
-//= require bootstrap
+//= require semantic_ui/semantic_ui
 //= require react
 //= require react_ujs
 //= require_tree .
+
+$(document).on('ready', function() {
+  $('.message .close').on('click', function() {
+    $(this).closest('.message').transition('fade');
+  });
+
+  $('.ui.modal.invitation').modal({
+    // inverted: true
+  }).modal('attach events', '.masthead .primary.button', 'show');
+
+  $('.invitation .ok.button').on('click', function(e) {
+    $('.invitation form').submit();
+  });
+});

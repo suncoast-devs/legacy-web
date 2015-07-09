@@ -1,11 +1,4 @@
 <section class="code-of-conduct">
-  <div class="row">
-    <div class="col-lg-12">
-
-      <%= markdown_filter File.read(Rails.root.join('lib', 'code-of-conduct', 'code-of-conduct.md')) %>
-
-      <p>This is a living document and you can contribute to it on <a href="https://github.com/suncoast-devs/code-of-conduct">Github</a>.
-
-    </div>
-  </div>
+  <%= markdown_filter File.read(Rails.root.join('lib', 'code-of-conduct', 'code-of-conduct.md')) %>
+  <p>This is a living document and you can contribute to it on <a href="https://github.com/suncoast-devs/code-of-conduct">Github</a>.
 </section>

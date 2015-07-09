@@ -1,49 +1,48 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="The Suncoast Developers Guild, SDG">
-    <meta name="author" content="The Suncoast Developers Guild">
-    <title>The Suncoast Developers Guild</title>
-    <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track' => true %>
-    <%= javascript_include_tag 'application', 'data-turbolinks-track' => true %>
-    <%= csrf_meta_tags %>
-  </head>
-  <body>
-    <nav class="navbar navbar-inverse navbar-fixed-top">
-      <div class="container">
-        <div class="navbar-header">
-          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
-            <span class="sr-only">Toggle navigation</span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-          </button>
-          <a class="navbar-brand" href="<%= root_path %>">The Suncoast Developers Guild</a>
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="The Suncoast Developers Guild, SDG">
+  <meta name="author" content="The Suncoast Developers Guild">
+  <title>The Suncoast Developers Guild</title>
+  <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track' => true %>
+  <%= javascript_include_tag 'application', 'data-turbolinks-track' => true %>
+  <%= csrf_meta_tags %>
+</head>
+<body>
+  <div class="pusher">
+    <%= flash_messages %>
+    <%= yield %>
+    <div class="ui vertical footer segment">
+      <div class="ui container">
+        <div class="ui stackable inverted divided equal height stackable grid">
+          <div class="three wide column">
+            <h4 class="ui inverted header">About</h4>
+            <div class="ui inverted link list">
+              <a href="<%= contact_path %>" class="item">Contact Us</a>
+              <a href="<%= code_of_conduct_path %>" class="item">Code of Conduct</a>
+              <!-- <a href="#" class="item">Sitemap</a> -->
+            </div>
+          </div>
+          <div class="three wide column">
+            <h4 class="ui inverted header">Links</h4>
+            <div class="ui inverted link list">
+              <a href="https://suncoast-devs.slack.com/" class="item">Slack</a>
+              <a href="http://www.meetup.com/suncoast-devs" class="item">Meetup</a>
+              <a href="/admin" class="item">Admin</a>
+            </div>
+          </div>
+          <div class="seven wide column">
+            <p class="copyright">&copy; 2015 <a href="http://suncoast.io">The Suncoast Developers Guild</a>.</p>
+            <p class="photo-credit">Image courtesy of the <a href="http://eol.jsc.nasa.gov/SearchPhotos/photo.pl?mission=ISS041&roll=E&frame=74232">Earth Science and Remote Sensing Unit</a>, NASA Johnson Space Center.</p>
+          </div>
         </div>
-        <div id="navbar" class="collapse navbar-collapse">
-          <ul class="nav navbar-nav">
-            <%= navigation_link 'Home', root_path %>
-            <%= navigation_link 'Organizations', organizations_path %>
-            <%= navigation_link 'Contact', contact_path %>
-          </ul>
-        </div><!--/.nav-collapse -->
       </div>
-    </nav>
-    <div class="container main">
-      <%= flash_messages %>
-      <%= yield %>
     </div>
-    <footer class="footer">
-      <div class="container">
-        <p class="copyright">&copy; 2015 <a href="http://suncoast.io">The Suncoast Developers Guild</a>.</p>
-        <p class="conduct"><%= link_to 'Code of Conduct', code_of_conduct_path %></p>
-      </div>
-    </footer>
-    <div class="photo-credit">
-      <a href="http://eol.jsc.nasa.gov/SearchPhotos/photo.pl?mission=ISS041&roll=E&frame=74232">Image courtesy of the Earth Science and Remote Sensing Unit, NASA Johnson Space Center.</a>
-    </div>
-  </body>
+  </div>
+
+</body>
 </html>
