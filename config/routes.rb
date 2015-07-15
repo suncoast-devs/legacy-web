@@ -5,4 +5,6 @@ Rails.application.routes.draw do
   get '/meetup/group/:id' => 'meetup#group', as: :meetup_group
   get '/conduct' => 'home#conduct', as: :code_of_conduct
   resource :contact, only: [:create, :show]
+
+  get '/wake' => 'caffeinate#wake'
 end
