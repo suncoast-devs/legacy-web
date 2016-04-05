@@ -116,5 +116,5 @@ gulp.task('build', ['lint', 'html', 'images', 'extras'], () =>
     .pipe($.size({ title: 'build', gzip: true }))
 );
 
-gulp.task('deploy', ['clean', 'build'], () => gulp.src('./dist/**/*').pipe($.ghPages()));
+gulp.task('deploy', ['build'], () => gulp.src('./dist/**/*').pipe($.ghPages()));
 gulp.task('default', ['clean'], () => gulp.start('serve'));
