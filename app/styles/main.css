@@ -89,7 +89,7 @@ body.invite-modal {
 }
 
 main {
-  background: url("/images/main-bg.svg") no-repeat bottom/120rem;
+  background: url("../images/main-bg.svg") no-repeat bottom/120rem;
   padding: 1.5rem;
   flex-grow: 1;
   transition: all 1s ease;
@@ -125,7 +125,7 @@ section {
 
 header {
   background-color: #84cfd2;
-  background-image: url("/images/sun.svg"), url("/images/header-bg.svg");
+  background-image: url("../images/sun.svg"), url("../images/header-bg.svg");
   background-size: 100% 40%, 100% 100%;
   background-position: 10vw 100%, center;
   position: relative;
@@ -136,7 +136,7 @@ header {
   padding: 1.5rem 1.5rem 0;
   & h1 {
     flex: 1 1 auto;
-    background: url("/images/h1.svg") no-repeat center 50%;
+    background: url("../images/h1.svg") no-repeat center 50%;
     font: 0/0 a;
     color: transparent;
     text-shadow: none;
@@ -280,7 +280,7 @@ a.invite-o-matic {
     position: absolute;
     left: 50%;
     top: 30%;
-    content: url("/images/cloud.svg");
+    content: url("../images/cloud.svg");
     width: 18rem;
     max-width: 80%;
     transition: all 0.5s ease-in-out;
@@ -303,7 +303,7 @@ section.conduct {
 }
 
 section.mission {
-  background-image: url("/images/mission-bg.svg");
+  background-image: url("../images/mission-bg.svg");
   padding: 3rem 1.5rem;
   & h2 {
     color: #f7f4dc;
@@ -319,7 +319,7 @@ section.mission {
 }
 
 section.logo {
-  background-image: url("/images/logo-bg.svg");
+  background-image: url("../images/logo-bg.svg");
   display: flex;
   align-content: center;
   justify-content: center;
@@ -330,7 +330,7 @@ section.logo {
 }
 
 section.conduct {
-  background-image: url("/images/conduct-bg.svg");
+  background-image: url("../images/conduct-bg.svg");
   padding: 3rem 1.5rem 1.5rem;
   & h3 {
     color: #f7f4dc;

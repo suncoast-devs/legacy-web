@@ -21,7 +21,7 @@ gulp.task('styles', () =>
       require('postcss-normalize'),
       require('postcss-cssnext'),
     ]))
-    .pipe(gulp.dest('.tmp/styles'))
+    .pipe(gulp.dest('dist/styles'))
     .pipe(reload({ stream: true }))
 );
 
@@ -31,7 +31,7 @@ gulp.task('scripts', () =>
     .pipe($.babel({
       presets: ['es2015', 'stage-0'],
     }))
-    .pipe(gulp.dest('.tmp/scripts'))
+    .pipe(gulp.dest('dist/scripts'))
     .pipe(reload({ stream: true }))
 );
 
@@ -56,14 +56,14 @@ gulp.task('lint', ['eslint', 'stylint']);
 gulp.task('html', ['styles', 'scripts'], () =>
   gulp.src('app/**/*.html')
     .pipe($.plumber())
-    .pipe($.useref({ searchPath: ['.tmp', 'app', '.'] },
+    .pipe($.useref({ searchPath: ['dist', 'app', '.'] },
       lazypipe().pipe($.sourcemaps.init, { loadMaps: true })))
     .pipe($.if('*.js', $.uglify()))
     .pipe($.if('*.css', $.cssnano()))
     .pipe($.sourcemaps.write('maps'))
     .pipe($.fileInclude({ filters: { markdown: marked } }))
     .pipe($.if('*.html', $.htmlmin({ collapseWhitespace: true })))
-    .pipe(gulp.dest('.tmp'))
+    .pipe(gulp.dest('dist'))
 );
 
 gulp.task('images', () =>
@@ -90,14 +90,14 @@ gulp.task('extras', () =>
   }).pipe(gulp.dest('dist'))
 );
 
-gulp.task('clean', del.bind(null, ['.tmp', 'dist']));
+gulp.task('clean', del.bind(null, ['dist']));
 
 gulp.task('serve', ['styles', 'scripts', 'html'], () => {
   browserSync({
     notify: false,
     port: 9000,
     server: {
-      baseDir: ['.tmp', 'app'],
+      baseDir: ['dist', 'app'],
     },
   });
 
@@ -116,4 +116,5 @@ gulp.task('build', ['lint', 'html', 'images', 'extras'], () =>
     .pipe($.size({ title: 'build', gzip: true }))
 );
 
+gulp.task('deploy', ['clean', 'build'], () => gulp.src('./dist/**/*').pipe($.ghPages()));
 gulp.task('default', ['clean'], () => gulp.start('serve'));
