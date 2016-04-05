@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 100 101" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421;">
+    <g id="Conduct">
+        <g transform="matrix(0.613313,0,0,1.97636,-108.179,-847.248)">
+            <path d="M186.287,432.902L176.384,479.293L339.433,479.293L339.434,434.307L186.287,432.902Z" style="fill:rgb(179,211,52);fill-rule:nonzero;"/>
+        </g>
+        <g id="g-l" transform="matrix(1,0,0,0.557808,-20,-625.061)">
+            <path d="M33.54,1299.85L28.547,1289.9L30.721,1120.57L20,1120.57L20,1299.85L33.54,1299.85Z" style="fill:rgb(164,191,57);"/>
+        </g>
+        <g transform="matrix(0.0862069,0,0,0.868546,-1.72414,-973.263)">
+            <path d="M1180,1120.57L1180,1133.34L90.454,1130.15L135.369,1125.36L160.723,1120.57L1180,1120.57Z" style="fill:rgb(164,191,57);"/>
+        </g>
+    </g>
+</svg>

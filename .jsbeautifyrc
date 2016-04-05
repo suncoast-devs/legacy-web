@@ -1,0 +1,16 @@
+---
+  indent_size: 2
+  indent_char: " "
+  preserve_newlines: true
+  max_preserve_newlines: 1
+  html:
+    brace_style: "expand"
+    indent_scripts: "normal"
+    end_with_newline: true
+  css:
+    selector_separator_newline: true
+    newline_between_rules: true
+  js:
+    indent_level: 0
+    break-chained-methods: true
+    end_with_newline: true

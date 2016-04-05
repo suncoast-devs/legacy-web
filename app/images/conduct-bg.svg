@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg preserveAspectRatio="none" width="100%" height="100%" viewBox="0 0 1160 180" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421;">
+    <g transform="matrix(7.11443,0,0,3.54308,-1254.87,-1518.89)">
+        <path d="M176.385,428.692L176.384,479.293L339.433,479.293L339.434,429.311L176.385,428.692Z" style="fill:rgb(179,211,52);fill-rule:nonzero;"/>
+    </g>
+    <g id="g-l" transform="matrix(1,0,0,1,-20,-1120.57)">
+        <path d="M43.517,1299.85L36.74,1286.87L35.453,1120.57L20,1120.57L20,1299.85L43.517,1299.85Z" style="fill:rgb(164,191,57);"/>
+    </g>
+    <g id="g-t" transform="matrix(1,0,0,1,-20,-1120.57)">
+        <path d="M1180,1120.57L1180,1138.35L20,1149.3L20,1133.47L1180,1120.57Z" style="fill:rgb(164,191,57);"/>
+        <path d="M20,1120.57L1180,1120.57L20,1134.93L20,1120.57Z" style="fill:rgb(89,146,147);"/>
+    </g>
+</svg>
