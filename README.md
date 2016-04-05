@@ -11,3 +11,10 @@ Because I'm lazy, I made it easy to update the organization list to get updated 
 3. Edit [`orgs.rb`]('assets/orgs.rb') and add the group's URL Name
 4. run `./assets/orgs.rb`, copy the output and replace it into the list.
 5. Woo!
+
+### TODOs
+
+Pull-requests welcome!
+
+- Setup fav icons
+- Umm...

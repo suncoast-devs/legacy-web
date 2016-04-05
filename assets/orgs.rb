@@ -31,7 +31,7 @@ estimates = [
           <li class="org">
             <img src="#{group['group_photo']['thumb_link']}" alt="#{group['name']} Image"/>
             <div class="info">
-              <h3><a href="#{group['url']}">#{group['name']}</a></h3>
+              <h3><a href="#{group['link']}">#{group['name']}</a></h3>
               <p>#{estimates.pop} #{members} #{group['who']}</p>
             </div>
           </li>
