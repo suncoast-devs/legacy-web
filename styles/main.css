@@ -179,7 +179,7 @@ textarea{
 
 /* TODO: Organize this mess. */
 
-[class*="zocial-"]:before {
+[class*="zocial-"]::before {
   font-family: zocial, sans-serif;
 }
 
@@ -247,7 +247,8 @@ body.invite-modal header form{
   max-height: 100vh;
 }
 
-body.invite-modal header .thanks{
+body.invite-modal header .thanks,
+    body.invite-modal header .error{
   max-height: 0;
 }
 
@@ -273,19 +274,21 @@ body.invite-modal section.organizations,
           transform: translate(0, 120vh);
 }
 
-body.invite-modal.thanks{
+body.invite-modal.thanks,
+  body.invite-modal.error{
 }
 
-body.invite-modal.thanks header{
+body.invite-modal.thanks header, body.invite-modal.error header{
 }
 
-body.invite-modal.thanks header form{
+body.invite-modal.thanks header form, body.invite-modal.error header form{
   max-height: 0;
   -webkit-transition: max-height 0.5s ease-out;
   transition: max-height 0.5s ease-out;
 }
 
-body.invite-modal.thanks header .thanks{
+body.invite-modal.thanks .thanks,
+  body.invite-modal.error .error{
   max-height: 100vh;
   -webkit-transition: max-height 1s cubic-bezier(0.68, -0.55, 0.265, 1.55) 0.5s;
   transition: max-height 1s cubic-bezier(0.68, -0.55, 0.265, 1.55) 0.5s;
@@ -390,7 +393,6 @@ header form{
   width: 100%;
   max-width: 624px;
   max-width: 39rem;
-  color: #333333;
   color: rgba(51, 51, 51, 0.8);
   text-shadow: 1.6px 1.6px 0 rgba(51, 51, 51, 0.2);
   text-shadow: 0.1rem 0.1rem 0 rgba(51, 51, 51, 0.2);
@@ -426,7 +428,6 @@ header form fieldset label{
   top: 1rem;
   left: 16px;
   left: 1rem;
-  color: #b4aeae;
   color: rgba(180, 174, 174, 0.4);
   text-shadow: none;
   -webkit-transform: translate3d(0, 0, 0);
@@ -449,7 +450,6 @@ header form fieldset input.changed:disabled + label,
         header form fieldset input:valid + label,
         header form fieldset input:focus + label,
         header form fieldset input.changed:invalid + label{
-  color: #807e70;
   color: rgba(128, 126, 112, 0.8);
   font-weight: 700;
   font-size: 16px;
@@ -467,7 +467,6 @@ header form fieldset input.changed:invalid + label{
 }
 
 header form fieldset input:disabled{
-  color: #807e70;
   color: rgba(128, 126, 112, 0.4);
 }
 
@@ -499,7 +498,8 @@ header form i.loading{
   text-shadow: none;
 }
 
-header .thanks{
+header .thanks,
+  header .error{
   max-height: 0;
   overflow: hidden;
   -webkit-transition: all 1s cubic-bezier(0.68, -0.55, 0.265, 1.55);
@@ -508,18 +508,18 @@ header .thanks{
   max-width: 36rem;
 }
 
-header .thanks h2{
+header .thanks h2, header .error h2{
   text-align: center;
   margin: 24px;
   margin: 1.5rem;
 }
 
-header .thanks h2 i{
+header .thanks h2 i, header .error h2 i{
   -webkit-animation: 2s ease 0s infinite tada;
           animation: 2s ease 0s infinite tada;
 }
 
-header .thanks p{
+header .thanks p, header .error p{
   margin: 24px;
   margin: 1.5rem;
 }
@@ -553,7 +553,6 @@ header .actions button{
   background-color: #f7f4dc;
   padding: 8px;
   padding: 0.5rem;
-  color: #807e70;
   color: rgba(128, 126, 112, 0.8);
   box-shadow: 0.2rem 0.2rem 0 rgba(51, 51, 51, 0.4);
   text-shadow: 1.6px 1.6px 0 rgba(51, 51, 51, 0.2);
@@ -590,7 +589,7 @@ a.invite-o-matic img{
   transition: all 1s ease-in-out;
 }
 
-a.invite-o-matic:before{
+a.invite-o-matic::before{
   z-index: -1;
   position: absolute;
   left: 50%;
@@ -610,7 +609,7 @@ a.invite-o-matic:hover{
   top: -1.2rem;
 }
 
-a.invite-o-matic:hover:before{
+a.invite-o-matic:hover::before{
   top: 33%;
   left: 66%;
 }
@@ -639,7 +638,6 @@ section.mission h2{
 }
 
 section.mission p{
-  color: #333333;
   color: rgba(51, 51, 51, 0.8);
   text-shadow: 1.6px 1.6px 0 rgba(51, 51, 51, 0.2);
   text-shadow: 0.1rem 0.1rem 0 rgba(51, 51, 51, 0.2);
@@ -744,7 +742,6 @@ div.join p{
 
 li.org {
   background-color: #f7f4dc;
-  color: #333333;
   color: rgba(51, 51, 51, 0.8);
   box-shadow: 0.2rem 0.2rem 0 rgba(51, 51, 51, 0.8);
   text-shadow: 1.6px 1.6px 0 rgba(51, 51, 51, 0.2);
@@ -768,7 +765,6 @@ li.org {
   -webkit-flex: 1 0 352px;
       -ms-flex: 1 0 352px;
           flex: 1 0 352px;
-  -webkit-box-flex: 1;
   -webkit-flex: 1 0 22rem;
       -ms-flex: 1 0 22rem;
           flex: 1 0 22rem
@@ -805,7 +801,6 @@ li.org .info p{
 }
 
 li.org a{
-  color: #333333;
   color: rgba(51, 51, 51, 0.8);
   text-shadow: 1.6px 1.6px 0 rgba(51, 51, 51, 0.2);
   text-shadow: 0.1rem 0.1rem 0 rgba(51, 51, 51, 0.2);
@@ -869,7 +864,6 @@ body.conduct section, body.stickers section{
   padding: 24px;
   padding: 1.5rem;
   background-color: #f7f4dc;
-  color: #333333;
   color: rgba(51, 51, 51, 0.8);
   text-shadow: 1.6px 1.6px 0 rgba(51, 51, 51, 0.2);
   text-shadow: 0.1rem 0.1rem 0 rgba(51, 51, 51, 0.2);
@@ -881,7 +875,6 @@ body.conduct section article, body.stickers section article{
 }
 
 body.conduct section a, body.stickers section a{
-  color: #2f2b2b;
   color: rgba(47, 43, 43, 0.8);
   text-decoration: underline;
 }
