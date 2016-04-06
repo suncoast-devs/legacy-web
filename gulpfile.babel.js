@@ -83,6 +83,7 @@ gulp.task('images', () =>
 
 gulp.task('extras', () =>
   gulp.src([
+    'app/CNAME',
     'app/*.*',
     '!app/*.html',
   ], {

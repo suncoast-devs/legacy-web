@@ -77,53 +77,24 @@ const handleInviteSubmit = (event) => {
   submitButton.innerHTML = '<i class="fa fa-cog loading"></i>';
   submitButton.style.width = preservedWidth;
 
-  // DO INVITE
-  handleInviteError();
-
-  // $.ajax({
-  //     type: "POST",
-  //     url: 'https://' + settings.execute_api_domain + '/production/invite',
-  //     contentType: "application/json",
-  //     dataType: 'json',
-  //     data: JSON.stringify( { email : email_value } ),
-  //     success: function( data ) {
-  //         try {
-  //             data = JSON.parse( data );
-  //             if ( data.ok ) {
-  //                 handle_success( 'Great success' );
-  //             }
-  //             else {
-  //                 handle_error( 'Error while calling API: ' + data.error );
-  //             }
-  //         }
-  //         catch ( error ) {
-  //             handle_error( 'Unknown when parsing API return: ' + error );
-  //         }
-  //     },
-  //     error: function( xhr, status, error ) {
-  //         handle_error( 'Unknown transport error: ' + status + ( error ? ' ' + error : '' ) );
-  //     }
-  // });
-
   try {
     const xhr = new XMLHttpRequest();
     xhr.open('POST', 'https://oouple62r7.execute-api.us-east-1.amazonaws.com/production/invite');
     xhr.setRequestHeader('Content-Type', 'application/json');
+    xhr.responseType = 'json';
     xhr.send(JSON.stringify({
-      email: form.emailAddress,
-      first_name: form.familyName,
-      last_name: form.givenName,
+      email: form.emailAddress.value,
+      first_name: form.familyName.value,
+      last_name: form.givenName.value,
     }));
     xhr.onreadystatechange = () => {
-      if (xhr.readyState === 4) {
-        if (xhr.status === 200) {
+      if (xhr.readyState === 4 && xhr.status === 200) {
+        const data = JSON.parse(xhr.response);
+        if (data.ok) {
           handleInviteSuccess();
         } else {
-          const data = JSON.parse(xhr.responseText);
           handleInviteError(`Error: ${data.error}`);
         }
-      } else {
-        handleInviteError(`XHR Error: ${xhr.status}`);
       }
     };
   } catch (e) {
