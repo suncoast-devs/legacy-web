@@ -56,7 +56,8 @@ body.invite-modal {
     & form {
       max-height: 100vh;
     }
-    & .thanks {
+    & .thanks,
+    & .error {
       max-height: 0;
     }
   }
@@ -74,17 +75,19 @@ body.invite-modal {
   & footer .join {
     transform: translate(0, 120vh);
   }
-  &.thanks {
+  &.thanks,
+  &.error {
     & header {
       & form {
         max-height: 0;
         transition: max-height 0.5s ease-out;
       }
-      & .thanks {
-        max-height: 100vh;
-        transition: max-height 1s cubic-bezier(0.68, -0.55, 0.265, 1.55) 0.5s;
-      }
     }
+  }
+  &.thanks .thanks,
+  &.error .error {
+    max-height: 100vh;
+    transition: max-height 1s cubic-bezier(0.68, -0.55, 0.265, 1.55) 0.5s;
   }
 }
 
@@ -220,7 +223,8 @@ header {
       text-shadow: none;
     }
   }
-  & .thanks {
+  & .thanks,
+  & .error {
     max-height: 0;
     overflow: hidden;
     transition: all 1s cubic-bezier(0.68, -0.55, 0.265, 1.55);
