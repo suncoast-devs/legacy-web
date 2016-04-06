@@ -1,0 +1,33 @@
+{
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/serverless-slack-invite-api-0.0.3.tgz_1458787721593_0.3446207186207175"
+  },
+  "author": {
+    "name": "Antti Vähäkotamäki",
+    "url": "https://github.com/amv"
+  },
+  "bugs": {
+    "url": "https://github.com/amv/serverless-slack-invite-api/issues"
+  },
+  "dependencies": {
+    "serverless": "0.4.2",
+    "serverless-cors-plugin": "^0.3.1"
+  },
+  "description": "Serverless API for inviting people to Slack",
+  "devDependencies": {},
+  "homepage": "https://github.com/amv/serverless-slack-invite-api#readme",
+  "license": "MIT",
+  "main": " ",
+  "name": "serverless-slack-invite-api",
+  "optionalDependencies": {},
+  "private": false,
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/amv/serverless-slack-invite-api.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.0.3"
+}

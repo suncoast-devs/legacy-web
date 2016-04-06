@@ -1,0 +1,6 @@
+{
+  "region": "us-east-1",
+  "resourcesStackName": "serverless-slack-invite-api-production-r",
+  "iamRoleArnLambda": "arn:aws:iam::948143726170:role/serverless-slack-invite-api-producti-IamRoleLambda-V8XPYA6OKO9F",
+  "apiGatewayApi": "serverless-slack-invite-api"
+}
