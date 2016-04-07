@@ -21,6 +21,7 @@ estimates = [
   St-Pete-NET-Meetup
   tampa-nodejs
   TampaUnity3D
+  WomenInLinux
   suncoast-devs
   CoderNight
   GeekLunch
