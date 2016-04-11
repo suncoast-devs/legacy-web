@@ -393,6 +393,8 @@ li.org {
   flex: 1 0 22rem;
   & img {
     margin: 0.5rem;
+    max-width: 80px;
+    max-height: 80px;
   }
   & .info {
     display: flex;
