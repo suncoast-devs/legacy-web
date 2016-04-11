@@ -773,6 +773,8 @@ li.org {
 li.org img{
   margin: 8px;
   margin: 0.5rem;
+  max-width: 80px;
+  max-height: 80px;
 }
 
 li.org .info{
