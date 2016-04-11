@@ -22,6 +22,7 @@ estimates = [
   tampa-nodejs
   TampaUnity3D
   WomenInLinux
+  Mil-OSS-at-SOFWERX
   suncoast-devs
   CoderNight
   GeekLunch
@@ -31,7 +32,11 @@ estimates = [
   open("https://api.meetup.com/#{urlname}?key=#{ENV['MEETUP_API_KEY']}") do |io|
     group = JSON.parse(io.read)
     members = ((group['members'].to_f / UPTO).ceil) * UPTO
-    thumb_url = group['group_photo'] ? group['group_photo']['thumb_link'] : group['photos'][0]['thumb_link']
+    thumb_url = if group['group_photo']
+      group['group_photo']['thumb_link']
+    elsif group['photos']
+      group['photos'][0]['thumb_link']
+    end
     puts <<-EOF
           <li class="org">
             <img src="#{thumb_url}" alt="#{group['name']} Image"/>
