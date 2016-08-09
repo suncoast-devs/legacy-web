@@ -28,8 +28,9 @@ estimates = [
   GeekLunch
   Clearwater-Dunedin-Geek-Breakfast
   GameCreators
-  Data-Scientists-Tampa-Bay
   python-178
+  Data-Scientists-Tampa-Bay
+  Sarasota-Web-Development-Meetup-Group
 ].each do |urlname|
   open("https://api.meetup.com/#{urlname}?key=#{ENV['MEETUP_API_KEY']}") do |io|
     group = JSON.parse(io.read)
