@@ -31,6 +31,8 @@ estimates = [
   python-178
   Data-Scientists-Tampa-Bay
   Sarasota-Web-Development-Meetup-Group
+  Code-Katas
+  ReactJS-Tampa-Bay
 ].each do |urlname|
   open("https://api.meetup.com/#{urlname}?key=#{ENV['MEETUP_API_KEY']}") do |io|
     group = JSON.parse(io.read)
