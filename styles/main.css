@@ -1,10 +1,10 @@
-/*! normalize.css v4.0.0 | MIT License | github.com/necolas/normalize.css */
+/*! normalize.css v4.1.1 | MIT License | github.com/necolas/normalize.css */
 
 progress,sub,sup{
   vertical-align: baseline;
 }
 
-button,hr,input,select{
+button,hr,input{
   overflow: visible;
 }
 
@@ -15,6 +15,7 @@ button,hr,input,select{
 
 html{
   font-family: sans-serif;
+  line-height: 1.15;
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
 }
@@ -42,6 +43,7 @@ audio:not([controls]){
 
 a{
   background-color: transparent;
+  -webkit-text-decoration-skip: objects;
 }
 
 a:active,a:hover{
@@ -112,7 +114,7 @@ hr{
   height: 0;
 }
 
-button,input,select,textarea{
+button,input,optgroup,select,textarea{
   font: inherit;
   margin: 0;
 }
@@ -125,24 +127,16 @@ button,select{
   text-transform: none;
 }
 
-[type=button],[type=reset],[type=submit],button{
-  cursor: pointer;
-}
-
-[disabled]{
-  cursor: default;
-}
-
 [type=reset],[type=submit],button,html [type=button]{
   -webkit-appearance: button;
 }
 
-button::-moz-focus-inner,input::-moz-focus-inner{
-  border: 0;
+[type=button]::-moz-focus-inner,[type=reset]::-moz-focus-inner,[type=submit]::-moz-focus-inner,button::-moz-focus-inner{
+  border-style: none;
   padding: 0;
 }
 
-button:-moz-focusring,input:-moz-focusring{
+[type=button]:-moz-focusring,[type=reset]:-moz-focusring,[type=submit]:-moz-focusring,button:-moz-focusring{
   outline: ButtonText dotted 1px;
 }
 
@@ -169,10 +163,21 @@ textarea{
 
 [type=search]{
   -webkit-appearance: textfield;
+  outline-offset: -2px;
 }
 
 [type=search]::-webkit-search-cancel-button,[type=search]::-webkit-search-decoration{
   -webkit-appearance: none;
+}
+
+::-webkit-input-placeholder{
+  color: inherit;
+  opacity: .54;
+}
+
+::-webkit-file-upload-button{
+  -webkit-appearance: button;
+  font: inherit;
 }
 
 @charset "utf-8";
@@ -188,12 +193,10 @@ body {
   font-family: "Overlock", serif;
   font-size: 1.5em;
   display: -webkit-box;
-  display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
   -webkit-box-orient: vertical;
   -webkit-box-direction: normal;
-  -webkit-flex-direction: column;
       -ms-flex-direction: column;
           flex-direction: column;
   min-height: 100vh;
@@ -300,7 +303,6 @@ main {
   padding: 24px;
   padding: 1.5rem;
   -webkit-box-flex: 1;
-  -webkit-flex-grow: 1;
       -ms-flex-positive: 1;
           flex-grow: 1;
   -webkit-transition: all 1s ease;
@@ -348,16 +350,13 @@ header {
   position: relative;
   top: 0;
   display: -webkit-box;
-  display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
   -webkit-box-orient: vertical;
   -webkit-box-direction: normal;
-  -webkit-flex-direction: column;
       -ms-flex-direction: column;
           flex-direction: column;
   -webkit-box-align: center;
-  -webkit-align-items: center;
       -ms-flex-align: center;
           align-items: center;
   padding: 24px 24px 0;
@@ -366,7 +365,6 @@ header {
 
 header h1{
   -webkit-box-flex: 1;
-  -webkit-flex: 1 1 auto;
       -ms-flex: 1 1 auto;
           flex: 1 1 auto;
   background: url("../images/h1.svg") no-repeat center 50%;
@@ -397,19 +395,15 @@ header form{
   text-shadow: 1.6px 1.6px 0 rgba(51, 51, 51, 0.2);
   text-shadow: 0.1rem 0.1rem 0 rgba(51, 51, 51, 0.2);
   display: -webkit-box;
-  display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
   -webkit-box-pack: center;
-  -webkit-justify-content: center;
       -ms-flex-pack: center;
           justify-content: center;
-  -webkit-align-content: center;
-      -ms-flex-line-pack: center;
-          align-content: center;
+  -ms-flex-line-pack: center;
+      align-content: center;
   -webkit-box-orient: vertical;
   -webkit-box-direction: normal;
-  -webkit-flex-direction: column;
       -ms-flex-direction: column;
           flex-direction: column;
 }
@@ -527,20 +521,16 @@ header .thanks p, header .error p{
 header .actions{
   padding: 0;
   display: -webkit-box;
-  display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
   -webkit-box-orient: horizontal;
   -webkit-box-direction: reverse;
-  -webkit-flex-direction: row-reverse;
       -ms-flex-direction: row-reverse;
           flex-direction: row-reverse;
-  -webkit-justify-content: space-around;
-      -ms-flex-pack: distribute;
-          justify-content: space-around;
-  -webkit-flex-wrap: wrap;
-      -ms-flex-wrap: wrap;
-          flex-wrap: wrap;
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
   padding: 0 0 24px;
   padding: 0 0 1.5rem;
 }
@@ -647,14 +637,11 @@ section.mission p{
 section.logo {
   background-image: url("../images/logo-bg.svg");
   display: -webkit-box;
-  display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
-  -webkit-align-content: center;
-      -ms-flex-line-pack: center;
-          align-content: center;
+  -ms-flex-line-pack: center;
+      align-content: center;
   -webkit-box-pack: center;
-  -webkit-justify-content: center;
       -ms-flex-pack: center;
           justify-content: center
 }
@@ -695,14 +682,11 @@ section.organizations h2{
 
 section.organizations ul{
   display: -webkit-box;
-  display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
-  -webkit-flex-wrap: wrap;
-      -ms-flex-wrap: wrap;
-          flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
   -webkit-box-align: start;
-  -webkit-align-items: flex-start;
       -ms-flex-align: start;
           align-items: flex-start;
   padding: 0;
@@ -747,27 +731,22 @@ li.org {
   text-shadow: 1.6px 1.6px 0 rgba(51, 51, 51, 0.2);
   text-shadow: 0.1rem 0.1rem 0 rgba(51, 51, 51, 0.2);
   display: -webkit-box;
-  display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
   -webkit-box-orient: horizontal;
   -webkit-box-direction: normal;
-  -webkit-flex-direction: row;
       -ms-flex-direction: row;
           flex-direction: row;
   -webkit-box-align: start;
-  -webkit-align-items: flex-start;
       -ms-flex-align: start;
           align-items: flex-start;
   min-height: 96px;
   min-height: 6rem;
   -webkit-box-flex: 1;
-  -webkit-flex: 1 0 352px;
       -ms-flex: 1 0 352px;
           flex: 1 0 352px;
-  -webkit-flex: 1 0 22rem;
-      -ms-flex: 1 0 22rem;
-          flex: 1 0 22rem
+  -ms-flex: 1 0 22rem;
+      flex: 1 0 22rem
 }
 
 li.org img{
@@ -779,12 +758,10 @@ li.org img{
 
 li.org .info{
   display: -webkit-box;
-  display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
   -webkit-box-orient: vertical;
   -webkit-box-direction: normal;
-  -webkit-flex-direction: column;
       -ms-flex-direction: column;
           flex-direction: column;
 }
