@@ -1,5 +1,8 @@
 # Suncoast Developers Guild
 
+[![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 A website.
 
 ### Organization List
@@ -18,3 +21,7 @@ Pull-requests welcome!
 
 - Setup fav icons
 - Umm...
+
+## License
+
+The content of this project itself is licensed under the [Creative Commons Attribution Share Alike 4.0 license](https://creativecommons.org/licenses/by-sa/4.0/), and the underlying source code used to format and display that content is licensed under the [MIT license](http://opensource.org/licenses/mit-license.php).
