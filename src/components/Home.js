@@ -56,12 +56,12 @@ class Home extends Component {
             <ul>
               <li className="org">
                 <img
-                  src="http://photos1.meetupstatic.com/photos/event/1/8/4/a/thumb_440826218.jpeg"
+                  src="https://photos1.meetupstatic.com/photos/event/1/8/4/a/thumb_440826218.jpeg"
                   alt="The Tampa Ruby Brigade"
                 />
                 <div className="info">
                   <h3>
-                    <a href="http://www.meetup.com/tampa-rb/">
+                    <a href="https://www.meetup.com/tampa-rb/">
                       The Tampa Ruby Brigade
                     </a>
                   </h3>
@@ -70,24 +70,26 @@ class Home extends Component {
               </li>
               <li className="org">
                 <img
-                  src="http://photos1.meetupstatic.com/photos/event/d/8/e/2/thumb_185755522.jpeg"
+                  src="https://photos1.meetupstatic.com/photos/event/d/8/e/2/thumb_185755522.jpeg"
                   alt="Suncoast.js"
                 />
                 <div className="info">
                   <h3>
-                    <a href="http://www.meetup.com/suncoast-js/">Suncoast.js</a>
+                    <a href="https://www.meetup.com/suncoast-js/">
+                      Suncoast.js
+                    </a>
                   </h3>
                   <p>in the ballpark of 620 JavaScript Developers</p>
                 </div>
               </li>
               <li className="org">
                 <img
-                  src="http://photos4.meetupstatic.com/photos/event/d/d/b/e/thumb_16616766.jpeg"
+                  src="https://photos4.meetupstatic.com/photos/event/d/d/b/e/thumb_16616766.jpeg"
                   alt="Front-End Design Meetup"
                 />
                 <div className="info">
                   <h3>
-                    <a href="http://www.meetup.com/Front-End-Design/">
+                    <a href="https://www.meetup.com/Front-End-Design/">
                       Front-End Design Meetup
                     </a>
                   </h3>
@@ -96,12 +98,12 @@ class Home extends Component {
               </li>
               <li className="org">
                 <img
-                  src="http://photos1.meetupstatic.com/photos/event/a/9/f/2/thumb_448123506.jpeg"
+                  src="https://photos1.meetupstatic.com/photos/event/a/9/f/2/thumb_448123506.jpeg"
                   alt="NodeSchool St. Petersburg"
                 />
                 <div className="info">
                   <h3>
-                    <a href="http://www.meetup.com/NodeSchool-St-Petersburg/">
+                    <a href="https://www.meetup.com/NodeSchool-St-Petersburg/">
                       NodeSchool St. Petersburg
                     </a>
                   </h3>
@@ -110,12 +112,12 @@ class Home extends Component {
               </li>
               <li className="org">
                 <img
-                  src="http://photos2.meetupstatic.com/photos/event/4/1/9/4/thumb_431476788.jpeg"
+                  src="https://photos2.meetupstatic.com/photos/event/4/1/9/4/thumb_431476788.jpeg"
                   alt="The Iron Yard - Tampa Bay"
                 />
                 <div className="info">
                   <h3>
-                    <a href="http://www.meetup.com/The-Iron-Yard-Tampa-Bay/">
+                    <a href="https://www.meetup.com/The-Iron-Yard-Tampa-Bay/">
                       The Iron Yard - Tampa Bay
                     </a>
                   </h3>
@@ -124,12 +126,12 @@ class Home extends Component {
               </li>
               <li className="org">
                 <img
-                  src="http://photos4.meetupstatic.com/photos/event/8/7/a/c/thumb_436114732.jpeg"
+                  src="https://photos4.meetupstatic.com/photos/event/8/7/a/c/thumb_436114732.jpeg"
                   alt="Girl Develop It Tampa Bay"
                 />
                 <div className="info">
                   <h3>
-                    <a href="http://www.meetup.com/Girl-Develop-It-Tampa-Bay/">
+                    <a href="https://www.meetup.com/Girl-Develop-It-Tampa-Bay/">
                       Girl Develop It Tampa Bay
                     </a>
                   </h3>
@@ -138,12 +140,12 @@ class Home extends Component {
               </li>
               <li className="org">
                 <img
-                  src="http://photos2.meetupstatic.com/photos/event/3/a/a/9/thumb_443175017.jpeg"
+                  src="https://photos2.meetupstatic.com/photos/event/3/a/a/9/thumb_443175017.jpeg"
                   alt="Tampa iOS Meetup"
                 />
                 <div className="info">
                   <h3>
-                    <a href="http://www.meetup.com/Tampa-iOS-Meetup/">
+                    <a href="https://www.meetup.com/Tampa-iOS-Meetup/">
                       Tampa iOS Meetup
                     </a>
                   </h3>
@@ -152,12 +154,12 @@ class Home extends Component {
               </li>
               <li className="org">
                 <img
-                  src="http://photos1.meetupstatic.com/photos/event/1/e/5/3/thumb_445147763.jpeg"
+                  src="https://photos1.meetupstatic.com/photos/event/1/e/5/3/thumb_445147763.jpeg"
                   alt="St Pete .NET Meetup"
                 />
                 <div className="info">
                   <h3>
-                    <a href="http://www.meetup.com/St-Pete-NET-Meetup/">
+                    <a href="https://www.meetup.com/St-Pete-NET-Meetup/">
                       St Pete .NET Meetup
                     </a>
                   </h3>
@@ -166,12 +168,12 @@ class Home extends Component {
               </li>
               <li className="org">
                 <img
-                  src="http://photos2.meetupstatic.com/photos/event/6/5/e/c/thumb_402806092.jpeg"
+                  src="https://photos2.meetupstatic.com/photos/event/6/5/e/c/thumb_402806092.jpeg"
                   alt="Tampa NodeJS"
                 />
                 <div className="info">
                   <h3>
-                    <a href="http://www.meetup.com/tampa-nodejs/">
+                    <a href="https://www.meetup.com/tampa-nodejs/">
                       Tampa NodeJS
                     </a>
                   </h3>
@@ -180,12 +182,12 @@ class Home extends Component {
               </li>
               <li className="org">
                 <img
-                  src="http://photos2.meetupstatic.com/photos/event/a/6/8/c/thumb_440922636.jpeg"
+                  src="https://photos2.meetupstatic.com/photos/event/a/6/8/c/thumb_440922636.jpeg"
                   alt="Clearwater / St Petersburg Unity User Group"
                 />
                 <div className="info">
                   <h3>
-                    <a href="http://www.meetup.com/TampaUnity3D/">
+                    <a href="https://www.meetup.com/TampaUnity3D/">
                       Clearwater / St Petersburg Unity User Group
                     </a>
                   </h3>
@@ -196,7 +198,7 @@ class Home extends Component {
                 <img src="" alt="Women In Linux" />
                 <div className="info">
                   <h3>
-                    <a href="http://www.meetup.com/WomenInLinux/">
+                    <a href="https://www.meetup.com/WomenInLinux/">
                       Women In Linux
                     </a>
                   </h3>
@@ -206,12 +208,12 @@ class Home extends Component {
 
               <li className="org">
                 <img
-                  src="http://photos1.meetupstatic.com/photos/event/7/9/9/f/thumb_441811135.jpeg"
+                  src="https://photos1.meetupstatic.com/photos/event/7/9/9/f/thumb_441811135.jpeg"
                   alt="The Suncoast Developers Guild"
                 />
                 <div className="info">
                   <h3>
-                    <a href="http://www.meetup.com/suncoast-devs/">
+                    <a href="https://www.meetup.com/suncoast-devs/">
                       The Suncoast Developers Guild
                     </a>
                   </h3>
@@ -220,36 +222,36 @@ class Home extends Component {
               </li>
               <li className="org">
                 <img
-                  src="http://photos1.meetupstatic.com/photos/event/c/0/thumb_441180192.jpeg"
+                  src="https://photos1.meetupstatic.com/photos/event/c/0/thumb_441180192.jpeg"
                   alt="CoderNight"
                 />
                 <div className="info">
                   <h3>
-                    <a href="http://www.meetup.com/CoderNight/">CoderNight</a>
+                    <a href="https://www.meetup.com/CoderNight/">CoderNight</a>
                   </h3>
                   <p>pretty near 280 Developers</p>
                 </div>
               </li>
               <li className="org">
                 <img
-                  src="http://photos1.meetupstatic.com/photos/event/a/3/a/4/thumb_97841892.jpeg"
+                  src="https://photos1.meetupstatic.com/photos/event/a/3/a/4/thumb_97841892.jpeg"
                   alt="Geek Lunch"
                 />
                 <div className="info">
                   <h3>
-                    <a href="http://www.meetup.com/GeekLunch/">Geek Lunch</a>
+                    <a href="https://www.meetup.com/GeekLunch/">Geek Lunch</a>
                   </h3>
                   <p>not quite 160 Geeks</p>
                 </div>
               </li>
               <li className="org">
                 <img
-                  src="http://photos4.meetupstatic.com/photos/event/2/6/1/e/thumb_435309758.jpeg"
+                  src="https://photos4.meetupstatic.com/photos/event/2/6/1/e/thumb_435309758.jpeg"
                   alt="Clearwater/Dunedin Geek Breakfast"
                 />
                 <div className="info">
                   <h3>
-                    <a href="http://www.meetup.com/Clearwater-Dunedin-Geek-Breakfast/">
+                    <a href="https://www.meetup.com/Clearwater-Dunedin-Geek-Breakfast/">
                       Clearwater/Dunedin Geek Breakfast
                     </a>
                   </h3>
@@ -258,12 +260,12 @@ class Home extends Component {
               </li>
               <li className="org">
                 <img
-                  src="http://photos2.meetupstatic.com/photos/event/5/b/9/1/thumb_437183441.jpeg"
+                  src="https://photos2.meetupstatic.com/photos/event/5/b/9/1/thumb_437183441.jpeg"
                   alt="Suncoast Game Creators"
                 />
                 <div className="info">
                   <h3>
-                    <a href="http://www.meetup.com/GameCreators/">
+                    <a href="https://www.meetup.com/GameCreators/">
                       Suncoast Game Creators
                     </a>
                   </h3>
@@ -272,12 +274,12 @@ class Home extends Component {
               </li>
               <li className="org">
                 <img
-                  src="http://photos4.meetupstatic.com/photos/event/7/3/3/e/thumb_85169502.jpeg"
+                  src="https://photos4.meetupstatic.com/photos/event/7/3/3/e/thumb_85169502.jpeg"
                   alt="The Tampa Bay Python Meetup Group"
                 />
                 <div className="info">
                   <h3>
-                    <a href="http://www.meetup.com/python-178/">
+                    <a href="https://www.meetup.com/python-178/">
                       The Tampa Bay Python Meetup Group
                     </a>
                   </h3>
@@ -286,12 +288,12 @@ class Home extends Component {
               </li>
               <li className="org">
                 <img
-                  src="http://photos3.meetupstatic.com/photos/event/2/9/8/a/thumb_449890634.jpeg"
+                  src="https://photos3.meetupstatic.com/photos/event/2/9/8/a/thumb_449890634.jpeg"
                   alt="Tampa Bay Data Science Group"
                 />
                 <div className="info">
                   <h3>
-                    <a href="http://www.meetup.com/Data-Scientists-Tampa-Bay/">
+                    <a href="https://www.meetup.com/Data-Scientists-Tampa-Bay/">
                       Tampa Bay Data Science Group
                     </a>
                   </h3>
@@ -300,12 +302,12 @@ class Home extends Component {
               </li>
               <li className="org">
                 <img
-                  src="http://photos1.meetupstatic.com/photos/event/1/7/9/1/thumb_20106033.jpeg"
+                  src="https://photos1.meetupstatic.com/photos/event/1/7/9/1/thumb_20106033.jpeg"
                   alt="Sarasota Web Development Meetup Group"
                 />
                 <div className="info">
                   <h3>
-                    <a href="http://www.meetup.com/Sarasota-Web-Development-Meetup-Group/">
+                    <a href="https://www.meetup.com/Sarasota-Web-Development-Meetup-Group/">
                       Sarasota Web Development Meetup Group
                     </a>
                   </h3>
@@ -314,24 +316,24 @@ class Home extends Component {
               </li>
               <li className="org">
                 <img
-                  src="http://photos2.meetupstatic.com/photos/event/5/f/8/e/thumb_453024462.jpeg"
+                  src="https://photos2.meetupstatic.com/photos/event/5/f/8/e/thumb_453024462.jpeg"
                   alt="Code Katas"
                 />
                 <div className="info">
                   <h3>
-                    <a href="http://www.meetup.com/Code-Katas/">Code Katas</a>
+                    <a href="https://www.meetup.com/Code-Katas/">Code Katas</a>
                   </h3>
                   <p>more or less 80 Code Ninjas</p>
                 </div>
               </li>
               <li className="org">
                 <img
-                  src="http://photos2.meetupstatic.com/photos/event/c/7/6/6/thumb_449391046.jpeg"
+                  src="https://photos2.meetupstatic.com/photos/event/c/7/6/6/thumb_449391046.jpeg"
                   alt="ReactJS Tampa Bay"
                 />
                 <div className="info">
                   <h3>
-                    <a href="http://www.meetup.com/ReactJS-Tampa-Bay/">
+                    <a href="https://www.meetup.com/ReactJS-Tampa-Bay/">
                       ReactJS Tampa Bay
                     </a>
                   </h3>
@@ -340,12 +342,12 @@ class Home extends Component {
               </li>
               <li className="org">
                 <img
-                  src="http://photos1.meetupstatic.com/photos/event/5/2/f/3/thumb_454161235.jpeg"
+                  src="https://photos1.meetupstatic.com/photos/event/5/2/f/3/thumb_454161235.jpeg"
                   alt="PyStPete"
                 />
                 <div className="info">
                   <h3>
-                    <a href="http://www.meetup.com/Saint-Petersburg-Python-Meetup/">
+                    <a href="https://www.meetup.com/Saint-Petersburg-Python-Meetup/">
                       PyStPete
                     </a>
                   </h3>
