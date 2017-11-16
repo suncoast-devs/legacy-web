@@ -1,6 +1,0 @@
-{
-  "project": "serverless-slack-invite-api",
-  "projectBucket": "serverless.us-east-1.suncoast.io",
-  "domain": "suncoast.io",
-  "notificationEmail": "jason@suncoast.io"
-}
