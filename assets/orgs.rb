@@ -35,6 +35,7 @@ estimates = [
   ReactJS-Tampa-Bay
   Saint-Petersburg-Python-Meetup
   Tampa-Bay-WordPress
+  Laravel
 ].each do |urlname|
   open("https://api.meetup.com/#{urlname}?key=#{ENV['MEETUP_API_KEY']}") do |io|
     group = JSON.parse(io.read)
