@@ -14,10 +14,10 @@ class Stickers extends Component {
               <h1>Stickers!</h1>
 
               <p>
-                Buy stickers from
+                Buy stickers from{' '}
                 <a href="https://www.stickermule.com/unlock?ref_id=0081760701">
                   Sticker Mule
-                </a>
+                </a>{' '}
                 and support the Suncoast Developers Guild.
               </p>
 
@@ -27,7 +27,7 @@ class Stickers extends Component {
                     alt="Custom Stickers, Die Cut Stickers, Bumper Stickers - Sticker Mule"
                     border="0"
                     height="60"
-                    src="https://d3g919u5f14ld1.cloudfront.net/assets/images/stores/sticker_mule/banners/small-90e5f242.jpg"
+                    src="https://d3g919u5f14ld1.cloudfront.net/assets/images/stores/sticker_mule/banners/small-90e5f24277.jpg"
                     width="234"
                   />
                 </a>
@@ -70,7 +70,7 @@ class Stickers extends Component {
         </main>
         <footer>
           <div className="copywrite">
-            &copy; 2016 Suncoast Developers Guild
+            &copy; 2017 Suncoast Developers Guild
             <i className="fa fa-meetup" />
           </div>
         </footer>

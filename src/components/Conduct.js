@@ -35,7 +35,7 @@ class Conduct extends Component {
         </main>
         <footer>
           <div className="copywrite">
-            &copy; 2016 Suncoast Developers Guild
+            &copy; 2017 Suncoast Developers Guild
             <i className="fa fa-meetup" />
           </div>
         </footer>
