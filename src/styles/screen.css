@@ -584,6 +584,7 @@ li.org img {
   margin: 0.5rem;
   max-width: 80px;
   max-height: 80px;
+  align-self: center;
 }
 
 li.org .info {

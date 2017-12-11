@@ -1,0 +1,2141 @@
+[
+  {
+    "id": 275634,
+    "name": "The Tampa Ruby Brigade",
+    "status": "active",
+    "link": "https://www.meetup.com/tampa-rb/",
+    "urlname": "tampa-rb",
+    "description":
+      "<p>Curious about Ruby? Into web development and want to improve your technique, do things faster and cleaner? Want to learn more and meet others thinking along the same lines in the Tampa Bay area? If so, this is the place.</p>",
+    "created": 1151871503000,
+    "city": "Tampa",
+    "country": "US",
+    "localized_country_name": "USA",
+    "localized_location": "Tampa, FL",
+    "state": "FL",
+    "join_mode": "open",
+    "visibility": "public",
+    "lat": 27.92,
+    "lon": -82.51,
+    "members": 816,
+    "organizer": {
+      "id": 2975923,
+      "name": "Jason Perry",
+      "bio":
+        "Jason is a native Floridian, software developer, and game development enthusiast. I also like LEGO and pandas. Yes, I just switched grammatical perspective in the middle of his bio.",
+      "photo": {
+        "id": 242219002,
+        "highres_link":
+          "https://secure.meetupstatic.com/photos/member/e/6/7/a/highres_242219002.jpeg",
+        "photo_link":
+          "https://secure.meetupstatic.com/photos/member/e/6/7/a/member_242219002.jpeg",
+        "thumb_link":
+          "https://secure.meetupstatic.com/photos/member/e/6/7/a/thumb_242219002.jpeg",
+        "type": "member",
+        "base_url": "https://secure.meetupstatic.com"
+      }
+    },
+    "who": "Rubyists",
+    "group_photo": {
+      "id": 440826218,
+      "highres_link":
+        "https://secure.meetupstatic.com/photos/event/1/8/4/a/highres_440826218.jpeg",
+      "photo_link":
+        "https://secure.meetupstatic.com/photos/event/1/8/4/a/600_440826218.jpeg",
+      "thumb_link":
+        "https://secure.meetupstatic.com/photos/event/1/8/4/a/thumb_440826218.jpeg",
+      "type": "event",
+      "base_url": "https://secure.meetupstatic.com"
+    },
+    "key_photo": {
+      "id": 434480359,
+      "highres_link":
+        "https://secure.meetupstatic.com/photos/event/4/f/8/7/highres_434480359.jpeg",
+      "photo_link":
+        "https://secure.meetupstatic.com/photos/event/4/f/8/7/600_434480359.jpeg",
+      "thumb_link":
+        "https://secure.meetupstatic.com/photos/event/4/f/8/7/thumb_434480359.jpeg",
+      "type": "event",
+      "base_url": "https://secure.meetupstatic.com"
+    },
+    "timezone": "US/Eastern",
+    "next_event": {
+      "id": "pqqgflywqbcc",
+      "name": "Tampa.rb: Annual Holiday Party!",
+      "yes_rsvp_count": 12,
+      "time": 1513296000000,
+      "utc_offset": -18000000
+    },
+    "category": {
+      "id": 34,
+      "name": "Tech",
+      "shortname": "tech",
+      "sort_name": "Tech"
+    },
+    "meta_category": {
+      "id": 292,
+      "shortname": "tech",
+      "name": "Tech",
+      "sort_name": "Tech",
+      "photo": {
+        "id": 450131949,
+        "highres_link":
+          "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
+        "photo_link":
+          "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
+        "thumb_link":
+          "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
+        "type": "event",
+        "base_url": "https://secure.meetupstatic.com"
+      },
+      "category_ids": [34]
+    },
+    "pro_network": {
+      "name": "Tampa Bay Tech",
+      "urlname": "tampabaytech",
+      "number_of_groups": 41,
+      "network_url": "https://www.meetup.com/pro/tampabaytech/"
+    }
+  },
+  {
+    "id": 6007472,
+    "name": "Suncoast.js",
+    "status": "active",
+    "link": "https://www.meetup.com/suncoast-js/",
+    "urlname": "suncoast-js",
+    "description":
+      "<p>A group for Tampa bay area JavaScript developers.</p>\n<p>Code of Conduct:&nbsp;<a href=\"https://github.com/suncoast-devs/code-of-conduct/blob/master/code-of-conduct.md\" class=\"linkified\">https://github.com/suncoast-devs/code-of-co...</a></p>",
+    "created": 1353967741000,
+    "city": "Saint Petersburg",
+    "country": "US",
+    "localized_country_name": "USA",
+    "localized_location": "Saint Petersburg, FL",
+    "state": "FL",
+    "join_mode": "open",
+    "visibility": "public",
+    "lat": 27.79,
+    "lon": -82.73,
+    "members": 824,
+    "organizer": {
+      "id": 20198871,
+      "name": "Julián Duque",
+      "bio": "Developer and Educator by Passion",
+      "photo": {
+        "id": 254630482,
+        "highres_link":
+          "https://secure.meetupstatic.com/photos/member/c/5/3/2/highres_254630482.jpeg",
+        "photo_link":
+          "https://secure.meetupstatic.com/photos/member/c/5/3/2/member_254630482.jpeg",
+        "thumb_link":
+          "https://secure.meetupstatic.com/photos/member/c/5/3/2/thumb_254630482.jpeg",
+        "type": "member",
+        "base_url": "https://secure.meetupstatic.com"
+      }
+    },
+    "who": "JavaScript Developers",
+    "group_photo": {
+      "id": 185755522,
+      "highres_link":
+        "https://secure.meetupstatic.com/photos/event/d/8/e/2/highres_185755522.jpeg",
+      "photo_link":
+        "https://secure.meetupstatic.com/photos/event/d/8/e/2/600_185755522.jpeg",
+      "thumb_link":
+        "https://secure.meetupstatic.com/photos/event/d/8/e/2/thumb_185755522.jpeg",
+      "type": "event",
+      "base_url": "https://secure.meetupstatic.com"
+    },
+    "key_photo": {
+      "id": 440562456,
+      "highres_link":
+        "https://secure.meetupstatic.com/photos/event/a/5/d/8/highres_440562456.jpeg",
+      "photo_link":
+        "https://secure.meetupstatic.com/photos/event/a/5/d/8/600_440562456.jpeg",
+      "thumb_link":
+        "https://secure.meetupstatic.com/photos/event/a/5/d/8/thumb_440562456.jpeg",
+      "type": "event",
+      "base_url": "https://secure.meetupstatic.com"
+    },
+    "timezone": "US/Eastern",
+    "category": {
+      "id": 34,
+      "name": "Tech",
+      "shortname": "tech",
+      "sort_name": "Tech"
+    },
+    "meta_category": {
+      "id": 292,
+      "shortname": "tech",
+      "name": "Tech",
+      "sort_name": "Tech",
+      "photo": {
+        "id": 450131949,
+        "highres_link":
+          "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
+        "photo_link":
+          "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
+        "thumb_link":
+          "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
+        "type": "event",
+        "base_url": "https://secure.meetupstatic.com"
+      },
+      "category_ids": [34]
+    },
+    "pro_network": {
+      "name": "Tampa Bay Tech",
+      "urlname": "tampabaytech",
+      "number_of_groups": 41,
+      "network_url": "https://www.meetup.com/pro/tampabaytech/"
+    }
+  },
+  {
+    "id": 1676402,
+    "name": "Front-End Design Meetup",
+    "status": "active",
+    "link": "https://www.meetup.com/Front-End-Design/",
+    "urlname": "Front-End-Design",
+    "description":
+      "<p>Shop talk. Tutorials. A chance to teach and learn from our fellow front-enders.</p>",
+    "created": 1279301149000,
+    "city": "Saint Petersburg",
+    "country": "US",
+    "localized_country_name": "USA",
+    "localized_location": "Saint Petersburg, FL",
+    "state": "FL",
+    "join_mode": "open",
+    "visibility": "public",
+    "lat": 27.77,
+    "lon": -82.64,
+    "members": 1202,
+    "organizer": {
+      "id": 7641489,
+      "name": "Tim Knight",
+      "bio": "",
+      "photo": {
+        "id": 256499951,
+        "highres_link":
+          "https://secure.meetupstatic.com/photos/member/e/a/2/f/highres_256499951.jpeg",
+        "photo_link":
+          "https://secure.meetupstatic.com/photos/member/e/a/2/f/member_256499951.jpeg",
+        "thumb_link":
+          "https://secure.meetupstatic.com/photos/member/e/a/2/f/thumb_256499951.jpeg",
+        "type": "member",
+        "base_url": "https://secure.meetupstatic.com"
+      }
+    },
+    "who": "Front-Enders",
+    "group_photo": {
+      "id": 16616766,
+      "highres_link":
+        "https://secure.meetupstatic.com/photos/event/d/d/b/e/highres_16616766.jpeg",
+      "photo_link":
+        "https://secure.meetupstatic.com/photos/event/d/d/b/e/600_16616766.jpeg",
+      "thumb_link":
+        "https://secure.meetupstatic.com/photos/event/d/d/b/e/thumb_16616766.jpeg",
+      "type": "event",
+      "base_url": "https://secure.meetupstatic.com"
+    },
+    "key_photo": {
+      "id": 446769501,
+      "highres_link":
+        "https://secure.meetupstatic.com/photos/event/2/5/1/d/highres_446769501.jpeg",
+      "photo_link":
+        "https://secure.meetupstatic.com/photos/event/2/5/1/d/600_446769501.jpeg",
+      "thumb_link":
+        "https://secure.meetupstatic.com/photos/event/2/5/1/d/thumb_446769501.jpeg",
+      "type": "event",
+      "base_url": "https://secure.meetupstatic.com"
+    },
+    "timezone": "US/Eastern",
+    "next_event": {
+      "id": "245504739",
+      "name": "Dev Meetup Holiday Party!",
+      "yes_rsvp_count": 18,
+      "time": 1513296000000,
+      "utc_offset": -18000000
+    },
+    "category": {
+      "id": 34,
+      "name": "Tech",
+      "shortname": "tech",
+      "sort_name": "Tech"
+    },
+    "meta_category": {
+      "id": 292,
+      "shortname": "tech",
+      "name": "Tech",
+      "sort_name": "Tech",
+      "photo": {
+        "id": 450131949,
+        "highres_link":
+          "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
+        "photo_link":
+          "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
+        "thumb_link":
+          "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
+        "type": "event",
+        "base_url": "https://secure.meetupstatic.com"
+      },
+      "category_ids": [34]
+    },
+    "pro_network": {
+      "name": "Tampa Bay Tech",
+      "urlname": "tampabaytech",
+      "number_of_groups": 41,
+      "network_url": "https://www.meetup.com/pro/tampabaytech/"
+    }
+  },
+  {
+    "id": 19555301,
+    "name": "NodeSchool St. Petersburg",
+    "status": "active",
+    "link": "https://www.meetup.com/NodeSchool-St-Petersburg/",
+    "urlname": "NodeSchool-St-Petersburg",
+    "description":
+      "<p><b>NodeSchool Chapter at St. Petersburg, FL.</b></p>\n<p>These are in-person hosted workshops, in which workshoppers are used as curriculum and mentors help attendees work through the challenges.</p>\n<p>Join us and learn you some Node.js and JavaScript!</p>\n<p><a href=\"http://suncoast.io/conduct\">Code of Conduct</a></p>\n<p> <br></p>",
+    "created": 1455209477000,
+    "city": "Saint Petersburg",
+    "country": "US",
+    "localized_country_name": "USA",
+    "localized_location": "Saint Petersburg, FL",
+    "state": "FL",
+    "join_mode": "open",
+    "visibility": "public",
+    "lat": 27.77,
+    "lon": -82.64,
+    "members": 295,
+    "organizer": {
+      "id": 20198871,
+      "name": "Julián Duque",
+      "bio": "Developer and Educator by Passion",
+      "photo": {
+        "id": 254315816,
+        "highres_link":
+          "https://secure.meetupstatic.com/photos/member/8/b/e/8/highres_254315816.jpeg",
+        "photo_link":
+          "https://secure.meetupstatic.com/photos/member/8/b/e/8/member_254315816.jpeg",
+        "thumb_link":
+          "https://secure.meetupstatic.com/photos/member/8/b/e/8/thumb_254315816.jpeg",
+        "type": "member",
+        "base_url": "https://secure.meetupstatic.com"
+      }
+    },
+    "who": "NodeSchoolers",
+    "group_photo": {
+      "id": 448123506,
+      "highres_link":
+        "https://secure.meetupstatic.com/photos/event/a/9/f/2/highres_448123506.jpeg",
+      "photo_link":
+        "https://secure.meetupstatic.com/photos/event/a/9/f/2/600_448123506.jpeg",
+      "thumb_link":
+        "https://secure.meetupstatic.com/photos/event/a/9/f/2/thumb_448123506.jpeg",
+      "type": "event",
+      "base_url": "https://secure.meetupstatic.com"
+    },
+    "key_photo": {
+      "id": 448123506,
+      "highres_link":
+        "https://secure.meetupstatic.com/photos/event/a/9/f/2/highres_448123506.jpeg",
+      "photo_link":
+        "https://secure.meetupstatic.com/photos/event/a/9/f/2/600_448123506.jpeg",
+      "thumb_link":
+        "https://secure.meetupstatic.com/photos/event/a/9/f/2/thumb_448123506.jpeg",
+      "type": "event",
+      "base_url": "https://secure.meetupstatic.com"
+    },
+    "timezone": "US/Eastern",
+    "category": {
+      "id": 34,
+      "name": "Tech",
+      "shortname": "tech",
+      "sort_name": "Tech"
+    },
+    "meta_category": {
+      "id": 292,
+      "shortname": "tech",
+      "name": "Tech",
+      "sort_name": "Tech",
+      "photo": {
+        "id": 450131949,
+        "highres_link":
+          "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
+        "photo_link":
+          "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
+        "thumb_link":
+          "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
+        "type": "event",
+        "base_url": "https://secure.meetupstatic.com"
+      },
+      "category_ids": [34]
+    }
+  },
+  {
+    "id": 17648092,
+    "name": "Girl Develop It Tampa Bay",
+    "status": "active",
+    "link": "https://www.meetup.com/Girl-Develop-It-Tampa-Bay/",
+    "urlname": "Girl-Develop-It-Tampa-Bay",
+    "description":
+      "<p><b>Women Developers and Programmers!</b>&nbsp;</p>\n<p>Want to learn how to code? Have a great idea? Don't be shy. Develop it!&nbsp;<br><br> It can be intimidating for women to learn and ask questions when they are in an extreme minority. While open and welcoming, today's budding developer community is up to 91% male. There isn't a comfortable place where women can learn at their own pace and not be afraid to ask \"stupid questions.\"&nbsp;</p>\n<p> We decided it was time to provide a place where all questions are OK and everyone can learn in a supportive environment. Our courses focus on coding, leveraging existing technology, and having something to show for it (aka building sweet websites).</p>\n<p><a href=\"https://www.girldevelopit.com/\">Girl Develop It</a>&nbsp;is a national nonprofit organization dedicated to providingaffordable&nbsp;and&nbsp;accessible&nbsp;technology classes&nbsp;for women in a&nbsp;judgement-free&nbsp;environment.&nbsp;</p>\n<p>Whether you want to advance your own knowledge of technology for your current job, or are looking to transition into a more tech-minded job, we're here to help get you the skills you need!</p>\n<p>Courses we offer on a rotating basis:</p>\n<p>• Intro to HTML / CSS&nbsp;</p>\n<p>• Intro to Responsive Web Design&nbsp;</p>\n<p>• Intro to HTML5 and CSS3&nbsp;</p>\n<p>• Intro to Javascript&nbsp;</p>\n<p>• Intro to Sass&nbsp;</p>\n<p>• Intro to Web Servers with Node.JS&nbsp;</p>\n<p>• Intro to the Command Line&nbsp;</p>\n<p>• Intro to Git and Github&nbsp;</p>\n<p>FAQ:</p>\n<p><i>\"I'm a guy. Can I come?\"</i>&nbsp;<br>Absolutely! We welcome anybody who wants to learn technology skills, all we ask is that you adhere to our&nbsp;<a href=\"https://www.girldevelopit.com/code-of-conduct\">Code of Conduct</a>.</p>\n<p><i>\"Do you teach kids? / Can I bring my kids?\"</i>&nbsp;<br>Our organization is not equipped to teach anybody under the age of 18. As such, we do not offer kids classes. We cannot teach students under the age of 18, even with a guardian present. Check out the&nbsp;<a href=\"http://genaustin.org/\">Girls Empowerment Network</a>&nbsp;or&nbsp;<a href=\"http://chicktech.org/\">ChickTech</a>&nbsp;for curriculum for children.</p>\n<p>\"<i>Why do you charge for your classes?\"</i>&nbsp;<br>Our instructors are all professionals at the top of their field, and we pay them for their time. Teaching a class, prepping material, slides, and resources is a time-consuming task. For those reasons, we pay our instructors and your class fee ensures our instructors are paid for their time.</p>\n<p><i>\"I don't see any upcoming classes\"</i>&nbsp;<br>That likely means we're taking a quick break between \"course tracks.\" Subscribe to this meetup to be alerted when a new class is added.&nbsp;</p>\n<p><i>\"I have a hackathon / event that your members will really like. Can you help promote it?\"</i>&nbsp;<br>Unless we have first hand experience with your event and we are able to attest that your event will be friendly towards women or people just getting started in tech, we cannot promote your event.</p>\n<br>",
+    "created": 1413404126000,
+    "city": "Saint Petersburg",
+    "country": "US",
+    "localized_country_name": "USA",
+    "localized_location": "Saint Petersburg, FL",
+    "state": "FL",
+    "join_mode": "open",
+    "visibility": "public",
+    "lat": 27.73,
+    "lon": -82.67,
+    "members": 912,
+    "organizer": {
+      "id": 14646254,
+      "name": "Girl Develop It",
+      "bio":
+        "Girl Develop It is a nonprofit organization that exists to provide affordable and accessible programs to women who want to learn web and software development through mentorship and hands-on instruction.",
+      "photo": {
+        "id": 20984831,
+        "highres_link":
+          "https://secure.meetupstatic.com/photos/member/a/f/1/f/highres_20984831.jpeg",
+        "photo_link":
+          "https://secure.meetupstatic.com/photos/member/a/f/1/f/member_20984831.jpeg",
+        "thumb_link":
+          "https://secure.meetupstatic.com/photos/member/a/f/1/f/thumb_20984831.jpeg",
+        "type": "member",
+        "base_url": "https://secure.meetupstatic.com"
+      }
+    },
+    "who": "Nerdettes",
+    "group_photo": {
+      "id": 436114732,
+      "highres_link":
+        "https://secure.meetupstatic.com/photos/event/8/7/a/c/highres_436114732.jpeg",
+      "photo_link":
+        "https://secure.meetupstatic.com/photos/event/8/7/a/c/600_436114732.jpeg",
+      "thumb_link":
+        "https://secure.meetupstatic.com/photos/event/8/7/a/c/thumb_436114732.jpeg",
+      "type": "event",
+      "base_url": "https://secure.meetupstatic.com"
+    },
+    "key_photo": {
+      "id": 434838420,
+      "highres_link":
+        "https://secure.meetupstatic.com/photos/event/4/7/f/4/highres_434838420.jpeg",
+      "photo_link":
+        "https://secure.meetupstatic.com/photos/event/4/7/f/4/600_434838420.jpeg",
+      "thumb_link":
+        "https://secure.meetupstatic.com/photos/event/4/7/f/4/thumb_434838420.jpeg",
+      "type": "event",
+      "base_url": "https://secure.meetupstatic.com"
+    },
+    "timezone": "US/Eastern",
+    "next_event": {
+      "id": "245309241",
+      "name": "Dev Meetup Holiday Party!",
+      "yes_rsvp_count": 26,
+      "time": 1513296000000,
+      "utc_offset": -18000000
+    },
+    "category": {
+      "id": 34,
+      "name": "Tech",
+      "shortname": "tech",
+      "sort_name": "Tech"
+    },
+    "meta_category": {
+      "id": 292,
+      "shortname": "tech",
+      "name": "Tech",
+      "sort_name": "Tech",
+      "photo": {
+        "id": 450131949,
+        "highres_link":
+          "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
+        "photo_link":
+          "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
+        "thumb_link":
+          "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
+        "type": "event",
+        "base_url": "https://secure.meetupstatic.com"
+      },
+      "category_ids": [34]
+    },
+    "pro_network": {
+      "name": "Girl Develop It",
+      "urlname": "girldevelopit",
+      "number_of_groups": 57,
+      "network_url": "https://www.meetup.com/pro/girldevelopit/"
+    }
+  },
+  {
+    "id": 19038317,
+    "name": "Tampa iOS Meetup",
+    "status": "active",
+    "link": "https://www.meetup.com/Tampa-iOS-Meetup/",
+    "urlname": "Tampa-iOS-Meetup",
+    "description":
+      "<p>•&nbsp;This is a group for anyone interested in iOS development. We will be getting together monthly to share our projects, opportunities, and tutorials/resources related to developing for iOS. Skilled developers, newcomers, and individuals with ideas are all appreciated here. Planning on having presentations from investors, entrepreneurs, and experts in all sorts of relevant topics from UX/UI design to programming to business development and marketing.&nbsp;</p>\n<p>•&nbsp;Meetings typically include a couple of fast-paced talks and a few demos. (There will be Pizza!) The focus is on getting iOS developers and entrepreneurs together and with the resources we need to succeed. Have an iOS project? Come and join us! Just started this iOS Meetup in October 2015 and hope to make is fun, interesting, and interactive!</p>",
+    "created": 1445181313000,
+    "city": "Tampa",
+    "country": "US",
+    "localized_country_name": "USA",
+    "localized_location": "Tampa, FL",
+    "state": "FL",
+    "join_mode": "open",
+    "visibility": "public",
+    "lat": 28.08,
+    "lon": -82.52,
+    "members": 416,
+    "organizer": {
+      "id": 12879657,
+      "name": "Joey DeVilla",
+      "bio": "",
+      "photo": {
+        "id": 265927159,
+        "highres_link":
+          "https://secure.meetupstatic.com/photos/member/1/b/f/7/highres_265927159.jpeg",
+        "photo_link":
+          "https://secure.meetupstatic.com/photos/member/1/b/f/7/member_265927159.jpeg",
+        "thumb_link":
+          "https://secure.meetupstatic.com/photos/member/1/b/f/7/thumb_265927159.jpeg",
+        "type": "member",
+        "base_url": "https://secure.meetupstatic.com"
+      }
+    },
+    "who": "iOS Developers",
+    "group_photo": {
+      "id": 443175017,
+      "highres_link":
+        "https://secure.meetupstatic.com/photos/event/3/a/a/9/highres_443175017.jpeg",
+      "photo_link":
+        "https://secure.meetupstatic.com/photos/event/3/a/a/9/600_443175017.jpeg",
+      "thumb_link":
+        "https://secure.meetupstatic.com/photos/event/3/a/a/9/thumb_443175017.jpeg",
+      "type": "event",
+      "base_url": "https://secure.meetupstatic.com"
+    },
+    "key_photo": {
+      "id": 445980600,
+      "highres_link":
+        "https://secure.meetupstatic.com/photos/event/2/5/8/highres_445980600.jpeg",
+      "photo_link":
+        "https://secure.meetupstatic.com/photos/event/2/5/8/600_445980600.jpeg",
+      "thumb_link":
+        "https://secure.meetupstatic.com/photos/event/2/5/8/thumb_445980600.jpeg",
+      "type": "event",
+      "base_url": "https://secure.meetupstatic.com"
+    },
+    "timezone": "US/Eastern",
+    "category": {
+      "id": 34,
+      "name": "Tech",
+      "shortname": "tech",
+      "sort_name": "Tech"
+    },
+    "meta_category": {
+      "id": 292,
+      "shortname": "tech",
+      "name": "Tech",
+      "sort_name": "Tech",
+      "photo": {
+        "id": 450131949,
+        "highres_link":
+          "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
+        "photo_link":
+          "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
+        "thumb_link":
+          "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
+        "type": "event",
+        "base_url": "https://secure.meetupstatic.com"
+      },
+      "category_ids": [34]
+    },
+    "pro_network": {
+      "name": "Tampa Bay Tech",
+      "urlname": "tampabaytech",
+      "number_of_groups": 41,
+      "network_url": "https://www.meetup.com/pro/tampabaytech/"
+    }
+  },
+  {
+    "id": 19124721,
+    "name": "St Pete .NET Meetup",
+    "status": "active",
+    "link": "https://www.meetup.com/St-Pete-NET-Meetup/",
+    "urlname": "St-Pete-NET-Meetup",
+    "description":
+      "<p>We are a group of individuals looking to discuss programming techniques and improving our skills.</p>\n<p>Meetings are the first Tuesday of the month at The Iron Yard St Pete.&nbsp;Doors open at 6:30pm and the presentations begin sharply at 7:00 pm. Along with a great presentation, we have food and raffle prizes.&nbsp;</p>",
+    "created": 1447627454000,
+    "city": "Saint Petersburg",
+    "country": "US",
+    "localized_country_name": "USA",
+    "localized_location": "Saint Petersburg, FL",
+    "state": "FL",
+    "join_mode": "open",
+    "visibility": "public",
+    "lat": 27.88,
+    "lon": -82.65,
+    "members": 825,
+    "organizer": {
+      "id": 30815012,
+      "name": "John Callaway",
+      "bio":
+        "Microsoft MVP in Visual Studio and Development Technologies. Developer by day, Bonsai by night. Co-founder of St Pete .NET Meetup (@StPeteDotNET) and contributor at The 6 Figure Developer (@6FigureDev).",
+      "photo": {
+        "id": 148853042,
+        "highres_link":
+          "https://secure.meetupstatic.com/photos/member/c/f/3/2/highres_148853042.jpeg",
+        "photo_link":
+          "https://secure.meetupstatic.com/photos/member/c/f/3/2/member_148853042.jpeg",
+        "thumb_link":
+          "https://secure.meetupstatic.com/photos/member/c/f/3/2/thumb_148853042.jpeg",
+        "type": "member",
+        "base_url": "https://secure.meetupstatic.com"
+      }
+    },
+    "who": "Members",
+    "group_photo": {
+      "id": 445147763,
+      "highres_link":
+        "https://secure.meetupstatic.com/photos/event/1/e/5/3/highres_445147763.jpeg",
+      "photo_link":
+        "https://secure.meetupstatic.com/photos/event/1/e/5/3/600_445147763.jpeg",
+      "thumb_link":
+        "https://secure.meetupstatic.com/photos/event/1/e/5/3/thumb_445147763.jpeg",
+      "type": "event",
+      "base_url": "https://secure.meetupstatic.com"
+    },
+    "key_photo": {
+      "id": 445147763,
+      "highres_link":
+        "https://secure.meetupstatic.com/photos/event/1/e/5/3/highres_445147763.jpeg",
+      "photo_link":
+        "https://secure.meetupstatic.com/photos/event/1/e/5/3/600_445147763.jpeg",
+      "thumb_link":
+        "https://secure.meetupstatic.com/photos/event/1/e/5/3/thumb_445147763.jpeg",
+      "type": "event",
+      "base_url": "https://secure.meetupstatic.com"
+    },
+    "timezone": "US/Eastern",
+    "category": {
+      "id": 34,
+      "name": "Tech",
+      "shortname": "tech",
+      "sort_name": "Tech"
+    },
+    "meta_category": {
+      "id": 292,
+      "shortname": "tech",
+      "name": "Tech",
+      "sort_name": "Tech",
+      "photo": {
+        "id": 450131949,
+        "highres_link":
+          "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
+        "photo_link":
+          "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
+        "thumb_link":
+          "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
+        "type": "event",
+        "base_url": "https://secure.meetupstatic.com"
+      },
+      "category_ids": [34]
+    },
+    "pro_network": {
+      "name": "Tampa Bay Tech",
+      "urlname": "tampabaytech",
+      "number_of_groups": 41,
+      "network_url": "https://www.meetup.com/pro/tampabaytech/"
+    }
+  },
+  {
+    "id": 13790602,
+    "name": "Tampa NodeJS",
+    "status": "active",
+    "link": "https://www.meetup.com/tampa-nodejs/",
+    "urlname": "tampa-nodejs",
+    "description":
+      "<p>The purpose of Tampa NodeJS is to bring together developers that are interested in learning more about Node.js and all things related. This group is open to anyone that's interested, no experience necessary, if you want to learn more about Node or you want to share your knowledge then please join us!</p>",
+    "created": 1396913991000,
+    "city": "Tampa",
+    "country": "US",
+    "localized_country_name": "USA",
+    "localized_location": "Tampa, FL",
+    "state": "FL",
+    "join_mode": "open",
+    "visibility": "public",
+    "lat": 27.96,
+    "lon": -82.46,
+    "members": 716,
+    "organizer": {
+      "id": 14096341,
+      "name": "Eli Wheaton",
+      "bio":
+        "I'm a freelance web developer that builds websites using Node, Express, MongoDB, JavaScript, PHP, MySQL, Laravel, HTML, CSS, jQuery, CodeIgniter & WordPress.",
+      "photo": {
+        "id": 271907590,
+        "highres_link":
+          "https://secure.meetupstatic.com/photos/member/b/9/e/6/highres_271907590.jpeg",
+        "photo_link":
+          "https://secure.meetupstatic.com/photos/member/b/9/e/6/member_271907590.jpeg",
+        "thumb_link":
+          "https://secure.meetupstatic.com/photos/member/b/9/e/6/thumb_271907590.jpeg",
+        "type": "member",
+        "base_url": "https://secure.meetupstatic.com"
+      }
+    },
+    "who": "Noders",
+    "group_photo": {
+      "id": 402806092,
+      "highres_link":
+        "https://secure.meetupstatic.com/photos/event/6/5/e/c/highres_402806092.jpeg",
+      "photo_link":
+        "https://secure.meetupstatic.com/photos/event/6/5/e/c/600_402806092.jpeg",
+      "thumb_link":
+        "https://secure.meetupstatic.com/photos/event/6/5/e/c/thumb_402806092.jpeg",
+      "type": "event",
+      "base_url": "https://secure.meetupstatic.com"
+    },
+    "key_photo": {
+      "id": 450426849,
+      "highres_link":
+        "https://secure.meetupstatic.com/photos/event/1/a/c/1/highres_450426849.jpeg",
+      "photo_link":
+        "https://secure.meetupstatic.com/photos/event/1/a/c/1/600_450426849.jpeg",
+      "thumb_link":
+        "https://secure.meetupstatic.com/photos/event/1/a/c/1/thumb_450426849.jpeg",
+      "type": "event",
+      "base_url": "https://secure.meetupstatic.com"
+    },
+    "timezone": "US/Eastern",
+    "category": {
+      "id": 34,
+      "name": "Tech",
+      "shortname": "tech",
+      "sort_name": "Tech"
+    },
+    "meta_category": {
+      "id": 292,
+      "shortname": "tech",
+      "name": "Tech",
+      "sort_name": "Tech",
+      "photo": {
+        "id": 450131949,
+        "highres_link":
+          "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
+        "photo_link":
+          "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
+        "thumb_link":
+          "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
+        "type": "event",
+        "base_url": "https://secure.meetupstatic.com"
+      },
+      "category_ids": [34]
+    },
+    "pro_network": {
+      "name": "Tampa Bay Tech",
+      "urlname": "tampabaytech",
+      "number_of_groups": 41,
+      "network_url": "https://www.meetup.com/pro/tampabaytech/"
+    }
+  },
+  {
+    "id": 18360400,
+    "name": "Clearwater / St Petersburg Unity User Group",
+    "status": "active",
+    "link": "https://www.meetup.com/TampaUnity3D/",
+    "urlname": "TampaUnity3D",
+    "description":
+      "<p>Unity is a powerful game development platform and rendering engine for creating interactive 3D and 2D games which can easily be published to various mobile and desktop platforms including Android, iOS, Windows Phone, Windows Desktop, Linux, and MacOS. This group is for anyone who uses or is interested in learning to use the Unity game development platform including but not limited to developers, graphic designers, animators, game designers, story boarders, children, and kids at heart. We will be meeting both informally to do group learn and play sessions as well as have more formal meetings where speakers will given presentations on how to use the various features of the Unity game development platform.</p>",
+    "created": 1421807659000,
+    "city": "Clearwater",
+    "country": "US",
+    "localized_country_name": "USA",
+    "localized_location": "Clearwater, FL",
+    "state": "FL",
+    "join_mode": "open",
+    "visibility": "public",
+    "lat": 27.94,
+    "lon": -82.74,
+    "members": 251,
+    "organizer": {
+      "id": 10936843,
+      "name": "Fred Gohsman",
+      "bio": "",
+      "photo": {
+        "id": 242506916,
+        "highres_link":
+          "https://secure.meetupstatic.com/photos/member/b/7/4/4/highres_242506916.jpeg",
+        "photo_link":
+          "https://secure.meetupstatic.com/photos/member/b/7/4/4/member_242506916.jpeg",
+        "thumb_link":
+          "https://secure.meetupstatic.com/photos/member/b/7/4/4/thumb_242506916.jpeg",
+        "type": "member",
+        "base_url": "https://secure.meetupstatic.com"
+      }
+    },
+    "who": "Game Makers",
+    "key_photo": {
+      "id": 450213447,
+      "highres_link":
+        "https://secure.meetupstatic.com/photos/event/8/2/a/7/highres_450213447.jpeg",
+      "photo_link":
+        "https://secure.meetupstatic.com/photos/event/8/2/a/7/600_450213447.jpeg",
+      "thumb_link":
+        "https://secure.meetupstatic.com/photos/event/8/2/a/7/thumb_450213447.jpeg",
+      "type": "event",
+      "base_url": "https://secure.meetupstatic.com"
+    },
+    "timezone": "US/Eastern",
+    "next_event": {
+      "id": "phftjlywqbvb",
+      "name": "Game Project Therapy",
+      "yes_rsvp_count": 6,
+      "time": 1513454400000,
+      "utc_offset": -18000000
+    },
+    "category": {
+      "id": 34,
+      "name": "Tech",
+      "shortname": "tech",
+      "sort_name": "Tech"
+    },
+    "meta_category": {
+      "id": 292,
+      "shortname": "tech",
+      "name": "Tech",
+      "sort_name": "Tech",
+      "photo": {
+        "id": 450131949,
+        "highres_link":
+          "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
+        "photo_link":
+          "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
+        "thumb_link":
+          "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
+        "type": "event",
+        "base_url": "https://secure.meetupstatic.com"
+      },
+      "category_ids": [34]
+    },
+    "pro_network": {
+      "name": "Unity User Group",
+      "urlname": "unity",
+      "number_of_groups": 57,
+      "network_url": "https://www.meetup.com/pro/unity/"
+    }
+  },
+  {
+    "id": 19644512,
+    "name": "Women In Linux",
+    "status": "active",
+    "link": "https://www.meetup.com/WomenInLinux/",
+    "urlname": "WomenInLinux",
+    "description":
+      "<p>Women In Linux is a dynamic group who celebrate Linux centric women in technology, exposing women to other tech careers using the foundation of Linux and a viable resource for obtaining and sustaining a thriving career in tech.</p>",
+    "created": 1456787737000,
+    "city": "Tampa",
+    "country": "US",
+    "localized_country_name": "USA",
+    "localized_location": "Tampa, FL",
+    "state": "FL",
+    "join_mode": "open",
+    "visibility": "public_limited",
+    "lat": 27.96,
+    "lon": -82.46,
+    "members": 329,
+    "organizer": {
+      "id": 200671587,
+      "name": "Women In Linux",
+      "bio":
+        "Women In Linux is a dynamic group who celebrate Linux centric women in technology, exposing women to other tech careers using the foundation of Linux and a viable resource for obtaining and sustaining a thriving career in tech.",
+      "photo": {
+        "id": 254386947,
+        "highres_link":
+          "https://secure.meetupstatic.com/photos/member/b/7/6/3/highres_254386947.jpeg",
+        "photo_link":
+          "https://secure.meetupstatic.com/photos/member/b/7/6/3/member_254386947.jpeg",
+        "thumb_link":
+          "https://secure.meetupstatic.com/photos/member/b/7/6/3/thumb_254386947.jpeg",
+        "type": "member",
+        "base_url": "https://secure.meetupstatic.com"
+      }
+    },
+    "who": "Members",
+    "key_photo": {
+      "id": 448471977,
+      "highres_link":
+        "https://secure.meetupstatic.com/photos/event/7/c/e/9/highres_448471977.jpeg",
+      "photo_link":
+        "https://secure.meetupstatic.com/photos/event/7/c/e/9/600_448471977.jpeg",
+      "thumb_link":
+        "https://secure.meetupstatic.com/photos/event/7/c/e/9/thumb_448471977.jpeg",
+      "type": "event",
+      "base_url": "https://secure.meetupstatic.com"
+    },
+    "timezone": "US/Eastern",
+    "category": {
+      "id": 34,
+      "name": "Tech",
+      "shortname": "tech",
+      "sort_name": "Tech"
+    },
+    "meta_category": {
+      "id": 292,
+      "shortname": "tech",
+      "name": "Tech",
+      "sort_name": "Tech",
+      "photo": {
+        "id": 450131949,
+        "highres_link":
+          "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
+        "photo_link":
+          "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
+        "thumb_link":
+          "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
+        "type": "event",
+        "base_url": "https://secure.meetupstatic.com"
+      },
+      "category_ids": [34]
+    },
+    "pro_network": {
+      "name": "Tampa Bay Tech",
+      "urlname": "tampabaytech",
+      "number_of_groups": 41,
+      "network_url": "https://www.meetup.com/pro/tampabaytech/"
+    }
+  },
+  {
+    "id": 18184810,
+    "name": "Suncoast Developers Guild",
+    "status": "active",
+    "link": "https://www.meetup.com/suncoast-developers-guild/",
+    "urlname": "suncoast-developers-guild",
+    "description":
+      "<p>The Suncoast Developers Guild is a community representing a number of developer organizations in the Greater Tampa Bay area.<br><br>Be sure to sign up for our Slack team.<br><br>And, most importantly, help us maintain a safe and inviting environment for all kinds of people by reading and adhering to the Suncoast Developers Guild Code of Conduct</p>\n<p><br></p>\n<p><br></p>",
+    "created": 1415829215000,
+    "city": "Saint Petersburg",
+    "country": "US",
+    "localized_country_name": "USA",
+    "localized_location": "Saint Petersburg, FL",
+    "state": "FL",
+    "join_mode": "open",
+    "visibility": "public",
+    "lat": 27.77,
+    "lon": -82.64,
+    "members": 2533,
+    "organizer": {
+      "id": 182514532,
+      "name": "Toni Warren",
+      "bio":
+        "Hi, I'm Toni, the President of the Suncoast Developers Guild in Tampa Bay. Passionate about supporting the software engineering community.",
+      "photo": {
+        "id": 253250812,
+        "highres_link":
+          "https://secure.meetupstatic.com/photos/member/c/6/7/c/highres_253250812.jpeg",
+        "photo_link":
+          "https://secure.meetupstatic.com/photos/member/c/6/7/c/member_253250812.jpeg",
+        "thumb_link":
+          "https://secure.meetupstatic.com/photos/member/c/6/7/c/thumb_253250812.jpeg",
+        "type": "member",
+        "base_url": "https://secure.meetupstatic.com"
+      }
+    },
+    "who": "Members",
+    "group_photo": {
+      "id": 465480332,
+      "highres_link":
+        "https://secure.meetupstatic.com/photos/event/1/4/c/highres_465480332.jpeg",
+      "photo_link":
+        "https://secure.meetupstatic.com/photos/event/1/4/c/600_465480332.jpeg",
+      "thumb_link":
+        "https://secure.meetupstatic.com/photos/event/1/4/c/thumb_465480332.jpeg",
+      "type": "event",
+      "base_url": "https://secure.meetupstatic.com"
+    },
+    "key_photo": {
+      "id": 451655116,
+      "highres_link":
+        "https://secure.meetupstatic.com/photos/event/8/9/2/c/highres_451655116.jpeg",
+      "photo_link":
+        "https://secure.meetupstatic.com/photos/event/8/9/2/c/600_451655116.jpeg",
+      "thumb_link":
+        "https://secure.meetupstatic.com/photos/event/8/9/2/c/thumb_451655116.jpeg",
+      "type": "event",
+      "base_url": "https://secure.meetupstatic.com"
+    },
+    "timezone": "US/Eastern",
+    "next_event": {
+      "id": "245310555",
+      "name": "Annual Holiday Party!",
+      "yes_rsvp_count": 30,
+      "time": 1513296000000,
+      "utc_offset": -18000000
+    },
+    "category": {
+      "id": 34,
+      "name": "Tech",
+      "shortname": "tech",
+      "sort_name": "Tech"
+    },
+    "meta_category": {
+      "id": 292,
+      "shortname": "tech",
+      "name": "Tech",
+      "sort_name": "Tech",
+      "photo": {
+        "id": 450131949,
+        "highres_link":
+          "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
+        "photo_link":
+          "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
+        "thumb_link":
+          "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
+        "type": "event",
+        "base_url": "https://secure.meetupstatic.com"
+      },
+      "category_ids": [34]
+    },
+    "pro_network": {
+      "name": "The Iron Yard",
+      "urlname": "the-iron-yard",
+      "number_of_groups": 15,
+      "network_url": "https://www.meetup.com/pro/the-iron-yard/"
+    }
+  },
+  {
+    "id": 7375162,
+    "name": "CoderNight",
+    "status": "active",
+    "link": "https://www.meetup.com/CoderNight/",
+    "urlname": "CoderNight",
+    "description":
+      "<p>CoderNight is to practice development. You write code in pairs or individually and submit the code to me. I post an&nbsp;anonymized&nbsp;repo and you have a week to look at all the solutions before a friendly night of code review.</p>\n<p><strong>CoderNight</strong></p>\n<p>CoderNight is a chance to practice your coding skills outside your work environment or help get started if you are just learning. CoderNight provides an ego-free environment to perform deliberate coding practice and to receive critical but judgement free feedback on your progress.</p>\n<p>CoderNight welcomes people of all skill levels from \"I just wrote my first line of code\" to \"I have invented my own language\"</p>\n<p><strong>How does it work?</strong></p>\n<p>We will send out a&nbsp;<em>homework</em> statement a few weeks before the meeting. You'll complete the assignment and submit your code anonymously (you may submit more than one entry). About a week before the meeting we'll start sharing solutions for everyone to read and review. During the meeting, the group will review and provide feedback for the posted solutions. The sole purpose of the meeting is to provide feedback to those who submitted code and ONE guest.</p>\n<p><strong>The homework:</strong></p>\n<p>Each meeting we will send out a challenge problem to work on. These will be non-trivial problems but not impossible to solve. We aren't going to make you solve the Traveling Salesman problem, but this won't be 2+2 either.</p>\n<p>You can work on these problems in a manner of your choosing - individually, in pairs, etc. Code must be submitted before the meeting - 'night-of' submissions will not be accepted.</p>\n<p><strong>Submitting your code:</strong></p>\n<ul> \n <p><strong>Submissions will be 100% anonymous</strong></p> \n <p>For now submissions will be emailed to me (gavin at gstark.com) and I will create a public github repository for everyone's code. NOTE: this is not 100% anonymous since I'll see your email address next to your code, but I'll try to ignore/forget.</p> \n <p>You may submit more than one entry.</p> \n <p>Your submission should also state what you are trying to achieve with the solution provided. Examples include:</p> \n <ul> \n  <p>Just learning to code so I just want this to WORK</p> \n  <p>Learning Ruby, practicing writing with the \"Ruby style\"</p> \n  <p>Trying \"everything is an object\"</p> \n  <p>Golfing (fewest possible number of characters/lines) attempt</p> \n  <p>100% Test Driven (include the tests)</p> \n </ul> \n <p>If you consider yourself an experienced developer and you raced through the assignment, you are \"doin' it wrong\" and should find an area to focus on. You should attempt to solve these assignments using techniques that are outside of your comfort zone. For example, perhaps try \"TDD as if you meant it\" (<a href=\"http://cumulative-hypotheses.org/2011/08/30/tdd-as-if-you-meant-it/\">http://cumulative-hypotheses.org/2011/08/30/tdd-as-if-you-meant-it/</a>) or try to avoid using primitives (eschew integers for objects).</p> \n <p>We will publish a full catalog of submissions with enough time to review them prior to the meetup.</p> \n</ul>\n<p><strong>The meetup:</strong></p>\n<p><em>ONLY</em> those who submitted code for review may attend the meeting.</p>\n<p>Each person who submitted code may bring no more than&nbsp;<em>ONE</em> guest to the meeting. Guests may attend&nbsp;<em>ONCE</em> before being required to submit code in order to attend.</p>\n<p>What the meeting&nbsp;<em>IS</em>:</p>\n<ul> \n <p>A place to get honest, critical, and helpful feedback on your code either anonymously or face-to-face</p> \n <p>A place to ask questions about the positive and negative qualities of many ways to solve the same problem (I guarantee there will be more ways than you'd expect)</p> \n <p>A chance to identify areas of problem solving, coding and Ruby you'd like to improve on. (and perhaps focus on for the next meeting)</p> \n <p>A great chance to help others.</p> \n</ul>\n<p>What the meeting is&nbsp;<em>NOT</em>:</p>\n<ul> \n <p>Grandstanding (\"Look at&nbsp;<em>MY</em> code, I'm the king of the world\") -- I'll kick you out.</p> \n <p>Pick on the noob (\"ZOMG, 200 lines, I could totally do that in 6!\") -- Again, I'll kick you out</p> \n <p>Hard recruiting to hire. Its fine to meet people and see they'd be a fit for your company, but if you use this as a screening process, guess what -- I'LL KICK YOU OUT.</p> \n</ul>\n<p><strong>A few meetings rules:</strong></p>\n<ul> \n <p>You have to submit a solution (or be an invited guest) to attend the meeting. Statler &amp; Waldorf's are not welcome - no \"I'm just here to criticize\".</p> \n <p>You&nbsp;<em>MUST</em> have reviewed solutions and be prepared to speak about them. We are&nbsp;<em>NOT</em> going to read each line of each submission as a group. The meeting only works if you have prepared notes.</p> \n <p>You can be critical, but you must be kind. Otherwise, yeah, you got it, I'll kick you out.</p> \n <p>You must be willing to follow up with people who want to ask questions or for additional detail regarding your comments.</p> \n <p>You may not ask \"Who wrote this anonymous solution?\" -- 100% chance I'll kick you out.</p> \n</ul>\n<p><strong>Why am I doing this?</strong></p>\n<p>I learn by doing. I learn by practicing. I am always coding. I am always refactoring. I also learn by watching and helping others do all of the above. I'm always impressed by seeing how others solve problems and enjoy helping people improve and through that improve myself.</p>\n<p>I understand people can be self-conscious of their code. It sometimes feels like an extension of yourself and you don't want to be criticized by others. This is why the anonymous option and \"be critical but kind\" is so important to the format of this event.</p>",
+    "created": 1361971696000,
+    "city": "Seminole",
+    "country": "US",
+    "localized_country_name": "USA",
+    "localized_location": "Seminole, FL",
+    "state": "FL",
+    "join_mode": "open",
+    "visibility": "public",
+    "lat": 27.84,
+    "lon": -82.8,
+    "members": 506,
+    "organizer": {
+      "id": 1412901,
+      "name": "Gavin Stark",
+      "bio":
+        "Just starting to get serious on some Rails projects and would like to meet others doing the same.",
+      "photo": {
+        "id": 6716456,
+        "highres_link":
+          "https://secure.meetupstatic.com/photos/member/d/c/8/8/highres_6716456.jpeg",
+        "photo_link":
+          "https://secure.meetupstatic.com/photos/member/d/c/8/8/member_6716456.jpeg",
+        "thumb_link":
+          "https://secure.meetupstatic.com/photos/member/d/c/8/8/thumb_6716456.jpeg",
+        "type": "member",
+        "base_url": "https://secure.meetupstatic.com"
+      }
+    },
+    "who": "Developers",
+    "group_photo": {
+      "id": 441180192,
+      "highres_link":
+        "https://secure.meetupstatic.com/photos/event/c/0/highres_441180192.jpeg",
+      "photo_link":
+        "https://secure.meetupstatic.com/photos/event/c/0/600_441180192.jpeg",
+      "thumb_link":
+        "https://secure.meetupstatic.com/photos/event/c/0/thumb_441180192.jpeg",
+      "type": "event",
+      "base_url": "https://secure.meetupstatic.com"
+    },
+    "key_photo": {
+      "id": 253087282,
+      "highres_link":
+        "https://secure.meetupstatic.com/photos/event/1/c/7/2/highres_253087282.jpeg",
+      "photo_link":
+        "https://secure.meetupstatic.com/photos/event/1/c/7/2/600_253087282.jpeg",
+      "thumb_link":
+        "https://secure.meetupstatic.com/photos/event/1/c/7/2/thumb_253087282.jpeg",
+      "type": "event",
+      "base_url": "https://secure.meetupstatic.com"
+    },
+    "timezone": "US/Eastern",
+    "category": {
+      "id": 34,
+      "name": "Tech",
+      "shortname": "tech",
+      "sort_name": "Tech"
+    },
+    "meta_category": {
+      "id": 292,
+      "shortname": "tech",
+      "name": "Tech",
+      "sort_name": "Tech",
+      "photo": {
+        "id": 450131949,
+        "highres_link":
+          "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
+        "photo_link":
+          "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
+        "thumb_link":
+          "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
+        "type": "event",
+        "base_url": "https://secure.meetupstatic.com"
+      },
+      "category_ids": [34]
+    },
+    "pro_network": {
+      "name": "Tampa Bay Tech",
+      "urlname": "tampabaytech",
+      "number_of_groups": 41,
+      "network_url": "https://www.meetup.com/pro/tampabaytech/"
+    }
+  },
+  {
+    "id": 2671282,
+    "name": "Geek Lunch",
+    "status": "active",
+    "link": "https://www.meetup.com/GeekLunch/",
+    "urlname": "GeekLunch",
+    "description":
+      "<p>We are a group of primarily Pinellas County geeks who get together for lunch a few times a month. Some of us work from home, some work in small teams and others just really like to eat and socialize. Many of us are in the Ruby and iOS development community but we welcome and enjoy the company of all, even non developer geeks!</p>\n<p><strong><span style=\"color : #888888 ; font-size : large\">Important message to potential members:</span></strong></p>\n<p><strong>Our lunches are not \"tech networking\" events.</strong> Come to geek out about code, math, science, video games, art and anything else that excites you. <em>At Geek Lunch we don't share business cards, we share links to our public code repositories.</em></p>\n<p>Our lunches aren't regularly scheduled, but we try to do one a month. We don't have scheduled \"talks\" during lunch but sometimes we'll try to have a theme to spark conversation. Our group isn't about \"improving the Tampa Bay Tech community\" -- we'll improve it by getting together and being awesome</p>\n<p> </p>\n<p> </p>\n<p> </p>",
+    "created": 1318970223000,
+    "city": "Saint Petersburg",
+    "country": "US",
+    "localized_country_name": "USA",
+    "localized_location": "Saint Petersburg, FL",
+    "state": "FL",
+    "join_mode": "approval",
+    "visibility": "public_limited",
+    "lat": 27.79,
+    "lon": -82.67,
+    "members": 173,
+    "organizer": {
+      "id": 1412901,
+      "name": "Gavin Stark",
+      "bio":
+        "Just starting to get serious on some Rails projects and would like to meet others doing the same.",
+      "photo": {
+        "id": 6716456,
+        "highres_link":
+          "https://secure.meetupstatic.com/photos/member/d/c/8/8/highres_6716456.jpeg",
+        "photo_link":
+          "https://secure.meetupstatic.com/photos/member/d/c/8/8/member_6716456.jpeg",
+        "thumb_link":
+          "https://secure.meetupstatic.com/photos/member/d/c/8/8/thumb_6716456.jpeg",
+        "type": "member",
+        "base_url": "https://secure.meetupstatic.com"
+      }
+    },
+    "who": "Geeks",
+    "group_photo": {
+      "id": 97841892,
+      "highres_link":
+        "https://secure.meetupstatic.com/photos/event/a/3/a/4/highres_97841892.jpeg",
+      "photo_link":
+        "https://secure.meetupstatic.com/photos/event/a/3/a/4/600_97841892.jpeg",
+      "thumb_link":
+        "https://secure.meetupstatic.com/photos/event/a/3/a/4/thumb_97841892.jpeg",
+      "type": "event",
+      "base_url": "https://secure.meetupstatic.com"
+    },
+    "key_photo": {
+      "id": 435200915,
+      "highres_link":
+        "https://secure.meetupstatic.com/photos/event/5/1/b/3/highres_435200915.jpeg",
+      "photo_link":
+        "https://secure.meetupstatic.com/photos/event/5/1/b/3/600_435200915.jpeg",
+      "thumb_link":
+        "https://secure.meetupstatic.com/photos/event/5/1/b/3/thumb_435200915.jpeg",
+      "type": "event",
+      "base_url": "https://secure.meetupstatic.com"
+    },
+    "timezone": "US/Eastern",
+    "category": {
+      "id": 29,
+      "name": "Sci-Fi & Fantasy",
+      "shortname": "sci-fi-fantasy",
+      "sort_name": "Sci-Fi & Fantasy"
+    },
+    "meta_category": {
+      "id": 182,
+      "shortname": "games-sci-fi",
+      "name": "Sci-Fi & Games",
+      "sort_name": "Sci-Fi & Games",
+      "photo": {
+        "id": 450131938,
+        "highres_link":
+          "https://secure.meetupstatic.com/photos/event/2/e/a/2/highres_450131938.jpeg",
+        "photo_link":
+          "https://secure.meetupstatic.com/photos/event/2/e/a/2/600_450131938.jpeg",
+        "thumb_link":
+          "https://secure.meetupstatic.com/photos/event/2/e/a/2/thumb_450131938.jpeg",
+        "type": "event",
+        "base_url": "https://secure.meetupstatic.com"
+      },
+      "category_ids": [11, 29]
+    },
+    "pro_network": {
+      "name": "Tampa Bay Tech",
+      "urlname": "tampabaytech",
+      "number_of_groups": 41,
+      "network_url": "https://www.meetup.com/pro/tampabaytech/"
+    }
+  },
+  {
+    "id": 17531872,
+    "name": "Clearwater/Dunedin Geek Breakfast",
+    "status": "active",
+    "link": "https://www.meetup.com/Clearwater-Dunedin-Geek-Breakfast/",
+    "urlname": "Clearwater-Dunedin-Geek-Breakfast",
+    "description":
+      "<p>Geek Breakfast is a monthly community-driven meeting for local (and visiting) technology-minded people. Each month attendees congregate over bacon, eggs and plenty of coffee to discuss topics like social media, digital marketing, design, programming, and ways to better their communities.</p>",
+    "created": 1412953821000,
+    "city": "Dunedin",
+    "country": "US",
+    "localized_country_name": "USA",
+    "localized_location": "Dunedin, FL",
+    "state": "FL",
+    "join_mode": "open",
+    "visibility": "public",
+    "lat": 28.02,
+    "lon": -82.77,
+    "members": 342,
+    "organizer": {
+      "id": 14096341,
+      "name": "Eli Wheaton",
+      "bio":
+        "I'm a freelance web developer that builds websites using Node, Express, MongoDB, JavaScript, PHP, MySQL, Laravel, HTML, CSS, jQuery, CodeIgniter & WordPress.",
+      "photo": {
+        "id": 271907590,
+        "highres_link":
+          "https://secure.meetupstatic.com/photos/member/b/9/e/6/highres_271907590.jpeg",
+        "photo_link":
+          "https://secure.meetupstatic.com/photos/member/b/9/e/6/member_271907590.jpeg",
+        "thumb_link":
+          "https://secure.meetupstatic.com/photos/member/b/9/e/6/thumb_271907590.jpeg",
+        "type": "member",
+        "base_url": "https://secure.meetupstatic.com"
+      }
+    },
+    "who": "Geeks",
+    "group_photo": {
+      "id": 435309758,
+      "highres_link":
+        "https://secure.meetupstatic.com/photos/event/2/6/1/e/highres_435309758.jpeg",
+      "photo_link":
+        "https://secure.meetupstatic.com/photos/event/2/6/1/e/600_435309758.jpeg",
+      "thumb_link":
+        "https://secure.meetupstatic.com/photos/event/2/6/1/e/thumb_435309758.jpeg",
+      "type": "event",
+      "base_url": "https://secure.meetupstatic.com"
+    },
+    "key_photo": {
+      "id": 431720223,
+      "highres_link":
+        "https://secure.meetupstatic.com/photos/event/4/e/f/f/highres_431720223.jpeg",
+      "photo_link":
+        "https://secure.meetupstatic.com/photos/event/4/e/f/f/600_431720223.jpeg",
+      "thumb_link":
+        "https://secure.meetupstatic.com/photos/event/4/e/f/f/thumb_431720223.jpeg",
+      "type": "event",
+      "base_url": "https://secure.meetupstatic.com"
+    },
+    "timezone": "US/Eastern",
+    "category": {
+      "id": 34,
+      "name": "Tech",
+      "shortname": "tech",
+      "sort_name": "Tech"
+    },
+    "meta_category": {
+      "id": 292,
+      "shortname": "tech",
+      "name": "Tech",
+      "sort_name": "Tech",
+      "photo": {
+        "id": 450131949,
+        "highres_link":
+          "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
+        "photo_link":
+          "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
+        "thumb_link":
+          "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
+        "type": "event",
+        "base_url": "https://secure.meetupstatic.com"
+      },
+      "category_ids": [34]
+    }
+  },
+  {
+    "id": 7713762,
+    "name": "Suncoast Game Creators",
+    "status": "active",
+    "link": "https://www.meetup.com/GameCreators/",
+    "urlname": "GameCreators",
+    "description":
+      "<p>SGC is for anyone involved (or just interested) in creating games: developers, designers, artists, professionals and novices. I'd love to hear ideas for meeting formats and potential topics. We'll start with informal bi-monthly meetings and pickup the pace based on demand.</p>",
+    "created": 1363824582000,
+    "city": "Saint Petersburg",
+    "country": "US",
+    "localized_country_name": "USA",
+    "localized_location": "Saint Petersburg, FL",
+    "state": "FL",
+    "join_mode": "open",
+    "visibility": "public",
+    "lat": 27.79,
+    "lon": -82.73,
+    "members": 71,
+    "organizer": {
+      "id": 2975923,
+      "name": "Jason Perry",
+      "bio":
+        "Jason is a native Floridian, software developer, and game development enthusiast. I also like LEGO and pandas. Yes, I just switched grammatical perspective in the middle of his bio.",
+      "photo": {
+        "id": 2266405,
+        "highres_link":
+          "https://secure.meetupstatic.com/photos/member/b/5/4/5/highres_2266405.jpeg",
+        "photo_link":
+          "https://secure.meetupstatic.com/photos/member/b/5/4/5/member_2266405.jpeg",
+        "thumb_link":
+          "https://secure.meetupstatic.com/photos/member/b/5/4/5/thumb_2266405.jpeg",
+        "type": "member",
+        "base_url": "https://secure.meetupstatic.com"
+      }
+    },
+    "who": "Game Creators",
+    "group_photo": {
+      "id": 437183441,
+      "highres_link":
+        "https://secure.meetupstatic.com/photos/event/5/b/9/1/highres_437183441.jpeg",
+      "photo_link":
+        "https://secure.meetupstatic.com/photos/event/5/b/9/1/600_437183441.jpeg",
+      "thumb_link":
+        "https://secure.meetupstatic.com/photos/event/5/b/9/1/thumb_437183441.jpeg",
+      "type": "event",
+      "base_url": "https://secure.meetupstatic.com"
+    },
+    "key_photo": {
+      "id": 437183441,
+      "highres_link":
+        "https://secure.meetupstatic.com/photos/event/5/b/9/1/highres_437183441.jpeg",
+      "photo_link":
+        "https://secure.meetupstatic.com/photos/event/5/b/9/1/600_437183441.jpeg",
+      "thumb_link":
+        "https://secure.meetupstatic.com/photos/event/5/b/9/1/thumb_437183441.jpeg",
+      "type": "event",
+      "base_url": "https://secure.meetupstatic.com"
+    },
+    "timezone": "US/Eastern",
+    "category": {
+      "id": 34,
+      "name": "Tech",
+      "shortname": "tech",
+      "sort_name": "Tech"
+    },
+    "meta_category": {
+      "id": 292,
+      "shortname": "tech",
+      "name": "Tech",
+      "sort_name": "Tech",
+      "photo": {
+        "id": 450131949,
+        "highres_link":
+          "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
+        "photo_link":
+          "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
+        "thumb_link":
+          "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
+        "type": "event",
+        "base_url": "https://secure.meetupstatic.com"
+      },
+      "category_ids": [34]
+    }
+  },
+  {
+    "id": 416523,
+    "name": "Tampa Bay Python",
+    "status": "active",
+    "link": "https://www.meetup.com/tampa-bay-python/",
+    "urlname": "tampa-bay-python",
+    "description":
+      "<p>Community of professionals, enthusiasts, students, and companies using or learning Python in the Tampa Bay Area.</p>",
+    "created": 1170105938000,
+    "city": "Tampa",
+    "country": "US",
+    "localized_country_name": "USA",
+    "localized_location": "Tampa, FL",
+    "state": "FL",
+    "join_mode": "open",
+    "visibility": "public",
+    "lat": 27.96,
+    "lon": -82.46,
+    "members": 883,
+    "who": "Python Programmers",
+    "group_photo": {
+      "id": 456870463,
+      "highres_link":
+        "https://secure.meetupstatic.com/photos/event/7/6/f/f/highres_456870463.jpeg",
+      "photo_link":
+        "https://secure.meetupstatic.com/photos/event/7/6/f/f/600_456870463.jpeg",
+      "thumb_link":
+        "https://secure.meetupstatic.com/photos/event/7/6/f/f/thumb_456870463.jpeg",
+      "type": "event",
+      "base_url": "https://secure.meetupstatic.com"
+    },
+    "key_photo": {
+      "id": 85169502,
+      "highres_link":
+        "https://secure.meetupstatic.com/photos/event/7/3/3/e/highres_85169502.jpeg",
+      "photo_link":
+        "https://secure.meetupstatic.com/photos/event/7/3/3/e/600_85169502.jpeg",
+      "thumb_link":
+        "https://secure.meetupstatic.com/photos/event/7/3/3/e/thumb_85169502.jpeg",
+      "type": "event",
+      "base_url": "https://secure.meetupstatic.com"
+    },
+    "timezone": "US/Eastern",
+    "next_event": {
+      "id": "wcrtlnywqblc",
+      "name": "TBD (regular meeting placeholder)",
+      "yes_rsvp_count": 4,
+      "time": 1514503800000,
+      "utc_offset": -18000000
+    },
+    "category": {
+      "id": 34,
+      "name": "Tech",
+      "shortname": "tech",
+      "sort_name": "Tech"
+    },
+    "meta_category": {
+      "id": 292,
+      "shortname": "tech",
+      "name": "Tech",
+      "sort_name": "Tech",
+      "photo": {
+        "id": 450131949,
+        "highres_link":
+          "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
+        "photo_link":
+          "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
+        "thumb_link":
+          "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
+        "type": "event",
+        "base_url": "https://secure.meetupstatic.com"
+      },
+      "category_ids": [34]
+    }
+  },
+  {
+    "id": 8781532,
+    "name": "Tampa Bay Data Science Group",
+    "status": "active",
+    "link": "https://www.meetup.com/Data-Scientists-Tampa-Bay/",
+    "urlname": "Data-Scientists-Tampa-Bay",
+    "description":
+      "<p>This is for professional data scientists and analysts in the Tampa Bay area interested in Analysis, Massive Parallel Computing, Natural Language Processing, Machine Learning, Data Mining, and the supporting technologies and practices. We pull together the best minds in the region to discover and discuss the trends in our technical, methodological, and professional ecosystems. We are dedicated to establishing the Tampa Bay region as a center of excellence for interdisciplinary information analytics.</p>\n<p>This group is in part sponsored by the <a href=\"http://msdsug.microsoft.com/\">Microsoft Data Science User Group Sponsorship Program</a>, Wolters Kluwer, and <a href=\"http://cgrii.org/\">CGRII</a>. Microsoft, Wolters Kluwer, and CGRII are not responsible for content on this website or activities that take place at user group meetings. <br></p>\n<p>We also are supporters of the <a href=\"http://www.meetup.com/suncoast-devs/\">Suncoast Developers Guild</a> and adhere to their <a href=\"http://suncoast.io/conduct/\">code of conduct</a>. In addition to this code of conduct, we also encourage c<span>ode attribution.</span></p>\n<blockquote> \n <p>In order to ensure proper credit is given to developers or development teams, an effort should be made to indicate attribution of programs, scripts, and code snippets. This should include, but is not limited to: name of person/group; location of source (URL, event name/location); date/time of information. This ensures that provenance is maintained and that all parties involved in the collaborative effort are noted for their contributions to the best of one’s knowledge.</p> \n</blockquote>\n<p> <br></p>",
+    "created": 1370363617000,
+    "city": "Tampa",
+    "country": "US",
+    "localized_country_name": "USA",
+    "localized_location": "Tampa, FL",
+    "state": "FL",
+    "join_mode": "open",
+    "visibility": "public",
+    "lat": 27.99,
+    "lon": -82.47,
+    "members": 673,
+    "organizer": {
+      "id": 130184182,
+      "name": "Joe Blankenship",
+      "bio": "Geographer, Data Geek, Developer, Engineer, Scientist, Hacker",
+      "photo": {
+        "id": 245461985,
+        "highres_link":
+          "https://secure.meetupstatic.com/photos/member/7/c/1/highres_245461985.jpeg",
+        "photo_link":
+          "https://secure.meetupstatic.com/photos/member/7/c/1/member_245461985.jpeg",
+        "thumb_link":
+          "https://secure.meetupstatic.com/photos/member/7/c/1/thumb_245461985.jpeg",
+        "type": "member",
+        "base_url": "https://secure.meetupstatic.com"
+      }
+    },
+    "who": "Data Scientists",
+    "key_photo": {
+      "id": 451082217,
+      "highres_link":
+        "https://secure.meetupstatic.com/photos/event/8/a/9/highres_451082217.jpeg",
+      "photo_link":
+        "https://secure.meetupstatic.com/photos/event/8/a/9/600_451082217.jpeg",
+      "thumb_link":
+        "https://secure.meetupstatic.com/photos/event/8/a/9/thumb_451082217.jpeg",
+      "type": "event",
+      "base_url": "https://secure.meetupstatic.com"
+    },
+    "timezone": "US/Eastern",
+    "next_event": {
+      "id": "nhnhfmywqbpb",
+      "name": "Computational Sociology – Predicting Your City’s Murder Rate",
+      "yes_rsvp_count": 46,
+      "time": 1513207800000,
+      "utc_offset": -18000000
+    },
+    "category": {
+      "id": 34,
+      "name": "Tech",
+      "shortname": "tech",
+      "sort_name": "Tech"
+    },
+    "meta_category": {
+      "id": 292,
+      "shortname": "tech",
+      "name": "Tech",
+      "sort_name": "Tech",
+      "photo": {
+        "id": 450131949,
+        "highres_link":
+          "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
+        "photo_link":
+          "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
+        "thumb_link":
+          "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
+        "type": "event",
+        "base_url": "https://secure.meetupstatic.com"
+      },
+      "category_ids": [34]
+    }
+  },
+  {
+    "id": 1742449,
+    "name": "Sarasota Web Development Meetup Group",
+    "status": "active",
+    "link": "https://www.meetup.com/Sarasota-Web-Development-Meetup-Group/",
+    "urlname": "Sarasota-Web-Development-Meetup-Group",
+    "description":
+      "<p>This group is for anyone with an interest in Internet trends and technology. We welcome web professionals as well as casual users, whether you're looking for help or looking for work, to join us each week for informal get-togethers at local coffee shops and restaurants. Our meetings will give you the chance to network with like minded people, sample local cuisine, and hopefully expand your knowledge of the Internet. Our events are generally open-format, though members are welcome to request or present on specific topics.</p>",
+    "created": 1290625456000,
+    "city": "Sarasota",
+    "country": "US",
+    "localized_country_name": "USA",
+    "localized_location": "Sarasota, FL",
+    "state": "FL",
+    "join_mode": "open",
+    "visibility": "public",
+    "lat": 27.27,
+    "lon": -82.52,
+    "members": 363,
+    "organizer": {
+      "id": 12968021,
+      "name": "David Christian",
+      "bio": "",
+      "photo": {
+        "id": 255732089,
+        "highres_link":
+          "https://secure.meetupstatic.com/photos/member/2/f/3/9/highres_255732089.jpeg",
+        "photo_link":
+          "https://secure.meetupstatic.com/photos/member/2/f/3/9/member_255732089.jpeg",
+        "thumb_link":
+          "https://secure.meetupstatic.com/photos/member/2/f/3/9/thumb_255732089.jpeg",
+        "type": "member",
+        "base_url": "https://secure.meetupstatic.com"
+      }
+    },
+    "who": "Geeks",
+    "group_photo": {
+      "id": 20106033,
+      "highres_link":
+        "https://secure.meetupstatic.com/photos/event/1/7/9/1/highres_20106033.jpeg",
+      "photo_link":
+        "https://secure.meetupstatic.com/photos/event/1/7/9/1/600_20106033.jpeg",
+      "thumb_link":
+        "https://secure.meetupstatic.com/photos/event/1/7/9/1/thumb_20106033.jpeg",
+      "type": "event",
+      "base_url": "https://secure.meetupstatic.com"
+    },
+    "key_photo": {
+      "id": 20106033,
+      "highres_link":
+        "https://secure.meetupstatic.com/photos/event/1/7/9/1/highres_20106033.jpeg",
+      "photo_link":
+        "https://secure.meetupstatic.com/photos/event/1/7/9/1/600_20106033.jpeg",
+      "thumb_link":
+        "https://secure.meetupstatic.com/photos/event/1/7/9/1/thumb_20106033.jpeg",
+      "type": "event",
+      "base_url": "https://secure.meetupstatic.com"
+    },
+    "timezone": "US/Eastern",
+    "next_event": {
+      "id": "dptcbpywqbbc",
+      "name":
+        "Coworking and Coffee (South) -- Please read the details before you RSVP!",
+      "yes_rsvp_count": 0,
+      "time": 1513782000000,
+      "utc_offset": -18000000
+    },
+    "category": {
+      "id": 34,
+      "name": "Tech",
+      "shortname": "tech",
+      "sort_name": "Tech"
+    },
+    "meta_category": {
+      "id": 292,
+      "shortname": "tech",
+      "name": "Tech",
+      "sort_name": "Tech",
+      "photo": {
+        "id": 450131949,
+        "highres_link":
+          "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
+        "photo_link":
+          "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
+        "thumb_link":
+          "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
+        "type": "event",
+        "base_url": "https://secure.meetupstatic.com"
+      },
+      "category_ids": [34]
+    }
+  },
+  {
+    "id": 20293332,
+    "name": "Code Katas",
+    "status": "active",
+    "link": "https://www.meetup.com/Code-Katas/",
+    "urlname": "Code-Katas",
+    "description":
+      "<p>What does it take to become great at something? Hard work, right? Then you might also agree that it takes lots of practice too. This meetup aims to help members become better at coding through code katas. You are now probably wondering what a kata is. Kata is a Japanese term that refers to individual training exercises for practitioners of karate. A code kata, therefore, is an exercise for practitioners of code. A kata, in any sense, aims to help individuals improve their ability through structured exercises. This group strives to do just that for coders who seek to level up their problem-solving skills with code katas from Code Wars, Code Fights, Exercism, and Free Code Camp, just to name a few.</p>\n<p>As a base, we use the Free Code Camp algorithm challenges to start but this group is not limited to that curriculum. Our hope is that this group expands and grows to solve not only other katas found on the web but in other languages too!</p>\n<p>Come one, come all, and let's see how we can improve one code kata at a time!</p>\n<p><b>Find us on Twitter @code_katas!</b></p>",
+    "created": 1470673676000,
+    "city": "Saint Petersburg",
+    "country": "US",
+    "localized_country_name": "USA",
+    "localized_location": "Saint Petersburg, FL",
+    "state": "FL",
+    "join_mode": "open",
+    "visibility": "public",
+    "lat": 27.77,
+    "lon": -82.64,
+    "members": 315,
+    "organizer": {
+      "id": 122437162,
+      "name": "Adam Recvlohe",
+      "bio": "",
+      "photo": {
+        "id": 256055747,
+        "highres_link":
+          "https://secure.meetupstatic.com/photos/member/8/b/a/3/highres_256055747.jpeg",
+        "photo_link":
+          "https://secure.meetupstatic.com/photos/member/8/b/a/3/member_256055747.jpeg",
+        "thumb_link":
+          "https://secure.meetupstatic.com/photos/member/8/b/a/3/thumb_256055747.jpeg",
+        "type": "member",
+        "base_url": "https://secure.meetupstatic.com"
+      }
+    },
+    "who": "Code Ninjas",
+    "group_photo": {
+      "id": 453024462,
+      "highres_link":
+        "https://secure.meetupstatic.com/photos/event/5/f/8/e/highres_453024462.jpeg",
+      "photo_link":
+        "https://secure.meetupstatic.com/photos/event/5/f/8/e/600_453024462.jpeg",
+      "thumb_link":
+        "https://secure.meetupstatic.com/photos/event/5/f/8/e/thumb_453024462.jpeg",
+      "type": "event",
+      "base_url": "https://secure.meetupstatic.com"
+    },
+    "key_photo": {
+      "id": 453024099,
+      "highres_link":
+        "https://secure.meetupstatic.com/photos/event/5/e/2/3/highres_453024099.jpeg",
+      "photo_link":
+        "https://secure.meetupstatic.com/photos/event/5/e/2/3/600_453024099.jpeg",
+      "thumb_link":
+        "https://secure.meetupstatic.com/photos/event/5/e/2/3/thumb_453024099.jpeg",
+      "type": "event",
+      "base_url": "https://secure.meetupstatic.com"
+    },
+    "timezone": "US/Eastern",
+    "next_event": {
+      "id": "tnpslnywqbqb",
+      "name": "Let's Do Some Fun Code Challenges!",
+      "yes_rsvp_count": 9,
+      "time": 1513123200000,
+      "utc_offset": -18000000
+    },
+    "category": {
+      "id": 34,
+      "name": "Tech",
+      "shortname": "tech",
+      "sort_name": "Tech"
+    },
+    "meta_category": {
+      "id": 292,
+      "shortname": "tech",
+      "name": "Tech",
+      "sort_name": "Tech",
+      "photo": {
+        "id": 450131949,
+        "highres_link":
+          "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
+        "photo_link":
+          "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
+        "thumb_link":
+          "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
+        "type": "event",
+        "base_url": "https://secure.meetupstatic.com"
+      },
+      "category_ids": [34]
+    },
+    "pro_network": {
+      "name": "Tampa Bay Tech",
+      "urlname": "tampabaytech",
+      "number_of_groups": 41,
+      "network_url": "https://www.meetup.com/pro/tampabaytech/"
+    }
+  },
+  {
+    "id": 19870578,
+    "name": "ReactJS Tampa Bay",
+    "status": "active",
+    "link": "https://www.meetup.com/ReactJS-Tampa-Bay/",
+    "urlname": "ReactJS-Tampa-Bay",
+    "description":
+      "<p> <br>Welcome to ReactJS Tampa Bay!</p>\n<p>React is a fun, easy to use Javascript library built at Facebook. It also happens to be fundamentally changing how we build front-ends for all platforms, be it web, mobile, desktop, and beyond!&nbsp;</p>\n<p>Come join us to learn more about React and React Native, augment your existing React skills, share your experiences, and meet other React enthusiasts/experts in the Tampa Bay Area!</p>\n<p><b>Twitter: </b><a href=\"https://twitter.com/reactjstampabay\">@reactjstampabay</a></p>\n<p><b>Slack Channel:</b>&nbsp;<a href=\"https://reactjstampabay.slack.com/\">https://reactjstampabay.slack.com</a></p>\n<p><b>Slack Channel Signup/Invite:</b>&nbsp;<a href=\"http://reactjstampabay-slack.herokuapp.com/\">http://reactjstampabay-slack.herokuapp.com/</a></p>\n<p><b>GitHub: </b><a href=\"https://github.com/reactjstampabay\">https://github.com/reactjstampabay</a></p>\n<p><b>React</b><span>:&nbsp;</span><a href=\"http://facebook.github.io/react/\">http://facebook.github.io/react/</a> <br></p>\n<p><b>React Native</b>:&nbsp;<a href=\"https://facebook.github.io/react-native/\">https://facebook.github.io/react-native/</a></p>\n<br>",
+    "created": 1461336961000,
+    "city": "Tampa",
+    "country": "US",
+    "localized_country_name": "USA",
+    "localized_location": "Tampa, FL",
+    "state": "FL",
+    "join_mode": "open",
+    "visibility": "public",
+    "lat": 27.94,
+    "lon": -82.51,
+    "members": 396,
+    "organizer": {
+      "id": 157880462,
+      "name": "Eric Nograles",
+      "bio":
+        "Lifelong technologist who loves to tinker and dabble. Avid runner and cyclist. Occasional guitarist, vocalist, and dancer. All-around nice dude.",
+      "photo": {
+        "id": 251850265,
+        "highres_link":
+          "https://secure.meetupstatic.com/photos/member/7/6/3/9/highres_251850265.jpeg",
+        "photo_link":
+          "https://secure.meetupstatic.com/photos/member/7/6/3/9/member_251850265.jpeg",
+        "thumb_link":
+          "https://secure.meetupstatic.com/photos/member/7/6/3/9/thumb_251850265.jpeg",
+        "type": "member",
+        "base_url": "https://secure.meetupstatic.com"
+      }
+    },
+    "who": "Reactors",
+    "group_photo": {
+      "id": 449391046,
+      "highres_link":
+        "https://secure.meetupstatic.com/photos/event/c/7/6/6/highres_449391046.jpeg",
+      "photo_link":
+        "https://secure.meetupstatic.com/photos/event/c/7/6/6/600_449391046.jpeg",
+      "thumb_link":
+        "https://secure.meetupstatic.com/photos/event/c/7/6/6/thumb_449391046.jpeg",
+      "type": "event",
+      "base_url": "https://secure.meetupstatic.com"
+    },
+    "key_photo": {
+      "id": 450906540,
+      "highres_link":
+        "https://secure.meetupstatic.com/photos/event/1/9/8/c/highres_450906540.jpeg",
+      "photo_link":
+        "https://secure.meetupstatic.com/photos/event/1/9/8/c/600_450906540.jpeg",
+      "thumb_link":
+        "https://secure.meetupstatic.com/photos/event/1/9/8/c/thumb_450906540.jpeg",
+      "type": "event",
+      "base_url": "https://secure.meetupstatic.com"
+    },
+    "timezone": "US/Eastern",
+    "category": {
+      "id": 34,
+      "name": "Tech",
+      "shortname": "tech",
+      "sort_name": "Tech"
+    },
+    "meta_category": {
+      "id": 292,
+      "shortname": "tech",
+      "name": "Tech",
+      "sort_name": "Tech",
+      "photo": {
+        "id": 450131949,
+        "highres_link":
+          "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
+        "photo_link":
+          "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
+        "thumb_link":
+          "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
+        "type": "event",
+        "base_url": "https://secure.meetupstatic.com"
+      },
+      "category_ids": [34]
+    },
+    "pro_network": {
+      "name": "Tampa Bay Tech",
+      "urlname": "tampabaytech",
+      "number_of_groups": 41,
+      "network_url": "https://www.meetup.com/pro/tampabaytech/"
+    }
+  },
+  {
+    "id": 20318912,
+    "name": "PyStPete",
+    "status": "active",
+    "link": "https://www.meetup.com/Saint-Petersburg-Python-Meetup/",
+    "urlname": "Saint-Petersburg-Python-Meetup",
+    "description":
+      "<p>Explore the Python programming language through socializing with other Python folks over informative talks and info sessions.</p>\n<p>Python anything; What makes up the language's core, using Python framework X, web dev, scipy dev, releasing Python apps, monitoring, you name it... it goes if it involves Python.&nbsp;</p>\n<p>The talks have started taking place the 4th Tuesday of every month (supposing there is a scheduled meetup!), so we looking for speakers for upcoming dates!&nbsp;</p>\n<p>We will be merging with the Tampa Python meetup soon to alternate meetings (and locations) so this meetup will soon be bi-monthly. i've been leaving town more so I hope this will prevent us from cancelling every few months.&nbsp;</p>",
+    "created": 1471296984000,
+    "city": "Saint Petersburg",
+    "country": "US",
+    "localized_country_name": "USA",
+    "localized_location": "Saint Petersburg, FL",
+    "state": "FL",
+    "join_mode": "open",
+    "visibility": "public",
+    "lat": 27.77,
+    "lon": -82.64,
+    "members": 214,
+    "organizer": {
+      "id": 19538441,
+      "name": "Lyle Scott",
+      "bio":
+        "Fullstack developer that digs Python and enjoys building tools, continuous delivery pipelines, and starting projects that never get finished. Created http://tidenugget.com (Django)",
+      "photo": {
+        "id": 144545092,
+        "highres_link":
+          "https://secure.meetupstatic.com/photos/member/1/3/e/4/highres_144545092.jpeg",
+        "photo_link":
+          "https://secure.meetupstatic.com/photos/member/1/3/e/4/member_144545092.jpeg",
+        "thumb_link":
+          "https://secure.meetupstatic.com/photos/member/1/3/e/4/thumb_144545092.jpeg",
+        "type": "member",
+        "base_url": "https://secure.meetupstatic.com"
+      }
+    },
+    "who": "Members",
+    "group_photo": {
+      "id": 454161235,
+      "highres_link":
+        "https://secure.meetupstatic.com/photos/event/5/2/f/3/highres_454161235.jpeg",
+      "photo_link":
+        "https://secure.meetupstatic.com/photos/event/5/2/f/3/600_454161235.jpeg",
+      "thumb_link":
+        "https://secure.meetupstatic.com/photos/event/5/2/f/3/thumb_454161235.jpeg",
+      "type": "event",
+      "base_url": "https://secure.meetupstatic.com"
+    },
+    "key_photo": {
+      "id": 453664767,
+      "highres_link":
+        "https://secure.meetupstatic.com/photos/event/1/2/9/f/highres_453664767.jpeg",
+      "photo_link":
+        "https://secure.meetupstatic.com/photos/event/1/2/9/f/600_453664767.jpeg",
+      "thumb_link":
+        "https://secure.meetupstatic.com/photos/event/1/2/9/f/thumb_453664767.jpeg",
+      "type": "event",
+      "base_url": "https://secure.meetupstatic.com"
+    },
+    "timezone": "US/Eastern",
+    "category": {
+      "id": 34,
+      "name": "Tech",
+      "shortname": "tech",
+      "sort_name": "Tech"
+    },
+    "meta_category": {
+      "id": 292,
+      "shortname": "tech",
+      "name": "Tech",
+      "sort_name": "Tech",
+      "photo": {
+        "id": 450131949,
+        "highres_link":
+          "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
+        "photo_link":
+          "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
+        "thumb_link":
+          "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
+        "type": "event",
+        "base_url": "https://secure.meetupstatic.com"
+      },
+      "category_ids": [34]
+    }
+  },
+  {
+    "id": 1696828,
+    "name": "Tampa Bay WordPress",
+    "status": "active",
+    "link": "https://www.meetup.com/Tampa-Bay-WordPress/",
+    "urlname": "Tampa-Bay-WordPress",
+    "description":
+      "<p>This group is for WordPress users, developers and those who would like to know more about WordPress. It's all about learning, sharing and having fun.</p>\n<p>Although there may be business between members, there is no business conducted at the meetings, i.e., there will be no sales presentations or marketing garbage. That's not what the group is about. Think of it as a micro-sized BarCamp!</p>",
+    "created": 1282784594000,
+    "city": "Tampa",
+    "country": "US",
+    "localized_country_name": "USA",
+    "localized_location": "Tampa, FL",
+    "state": "FL",
+    "join_mode": "open",
+    "visibility": "public",
+    "lat": 27.96,
+    "lon": -82.46,
+    "members": 1714,
+    "organizer": {
+      "id": 4342293,
+      "name": "Alison Foxall",
+      "bio": "See twitter profile.",
+      "photo": {
+        "id": 81581992,
+        "photo_link":
+          "https://secure.meetupstatic.com/photos/member/a/4/0/8/member_81581992.jpeg",
+        "thumb_link":
+          "https://secure.meetupstatic.com/photos/member/a/4/0/8/thumb_81581992.jpeg",
+        "type": "member",
+        "base_url": "https://secure.meetupstatic.com"
+      }
+    },
+    "who": "Members",
+    "group_photo": {
+      "id": 442849243,
+      "highres_link":
+        "https://secure.meetupstatic.com/photos/event/c/0/5/b/highres_442849243.jpeg",
+      "photo_link":
+        "https://secure.meetupstatic.com/photos/event/c/0/5/b/600_442849243.jpeg",
+      "thumb_link":
+        "https://secure.meetupstatic.com/photos/event/c/0/5/b/thumb_442849243.jpeg",
+      "type": "event",
+      "base_url": "https://secure.meetupstatic.com"
+    },
+    "key_photo": {
+      "id": 178186492,
+      "highres_link":
+        "https://secure.meetupstatic.com/photos/event/b/5/9/c/highres_178186492.jpeg",
+      "photo_link":
+        "https://secure.meetupstatic.com/photos/event/b/5/9/c/600_178186492.jpeg",
+      "thumb_link":
+        "https://secure.meetupstatic.com/photos/event/b/5/9/c/thumb_178186492.jpeg",
+      "type": "event",
+      "base_url": "https://secure.meetupstatic.com"
+    },
+    "timezone": "US/Eastern",
+    "category": {
+      "id": 34,
+      "name": "Tech",
+      "shortname": "tech",
+      "sort_name": "Tech"
+    },
+    "meta_category": {
+      "id": 292,
+      "shortname": "tech",
+      "name": "Tech",
+      "sort_name": "Tech",
+      "photo": {
+        "id": 450131949,
+        "highres_link":
+          "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
+        "photo_link":
+          "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
+        "thumb_link":
+          "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
+        "type": "event",
+        "base_url": "https://secure.meetupstatic.com"
+      },
+      "category_ids": [34]
+    }
+  },
+  {
+    "id": 6044572,
+    "name": "Tampa Bay Laravel",
+    "status": "active",
+    "link": "https://www.meetup.com/Laravel/",
+    "urlname": "Laravel",
+    "description":
+      "<p>This is a group for developers, designers, business owners, and entrepreneurs that are interested in creating web applications using the Laravel PHP Framework. All skill levels are welcome.</p>",
+    "created": 1354197832000,
+    "city": "Tampa",
+    "country": "US",
+    "localized_country_name": "USA",
+    "localized_location": "Tampa, FL",
+    "state": "FL",
+    "join_mode": "open",
+    "visibility": "public",
+    "lat": 27.97,
+    "lon": -82.51,
+    "members": 131,
+    "organizer": {
+      "id": 129486192,
+      "name": "James LaChance",
+      "bio": "",
+      "photo": {
+        "id": 266447686,
+        "highres_link":
+          "https://secure.meetupstatic.com/photos/member/b/a/4/6/highres_266447686.jpeg",
+        "photo_link":
+          "https://secure.meetupstatic.com/photos/member/b/a/4/6/member_266447686.jpeg",
+        "thumb_link":
+          "https://secure.meetupstatic.com/photos/member/b/a/4/6/thumb_266447686.jpeg",
+        "type": "member",
+        "base_url": "https://secure.meetupstatic.com"
+      }
+    },
+    "who": "Laravelers",
+    "group_photo": {
+      "id": 194350822,
+      "highres_link":
+        "https://secure.meetupstatic.com/photos/event/2/a/4/6/highres_194350822.jpeg",
+      "photo_link":
+        "https://secure.meetupstatic.com/photos/event/2/a/4/6/600_194350822.jpeg",
+      "thumb_link":
+        "https://secure.meetupstatic.com/photos/event/2/a/4/6/thumb_194350822.jpeg",
+      "type": "event",
+      "base_url": "https://secure.meetupstatic.com"
+    },
+    "key_photo": {
+      "id": 194350382,
+      "highres_link":
+        "https://secure.meetupstatic.com/photos/event/2/8/8/e/highres_194350382.jpeg",
+      "photo_link":
+        "https://secure.meetupstatic.com/photos/event/2/8/8/e/600_194350382.jpeg",
+      "thumb_link":
+        "https://secure.meetupstatic.com/photos/event/2/8/8/e/thumb_194350382.jpeg",
+      "type": "event",
+      "base_url": "https://secure.meetupstatic.com"
+    },
+    "timezone": "US/Eastern",
+    "category": {
+      "id": 34,
+      "name": "Tech",
+      "shortname": "tech",
+      "sort_name": "Tech"
+    },
+    "meta_category": {
+      "id": 292,
+      "shortname": "tech",
+      "name": "Tech",
+      "sort_name": "Tech",
+      "photo": {
+        "id": 450131949,
+        "highres_link":
+          "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
+        "photo_link":
+          "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
+        "thumb_link":
+          "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
+        "type": "event",
+        "base_url": "https://secure.meetupstatic.com"
+      },
+      "category_ids": [34]
+    },
+    "pro_network": {
+      "name": "Tampa Bay Tech",
+      "urlname": "tampabaytech",
+      "number_of_groups": 41,
+      "network_url": "https://www.meetup.com/pro/tampabaytech/"
+    }
+  },
+  {
+    "id": 1790856,
+    "name": "Tampa Bay Android Developers Group",
+    "status": "active",
+    "link": "https://www.meetup.com/Tampa-Bay-Android-Developers-Group/",
+    "urlname": "Tampa-Bay-Android-Developers-Group",
+    "description":
+      "<p>This group is for any and all in the Tampa Bay area interested in Android Development. <br> <br> There is room for all levels of expertise (seasoned, junior, want-to-learn), all aspects of development (design, code, test, art, game-play, marketing), and all types of organization (enterprise, one-person shop, hobbyist). <br> <br> There are no mandatory membership or meetup fees, but the group is meant to be a cooperative group with each member contributing in whatever way they are able. <br> <br> (To possibly help the search engines a bit, here are some of the larger places in Tampa Bay: Bradenton, Brandon, Clearwater, Hillsborough, Lakeland, Largo, Manatee, Palm Harbor, Pasco, Pinellas, St Petersburg, Petersburg, Sarasota, Spring Hill, Tampa, Town n Country.) <br> <br> Our public Google+ community is at <a href=\"https://plus.google.com/communities/106540658460757051742\" class=\"linkified\">https://plus.google.com/communities/1065406...</a> .</p>",
+    "created": 1298889153000,
+    "city": "Saint Petersburg",
+    "country": "US",
+    "localized_country_name": "USA",
+    "localized_location": "Saint Petersburg, FL",
+    "state": "FL",
+    "join_mode": "open",
+    "visibility": "public",
+    "lat": 27.88,
+    "lon": -82.65,
+    "members": 446,
+    "organizer": {
+      "id": 12484848,
+      "name": "Scott Thisse",
+      "bio":
+        "I'm the founder member and chief developer for Centripetal Fusion LLC, which does remote software development with a emphasis in Android development.",
+      "photo": {
+        "id": 264693531,
+        "highres_link":
+          "https://secure.meetupstatic.com/photos/member/8/2/f/b/highres_264693531.jpeg",
+        "photo_link":
+          "https://secure.meetupstatic.com/photos/member/8/2/f/b/member_264693531.jpeg",
+        "thumb_link":
+          "https://secure.meetupstatic.com/photos/member/8/2/f/b/thumb_264693531.jpeg",
+        "type": "member",
+        "base_url": "https://secure.meetupstatic.com"
+      }
+    },
+    "who": "Members",
+    "group_photo": {
+      "id": 462721739,
+      "highres_link":
+        "https://secure.meetupstatic.com/photos/event/6/c/b/highres_462721739.jpeg",
+      "photo_link":
+        "https://secure.meetupstatic.com/photos/event/6/c/b/600_462721739.jpeg",
+      "thumb_link":
+        "https://secure.meetupstatic.com/photos/event/6/c/b/thumb_462721739.jpeg",
+      "type": "event",
+      "base_url": "https://secure.meetupstatic.com"
+    },
+    "key_photo": {
+      "id": 462721622,
+      "highres_link":
+        "https://secure.meetupstatic.com/photos/event/6/5/6/highres_462721622.jpeg",
+      "photo_link":
+        "https://secure.meetupstatic.com/photos/event/6/5/6/600_462721622.jpeg",
+      "thumb_link":
+        "https://secure.meetupstatic.com/photos/event/6/5/6/thumb_462721622.jpeg",
+      "type": "event",
+      "base_url": "https://secure.meetupstatic.com"
+    },
+    "timezone": "US/Eastern",
+    "next_event": {
+      "id": "tqmgqnyxcbdb",
+      "name": "45-Minute Talk/30-minute Talk/Round-table discussion",
+      "yes_rsvp_count": 1,
+      "time": 1514937600000,
+      "utc_offset": -18000000
+    },
+    "category": {
+      "id": 34,
+      "name": "Tech",
+      "shortname": "tech",
+      "sort_name": "Tech"
+    },
+    "meta_category": {
+      "id": 292,
+      "shortname": "tech",
+      "name": "Tech",
+      "sort_name": "Tech",
+      "photo": {
+        "id": 450131949,
+        "highres_link":
+          "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
+        "photo_link":
+          "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
+        "thumb_link":
+          "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
+        "type": "event",
+        "base_url": "https://secure.meetupstatic.com"
+      },
+      "category_ids": [34]
+    }
+  }
+]
