@@ -17,7 +17,7 @@ class Home extends Component {
             <h1>Suncoast Developers Guild</h1>
             <a
               className="invite-o-matic"
-              href="/slack/"
+              href="https://suncoast-devs.slack.com/join/shared_invite/enQtMjk4NjQ3MTkxNzYwLTZjODYzNGM0MTI3NjYxZWRlYWZkZTUxNDI0YzA0Yjk1NTlkNTQ4ZjlmMWVkOGQyNmY5YjFkNmE1ODQ0Y2RmNzA"
               title="The Invite-o-matic!"
             >
               <img src={images.slack} alt="Join us on Slack" width={240} />
