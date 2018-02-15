@@ -17,7 +17,7 @@
     "visibility": "public",
     "lat": 27.92,
     "lon": -82.51,
-    "members": 816,
+    "members": 829,
     "organizer": {
       "id": 2975923,
       "name": "Jason Perry",
@@ -25,12 +25,9 @@
         "Jason is a native Floridian, software developer, and game development enthusiast. I also like LEGO and pandas. Yes, I just switched grammatical perspective in the middle of his bio.",
       "photo": {
         "id": 242219002,
-        "highres_link":
-          "https://secure.meetupstatic.com/photos/member/e/6/7/a/highres_242219002.jpeg",
-        "photo_link":
-          "https://secure.meetupstatic.com/photos/member/e/6/7/a/member_242219002.jpeg",
-        "thumb_link":
-          "https://secure.meetupstatic.com/photos/member/e/6/7/a/thumb_242219002.jpeg",
+        "highres_link": "https://secure.meetupstatic.com/photos/member/e/6/7/a/highres_242219002.jpeg",
+        "photo_link": "https://secure.meetupstatic.com/photos/member/e/6/7/a/member_242219002.jpeg",
+        "thumb_link": "https://secure.meetupstatic.com/photos/member/e/6/7/a/thumb_242219002.jpeg",
         "type": "member",
         "base_url": "https://secure.meetupstatic.com"
       }
@@ -38,40 +35,29 @@
     "who": "Rubyists",
     "group_photo": {
       "id": 440826218,
-      "highres_link":
-        "https://secure.meetupstatic.com/photos/event/1/8/4/a/highres_440826218.jpeg",
-      "photo_link":
-        "https://secure.meetupstatic.com/photos/event/1/8/4/a/600_440826218.jpeg",
-      "thumb_link":
-        "https://secure.meetupstatic.com/photos/event/1/8/4/a/thumb_440826218.jpeg",
+      "highres_link": "https://secure.meetupstatic.com/photos/event/1/8/4/a/highres_440826218.jpeg",
+      "photo_link": "https://secure.meetupstatic.com/photos/event/1/8/4/a/600_440826218.jpeg",
+      "thumb_link": "https://secure.meetupstatic.com/photos/event/1/8/4/a/thumb_440826218.jpeg",
       "type": "event",
       "base_url": "https://secure.meetupstatic.com"
     },
     "key_photo": {
       "id": 434480359,
-      "highres_link":
-        "https://secure.meetupstatic.com/photos/event/4/f/8/7/highres_434480359.jpeg",
-      "photo_link":
-        "https://secure.meetupstatic.com/photos/event/4/f/8/7/600_434480359.jpeg",
-      "thumb_link":
-        "https://secure.meetupstatic.com/photos/event/4/f/8/7/thumb_434480359.jpeg",
+      "highres_link": "https://secure.meetupstatic.com/photos/event/4/f/8/7/highres_434480359.jpeg",
+      "photo_link": "https://secure.meetupstatic.com/photos/event/4/f/8/7/600_434480359.jpeg",
+      "thumb_link": "https://secure.meetupstatic.com/photos/event/4/f/8/7/thumb_434480359.jpeg",
       "type": "event",
       "base_url": "https://secure.meetupstatic.com"
     },
     "timezone": "US/Eastern",
     "next_event": {
-      "id": "pqqgflywqbcc",
-      "name": "Tampa.rb: Annual Holiday Party!",
-      "yes_rsvp_count": 12,
-      "time": 1513296000000,
+      "id": "kggkjpyxdbtb",
+      "name": "Tampa.rb: Discussion about Live Coding Interviews",
+      "yes_rsvp_count": 6,
+      "time": 1518739200000,
       "utc_offset": -18000000
     },
-    "category": {
-      "id": 34,
-      "name": "Tech",
-      "shortname": "tech",
-      "sort_name": "Tech"
-    },
+    "category": { "id": 34, "name": "Tech", "shortname": "tech", "sort_name": "Tech" },
     "meta_category": {
       "id": 292,
       "shortname": "tech",
@@ -79,12 +65,9 @@
       "sort_name": "Tech",
       "photo": {
         "id": 450131949,
-        "highres_link":
-          "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
-        "photo_link":
-          "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
-        "thumb_link":
-          "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
+        "highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
+        "photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
+        "thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
         "type": "event",
         "base_url": "https://secure.meetupstatic.com"
       },
@@ -93,7 +76,7 @@
     "pro_network": {
       "name": "Tampa Bay Tech",
       "urlname": "tampabaytech",
-      "number_of_groups": 41,
+      "number_of_groups": 48,
       "network_url": "https://www.meetup.com/pro/tampabaytech/"
     }
   },
@@ -115,19 +98,16 @@
     "visibility": "public",
     "lat": 27.79,
     "lon": -82.73,
-    "members": 824,
+    "members": 850,
     "organizer": {
       "id": 20198871,
       "name": "Julián Duque",
       "bio": "Developer and Educator by Passion",
       "photo": {
         "id": 254630482,
-        "highres_link":
-          "https://secure.meetupstatic.com/photos/member/c/5/3/2/highres_254630482.jpeg",
-        "photo_link":
-          "https://secure.meetupstatic.com/photos/member/c/5/3/2/member_254630482.jpeg",
-        "thumb_link":
-          "https://secure.meetupstatic.com/photos/member/c/5/3/2/thumb_254630482.jpeg",
+        "highres_link": "https://secure.meetupstatic.com/photos/member/c/5/3/2/highres_254630482.jpeg",
+        "photo_link": "https://secure.meetupstatic.com/photos/member/c/5/3/2/member_254630482.jpeg",
+        "thumb_link": "https://secure.meetupstatic.com/photos/member/c/5/3/2/thumb_254630482.jpeg",
         "type": "member",
         "base_url": "https://secure.meetupstatic.com"
       }
@@ -135,33 +115,29 @@
     "who": "JavaScript Developers",
     "group_photo": {
       "id": 185755522,
-      "highres_link":
-        "https://secure.meetupstatic.com/photos/event/d/8/e/2/highres_185755522.jpeg",
-      "photo_link":
-        "https://secure.meetupstatic.com/photos/event/d/8/e/2/600_185755522.jpeg",
-      "thumb_link":
-        "https://secure.meetupstatic.com/photos/event/d/8/e/2/thumb_185755522.jpeg",
+      "highres_link": "https://secure.meetupstatic.com/photos/event/d/8/e/2/highres_185755522.jpeg",
+      "photo_link": "https://secure.meetupstatic.com/photos/event/d/8/e/2/600_185755522.jpeg",
+      "thumb_link": "https://secure.meetupstatic.com/photos/event/d/8/e/2/thumb_185755522.jpeg",
       "type": "event",
       "base_url": "https://secure.meetupstatic.com"
     },
     "key_photo": {
       "id": 440562456,
-      "highres_link":
-        "https://secure.meetupstatic.com/photos/event/a/5/d/8/highres_440562456.jpeg",
-      "photo_link":
-        "https://secure.meetupstatic.com/photos/event/a/5/d/8/600_440562456.jpeg",
-      "thumb_link":
-        "https://secure.meetupstatic.com/photos/event/a/5/d/8/thumb_440562456.jpeg",
+      "highres_link": "https://secure.meetupstatic.com/photos/event/a/5/d/8/highres_440562456.jpeg",
+      "photo_link": "https://secure.meetupstatic.com/photos/event/a/5/d/8/600_440562456.jpeg",
+      "thumb_link": "https://secure.meetupstatic.com/photos/event/a/5/d/8/thumb_440562456.jpeg",
       "type": "event",
       "base_url": "https://secure.meetupstatic.com"
     },
     "timezone": "US/Eastern",
-    "category": {
-      "id": 34,
-      "name": "Tech",
-      "shortname": "tech",
-      "sort_name": "Tech"
+    "next_event": {
+      "id": "247425099",
+      "name": "Should Designers Code? & Should Founders Code?",
+      "yes_rsvp_count": 20,
+      "time": 1519948800000,
+      "utc_offset": -18000000
     },
+    "category": { "id": 34, "name": "Tech", "shortname": "tech", "sort_name": "Tech" },
     "meta_category": {
       "id": 292,
       "shortname": "tech",
@@ -169,12 +145,9 @@
       "sort_name": "Tech",
       "photo": {
         "id": 450131949,
-        "highres_link":
-          "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
-        "photo_link":
-          "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
-        "thumb_link":
-          "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
+        "highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
+        "photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
+        "thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
         "type": "event",
         "base_url": "https://secure.meetupstatic.com"
       },
@@ -183,7 +156,7 @@
     "pro_network": {
       "name": "Tampa Bay Tech",
       "urlname": "tampabaytech",
-      "number_of_groups": 41,
+      "number_of_groups": 48,
       "network_url": "https://www.meetup.com/pro/tampabaytech/"
     }
   },
@@ -193,8 +166,7 @@
     "status": "active",
     "link": "https://www.meetup.com/Front-End-Design/",
     "urlname": "Front-End-Design",
-    "description":
-      "<p>Shop talk. Tutorials. A chance to teach and learn from our fellow front-enders.</p>",
+    "description": "<p>Shop talk. Tutorials. A chance to teach and learn from our fellow front-enders.</p>",
     "created": 1279301149000,
     "city": "Saint Petersburg",
     "country": "US",
@@ -205,19 +177,16 @@
     "visibility": "public",
     "lat": 27.77,
     "lon": -82.64,
-    "members": 1202,
+    "members": 1240,
     "organizer": {
       "id": 7641489,
       "name": "Tim Knight",
       "bio": "",
       "photo": {
         "id": 256499951,
-        "highres_link":
-          "https://secure.meetupstatic.com/photos/member/e/a/2/f/highres_256499951.jpeg",
-        "photo_link":
-          "https://secure.meetupstatic.com/photos/member/e/a/2/f/member_256499951.jpeg",
-        "thumb_link":
-          "https://secure.meetupstatic.com/photos/member/e/a/2/f/thumb_256499951.jpeg",
+        "highres_link": "https://secure.meetupstatic.com/photos/member/e/a/2/f/highres_256499951.jpeg",
+        "photo_link": "https://secure.meetupstatic.com/photos/member/e/a/2/f/member_256499951.jpeg",
+        "thumb_link": "https://secure.meetupstatic.com/photos/member/e/a/2/f/thumb_256499951.jpeg",
         "type": "member",
         "base_url": "https://secure.meetupstatic.com"
       }
@@ -225,40 +194,29 @@
     "who": "Front-Enders",
     "group_photo": {
       "id": 16616766,
-      "highres_link":
-        "https://secure.meetupstatic.com/photos/event/d/d/b/e/highres_16616766.jpeg",
-      "photo_link":
-        "https://secure.meetupstatic.com/photos/event/d/d/b/e/600_16616766.jpeg",
-      "thumb_link":
-        "https://secure.meetupstatic.com/photos/event/d/d/b/e/thumb_16616766.jpeg",
+      "highres_link": "https://secure.meetupstatic.com/photos/event/d/d/b/e/highres_16616766.jpeg",
+      "photo_link": "https://secure.meetupstatic.com/photos/event/d/d/b/e/600_16616766.jpeg",
+      "thumb_link": "https://secure.meetupstatic.com/photos/event/d/d/b/e/thumb_16616766.jpeg",
       "type": "event",
       "base_url": "https://secure.meetupstatic.com"
     },
     "key_photo": {
       "id": 446769501,
-      "highres_link":
-        "https://secure.meetupstatic.com/photos/event/2/5/1/d/highres_446769501.jpeg",
-      "photo_link":
-        "https://secure.meetupstatic.com/photos/event/2/5/1/d/600_446769501.jpeg",
-      "thumb_link":
-        "https://secure.meetupstatic.com/photos/event/2/5/1/d/thumb_446769501.jpeg",
+      "highres_link": "https://secure.meetupstatic.com/photos/event/2/5/1/d/highres_446769501.jpeg",
+      "photo_link": "https://secure.meetupstatic.com/photos/event/2/5/1/d/600_446769501.jpeg",
+      "thumb_link": "https://secure.meetupstatic.com/photos/event/2/5/1/d/thumb_446769501.jpeg",
       "type": "event",
       "base_url": "https://secure.meetupstatic.com"
     },
     "timezone": "US/Eastern",
     "next_event": {
-      "id": "245504739",
-      "name": "Dev Meetup Holiday Party!",
+      "id": "247211315",
+      "name": "World IA Day 2018",
       "yes_rsvp_count": 18,
-      "time": 1513296000000,
+      "time": 1519486200000,
       "utc_offset": -18000000
     },
-    "category": {
-      "id": 34,
-      "name": "Tech",
-      "shortname": "tech",
-      "sort_name": "Tech"
-    },
+    "category": { "id": 34, "name": "Tech", "shortname": "tech", "sort_name": "Tech" },
     "meta_category": {
       "id": 292,
       "shortname": "tech",
@@ -266,12 +224,9 @@
       "sort_name": "Tech",
       "photo": {
         "id": 450131949,
-        "highres_link":
-          "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
-        "photo_link":
-          "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
-        "thumb_link":
-          "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
+        "highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
+        "photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
+        "thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
         "type": "event",
         "base_url": "https://secure.meetupstatic.com"
       },
@@ -280,7 +235,7 @@
     "pro_network": {
       "name": "Tampa Bay Tech",
       "urlname": "tampabaytech",
-      "number_of_groups": 41,
+      "number_of_groups": 48,
       "network_url": "https://www.meetup.com/pro/tampabaytech/"
     }
   },
@@ -302,19 +257,16 @@
     "visibility": "public",
     "lat": 27.77,
     "lon": -82.64,
-    "members": 295,
+    "members": 296,
     "organizer": {
       "id": 20198871,
       "name": "Julián Duque",
       "bio": "Developer and Educator by Passion",
       "photo": {
         "id": 254315816,
-        "highres_link":
-          "https://secure.meetupstatic.com/photos/member/8/b/e/8/highres_254315816.jpeg",
-        "photo_link":
-          "https://secure.meetupstatic.com/photos/member/8/b/e/8/member_254315816.jpeg",
-        "thumb_link":
-          "https://secure.meetupstatic.com/photos/member/8/b/e/8/thumb_254315816.jpeg",
+        "highres_link": "https://secure.meetupstatic.com/photos/member/8/b/e/8/highres_254315816.jpeg",
+        "photo_link": "https://secure.meetupstatic.com/photos/member/8/b/e/8/member_254315816.jpeg",
+        "thumb_link": "https://secure.meetupstatic.com/photos/member/8/b/e/8/thumb_254315816.jpeg",
         "type": "member",
         "base_url": "https://secure.meetupstatic.com"
       }
@@ -322,33 +274,22 @@
     "who": "NodeSchoolers",
     "group_photo": {
       "id": 448123506,
-      "highres_link":
-        "https://secure.meetupstatic.com/photos/event/a/9/f/2/highres_448123506.jpeg",
-      "photo_link":
-        "https://secure.meetupstatic.com/photos/event/a/9/f/2/600_448123506.jpeg",
-      "thumb_link":
-        "https://secure.meetupstatic.com/photos/event/a/9/f/2/thumb_448123506.jpeg",
+      "highres_link": "https://secure.meetupstatic.com/photos/event/a/9/f/2/highres_448123506.jpeg",
+      "photo_link": "https://secure.meetupstatic.com/photos/event/a/9/f/2/600_448123506.jpeg",
+      "thumb_link": "https://secure.meetupstatic.com/photos/event/a/9/f/2/thumb_448123506.jpeg",
       "type": "event",
       "base_url": "https://secure.meetupstatic.com"
     },
     "key_photo": {
       "id": 448123506,
-      "highres_link":
-        "https://secure.meetupstatic.com/photos/event/a/9/f/2/highres_448123506.jpeg",
-      "photo_link":
-        "https://secure.meetupstatic.com/photos/event/a/9/f/2/600_448123506.jpeg",
-      "thumb_link":
-        "https://secure.meetupstatic.com/photos/event/a/9/f/2/thumb_448123506.jpeg",
+      "highres_link": "https://secure.meetupstatic.com/photos/event/a/9/f/2/highres_448123506.jpeg",
+      "photo_link": "https://secure.meetupstatic.com/photos/event/a/9/f/2/600_448123506.jpeg",
+      "thumb_link": "https://secure.meetupstatic.com/photos/event/a/9/f/2/thumb_448123506.jpeg",
       "type": "event",
       "base_url": "https://secure.meetupstatic.com"
     },
     "timezone": "US/Eastern",
-    "category": {
-      "id": 34,
-      "name": "Tech",
-      "shortname": "tech",
-      "sort_name": "Tech"
-    },
+    "category": { "id": 34, "name": "Tech", "shortname": "tech", "sort_name": "Tech" },
     "meta_category": {
       "id": 292,
       "shortname": "tech",
@@ -356,12 +297,9 @@
       "sort_name": "Tech",
       "photo": {
         "id": 450131949,
-        "highres_link":
-          "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
-        "photo_link":
-          "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
-        "thumb_link":
-          "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
+        "highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
+        "photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
+        "thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
         "type": "event",
         "base_url": "https://secure.meetupstatic.com"
       },
@@ -386,7 +324,7 @@
     "visibility": "public",
     "lat": 27.73,
     "lon": -82.67,
-    "members": 912,
+    "members": 961,
     "organizer": {
       "id": 14646254,
       "name": "Girl Develop It",
@@ -394,12 +332,9 @@
         "Girl Develop It is a nonprofit organization that exists to provide affordable and accessible programs to women who want to learn web and software development through mentorship and hands-on instruction.",
       "photo": {
         "id": 20984831,
-        "highres_link":
-          "https://secure.meetupstatic.com/photos/member/a/f/1/f/highres_20984831.jpeg",
-        "photo_link":
-          "https://secure.meetupstatic.com/photos/member/a/f/1/f/member_20984831.jpeg",
-        "thumb_link":
-          "https://secure.meetupstatic.com/photos/member/a/f/1/f/thumb_20984831.jpeg",
+        "highres_link": "https://secure.meetupstatic.com/photos/member/a/f/1/f/highres_20984831.jpeg",
+        "photo_link": "https://secure.meetupstatic.com/photos/member/a/f/1/f/member_20984831.jpeg",
+        "thumb_link": "https://secure.meetupstatic.com/photos/member/a/f/1/f/thumb_20984831.jpeg",
         "type": "member",
         "base_url": "https://secure.meetupstatic.com"
       }
@@ -407,40 +342,29 @@
     "who": "Nerdettes",
     "group_photo": {
       "id": 436114732,
-      "highres_link":
-        "https://secure.meetupstatic.com/photos/event/8/7/a/c/highres_436114732.jpeg",
-      "photo_link":
-        "https://secure.meetupstatic.com/photos/event/8/7/a/c/600_436114732.jpeg",
-      "thumb_link":
-        "https://secure.meetupstatic.com/photos/event/8/7/a/c/thumb_436114732.jpeg",
+      "highres_link": "https://secure.meetupstatic.com/photos/event/8/7/a/c/highres_436114732.jpeg",
+      "photo_link": "https://secure.meetupstatic.com/photos/event/8/7/a/c/600_436114732.jpeg",
+      "thumb_link": "https://secure.meetupstatic.com/photos/event/8/7/a/c/thumb_436114732.jpeg",
       "type": "event",
       "base_url": "https://secure.meetupstatic.com"
     },
     "key_photo": {
       "id": 434838420,
-      "highres_link":
-        "https://secure.meetupstatic.com/photos/event/4/7/f/4/highres_434838420.jpeg",
-      "photo_link":
-        "https://secure.meetupstatic.com/photos/event/4/7/f/4/600_434838420.jpeg",
-      "thumb_link":
-        "https://secure.meetupstatic.com/photos/event/4/7/f/4/thumb_434838420.jpeg",
+      "highres_link": "https://secure.meetupstatic.com/photos/event/4/7/f/4/highres_434838420.jpeg",
+      "photo_link": "https://secure.meetupstatic.com/photos/event/4/7/f/4/600_434838420.jpeg",
+      "thumb_link": "https://secure.meetupstatic.com/photos/event/4/7/f/4/thumb_434838420.jpeg",
       "type": "event",
       "base_url": "https://secure.meetupstatic.com"
     },
     "timezone": "US/Eastern",
     "next_event": {
-      "id": "245309241",
-      "name": "Dev Meetup Holiday Party!",
-      "yes_rsvp_count": 26,
-      "time": 1513296000000,
+      "id": "247027659",
+      "name": "Code & Coffee (Kid Friendly!)",
+      "yes_rsvp_count": 16,
+      "time": 1518877800000,
       "utc_offset": -18000000
     },
-    "category": {
-      "id": 34,
-      "name": "Tech",
-      "shortname": "tech",
-      "sort_name": "Tech"
-    },
+    "category": { "id": 34, "name": "Tech", "shortname": "tech", "sort_name": "Tech" },
     "meta_category": {
       "id": 292,
       "shortname": "tech",
@@ -448,12 +372,9 @@
       "sort_name": "Tech",
       "photo": {
         "id": 450131949,
-        "highres_link":
-          "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
-        "photo_link":
-          "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
-        "thumb_link":
-          "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
+        "highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
+        "photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
+        "thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
         "type": "event",
         "base_url": "https://secure.meetupstatic.com"
       },
@@ -462,7 +383,7 @@
     "pro_network": {
       "name": "Girl Develop It",
       "urlname": "girldevelopit",
-      "number_of_groups": 57,
+      "number_of_groups": 58,
       "network_url": "https://www.meetup.com/pro/girldevelopit/"
     }
   },
@@ -484,19 +405,16 @@
     "visibility": "public",
     "lat": 28.08,
     "lon": -82.52,
-    "members": 416,
+    "members": 440,
     "organizer": {
       "id": 12879657,
       "name": "Joey DeVilla",
       "bio": "",
       "photo": {
         "id": 265927159,
-        "highres_link":
-          "https://secure.meetupstatic.com/photos/member/1/b/f/7/highres_265927159.jpeg",
-        "photo_link":
-          "https://secure.meetupstatic.com/photos/member/1/b/f/7/member_265927159.jpeg",
-        "thumb_link":
-          "https://secure.meetupstatic.com/photos/member/1/b/f/7/thumb_265927159.jpeg",
+        "highres_link": "https://secure.meetupstatic.com/photos/member/1/b/f/7/highres_265927159.jpeg",
+        "photo_link": "https://secure.meetupstatic.com/photos/member/1/b/f/7/member_265927159.jpeg",
+        "thumb_link": "https://secure.meetupstatic.com/photos/member/1/b/f/7/thumb_265927159.jpeg",
         "type": "member",
         "base_url": "https://secure.meetupstatic.com"
       }
@@ -504,33 +422,29 @@
     "who": "iOS Developers",
     "group_photo": {
       "id": 443175017,
-      "highres_link":
-        "https://secure.meetupstatic.com/photos/event/3/a/a/9/highres_443175017.jpeg",
-      "photo_link":
-        "https://secure.meetupstatic.com/photos/event/3/a/a/9/600_443175017.jpeg",
-      "thumb_link":
-        "https://secure.meetupstatic.com/photos/event/3/a/a/9/thumb_443175017.jpeg",
+      "highres_link": "https://secure.meetupstatic.com/photos/event/3/a/a/9/highres_443175017.jpeg",
+      "photo_link": "https://secure.meetupstatic.com/photos/event/3/a/a/9/600_443175017.jpeg",
+      "thumb_link": "https://secure.meetupstatic.com/photos/event/3/a/a/9/thumb_443175017.jpeg",
       "type": "event",
       "base_url": "https://secure.meetupstatic.com"
     },
     "key_photo": {
       "id": 445980600,
-      "highres_link":
-        "https://secure.meetupstatic.com/photos/event/2/5/8/highres_445980600.jpeg",
-      "photo_link":
-        "https://secure.meetupstatic.com/photos/event/2/5/8/600_445980600.jpeg",
-      "thumb_link":
-        "https://secure.meetupstatic.com/photos/event/2/5/8/thumb_445980600.jpeg",
+      "highres_link": "https://secure.meetupstatic.com/photos/event/2/5/8/highres_445980600.jpeg",
+      "photo_link": "https://secure.meetupstatic.com/photos/event/2/5/8/600_445980600.jpeg",
+      "thumb_link": "https://secure.meetupstatic.com/photos/event/2/5/8/thumb_445980600.jpeg",
       "type": "event",
       "base_url": "https://secure.meetupstatic.com"
     },
     "timezone": "US/Eastern",
-    "category": {
-      "id": 34,
-      "name": "Tech",
-      "shortname": "tech",
-      "sort_name": "Tech"
+    "next_event": {
+      "id": "ngmkfpyxdbkc",
+      "name": "Building database-backed iOS apps with Realm",
+      "yes_rsvp_count": 7,
+      "time": 1519774200000,
+      "utc_offset": -18000000
     },
+    "category": { "id": 34, "name": "Tech", "shortname": "tech", "sort_name": "Tech" },
     "meta_category": {
       "id": 292,
       "shortname": "tech",
@@ -538,12 +452,9 @@
       "sort_name": "Tech",
       "photo": {
         "id": 450131949,
-        "highres_link":
-          "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
-        "photo_link":
-          "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
-        "thumb_link":
-          "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
+        "highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
+        "photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
+        "thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
         "type": "event",
         "base_url": "https://secure.meetupstatic.com"
       },
@@ -552,7 +463,7 @@
     "pro_network": {
       "name": "Tampa Bay Tech",
       "urlname": "tampabaytech",
-      "number_of_groups": 41,
+      "number_of_groups": 48,
       "network_url": "https://www.meetup.com/pro/tampabaytech/"
     }
   },
@@ -574,7 +485,7 @@
     "visibility": "public",
     "lat": 27.88,
     "lon": -82.65,
-    "members": 825,
+    "members": 878,
     "organizer": {
       "id": 30815012,
       "name": "John Callaway",
@@ -582,12 +493,9 @@
         "Microsoft MVP in Visual Studio and Development Technologies. Developer by day, Bonsai by night. Co-founder of St Pete .NET Meetup (@StPeteDotNET) and contributor at The 6 Figure Developer (@6FigureDev).",
       "photo": {
         "id": 148853042,
-        "highres_link":
-          "https://secure.meetupstatic.com/photos/member/c/f/3/2/highres_148853042.jpeg",
-        "photo_link":
-          "https://secure.meetupstatic.com/photos/member/c/f/3/2/member_148853042.jpeg",
-        "thumb_link":
-          "https://secure.meetupstatic.com/photos/member/c/f/3/2/thumb_148853042.jpeg",
+        "highres_link": "https://secure.meetupstatic.com/photos/member/c/f/3/2/highres_148853042.jpeg",
+        "photo_link": "https://secure.meetupstatic.com/photos/member/c/f/3/2/member_148853042.jpeg",
+        "thumb_link": "https://secure.meetupstatic.com/photos/member/c/f/3/2/thumb_148853042.jpeg",
         "type": "member",
         "base_url": "https://secure.meetupstatic.com"
       }
@@ -595,33 +503,29 @@
     "who": "Members",
     "group_photo": {
       "id": 445147763,
-      "highres_link":
-        "https://secure.meetupstatic.com/photos/event/1/e/5/3/highres_445147763.jpeg",
-      "photo_link":
-        "https://secure.meetupstatic.com/photos/event/1/e/5/3/600_445147763.jpeg",
-      "thumb_link":
-        "https://secure.meetupstatic.com/photos/event/1/e/5/3/thumb_445147763.jpeg",
+      "highres_link": "https://secure.meetupstatic.com/photos/event/1/e/5/3/highres_445147763.jpeg",
+      "photo_link": "https://secure.meetupstatic.com/photos/event/1/e/5/3/600_445147763.jpeg",
+      "thumb_link": "https://secure.meetupstatic.com/photos/event/1/e/5/3/thumb_445147763.jpeg",
       "type": "event",
       "base_url": "https://secure.meetupstatic.com"
     },
     "key_photo": {
       "id": 445147763,
-      "highres_link":
-        "https://secure.meetupstatic.com/photos/event/1/e/5/3/highres_445147763.jpeg",
-      "photo_link":
-        "https://secure.meetupstatic.com/photos/event/1/e/5/3/600_445147763.jpeg",
-      "thumb_link":
-        "https://secure.meetupstatic.com/photos/event/1/e/5/3/thumb_445147763.jpeg",
+      "highres_link": "https://secure.meetupstatic.com/photos/event/1/e/5/3/highres_445147763.jpeg",
+      "photo_link": "https://secure.meetupstatic.com/photos/event/1/e/5/3/600_445147763.jpeg",
+      "thumb_link": "https://secure.meetupstatic.com/photos/event/1/e/5/3/thumb_445147763.jpeg",
       "type": "event",
       "base_url": "https://secure.meetupstatic.com"
     },
     "timezone": "US/Eastern",
-    "category": {
-      "id": 34,
-      "name": "Tech",
-      "shortname": "tech",
-      "sort_name": "Tech"
+    "next_event": {
+      "id": "247266652",
+      "name": ".NET Configurations and Transforms with Matthew Albright",
+      "yes_rsvp_count": 18,
+      "time": 1520380800000,
+      "utc_offset": -18000000
     },
+    "category": { "id": 34, "name": "Tech", "shortname": "tech", "sort_name": "Tech" },
     "meta_category": {
       "id": 292,
       "shortname": "tech",
@@ -629,12 +533,9 @@
       "sort_name": "Tech",
       "photo": {
         "id": 450131949,
-        "highres_link":
-          "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
-        "photo_link":
-          "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
-        "thumb_link":
-          "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
+        "highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
+        "photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
+        "thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
         "type": "event",
         "base_url": "https://secure.meetupstatic.com"
       },
@@ -643,7 +544,7 @@
     "pro_network": {
       "name": "Tampa Bay Tech",
       "urlname": "tampabaytech",
-      "number_of_groups": 41,
+      "number_of_groups": 48,
       "network_url": "https://www.meetup.com/pro/tampabaytech/"
     }
   },
@@ -665,7 +566,7 @@
     "visibility": "public",
     "lat": 27.96,
     "lon": -82.46,
-    "members": 716,
+    "members": 736,
     "organizer": {
       "id": 14096341,
       "name": "Eli Wheaton",
@@ -673,12 +574,9 @@
         "I'm a freelance web developer that builds websites using Node, Express, MongoDB, JavaScript, PHP, MySQL, Laravel, HTML, CSS, jQuery, CodeIgniter & WordPress.",
       "photo": {
         "id": 271907590,
-        "highres_link":
-          "https://secure.meetupstatic.com/photos/member/b/9/e/6/highres_271907590.jpeg",
-        "photo_link":
-          "https://secure.meetupstatic.com/photos/member/b/9/e/6/member_271907590.jpeg",
-        "thumb_link":
-          "https://secure.meetupstatic.com/photos/member/b/9/e/6/thumb_271907590.jpeg",
+        "highres_link": "https://secure.meetupstatic.com/photos/member/b/9/e/6/highres_271907590.jpeg",
+        "photo_link": "https://secure.meetupstatic.com/photos/member/b/9/e/6/member_271907590.jpeg",
+        "thumb_link": "https://secure.meetupstatic.com/photos/member/b/9/e/6/thumb_271907590.jpeg",
         "type": "member",
         "base_url": "https://secure.meetupstatic.com"
       }
@@ -686,33 +584,22 @@
     "who": "Noders",
     "group_photo": {
       "id": 402806092,
-      "highres_link":
-        "https://secure.meetupstatic.com/photos/event/6/5/e/c/highres_402806092.jpeg",
-      "photo_link":
-        "https://secure.meetupstatic.com/photos/event/6/5/e/c/600_402806092.jpeg",
-      "thumb_link":
-        "https://secure.meetupstatic.com/photos/event/6/5/e/c/thumb_402806092.jpeg",
+      "highres_link": "https://secure.meetupstatic.com/photos/event/6/5/e/c/highres_402806092.jpeg",
+      "photo_link": "https://secure.meetupstatic.com/photos/event/6/5/e/c/600_402806092.jpeg",
+      "thumb_link": "https://secure.meetupstatic.com/photos/event/6/5/e/c/thumb_402806092.jpeg",
       "type": "event",
       "base_url": "https://secure.meetupstatic.com"
     },
     "key_photo": {
       "id": 450426849,
-      "highres_link":
-        "https://secure.meetupstatic.com/photos/event/1/a/c/1/highres_450426849.jpeg",
-      "photo_link":
-        "https://secure.meetupstatic.com/photos/event/1/a/c/1/600_450426849.jpeg",
-      "thumb_link":
-        "https://secure.meetupstatic.com/photos/event/1/a/c/1/thumb_450426849.jpeg",
+      "highres_link": "https://secure.meetupstatic.com/photos/event/1/a/c/1/highres_450426849.jpeg",
+      "photo_link": "https://secure.meetupstatic.com/photos/event/1/a/c/1/600_450426849.jpeg",
+      "thumb_link": "https://secure.meetupstatic.com/photos/event/1/a/c/1/thumb_450426849.jpeg",
       "type": "event",
       "base_url": "https://secure.meetupstatic.com"
     },
     "timezone": "US/Eastern",
-    "category": {
-      "id": 34,
-      "name": "Tech",
-      "shortname": "tech",
-      "sort_name": "Tech"
-    },
+    "category": { "id": 34, "name": "Tech", "shortname": "tech", "sort_name": "Tech" },
     "meta_category": {
       "id": 292,
       "shortname": "tech",
@@ -720,12 +607,9 @@
       "sort_name": "Tech",
       "photo": {
         "id": 450131949,
-        "highres_link":
-          "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
-        "photo_link":
-          "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
-        "thumb_link":
-          "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
+        "highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
+        "photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
+        "thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
         "type": "event",
         "base_url": "https://secure.meetupstatic.com"
       },
@@ -734,7 +618,7 @@
     "pro_network": {
       "name": "Tampa Bay Tech",
       "urlname": "tampabaytech",
-      "number_of_groups": 41,
+      "number_of_groups": 48,
       "network_url": "https://www.meetup.com/pro/tampabaytech/"
     }
   },
@@ -756,19 +640,16 @@
     "visibility": "public",
     "lat": 27.94,
     "lon": -82.74,
-    "members": 251,
+    "members": 272,
     "organizer": {
       "id": 10936843,
       "name": "Fred Gohsman",
       "bio": "",
       "photo": {
         "id": 242506916,
-        "highres_link":
-          "https://secure.meetupstatic.com/photos/member/b/7/4/4/highres_242506916.jpeg",
-        "photo_link":
-          "https://secure.meetupstatic.com/photos/member/b/7/4/4/member_242506916.jpeg",
-        "thumb_link":
-          "https://secure.meetupstatic.com/photos/member/b/7/4/4/thumb_242506916.jpeg",
+        "highres_link": "https://secure.meetupstatic.com/photos/member/b/7/4/4/highres_242506916.jpeg",
+        "photo_link": "https://secure.meetupstatic.com/photos/member/b/7/4/4/member_242506916.jpeg",
+        "thumb_link": "https://secure.meetupstatic.com/photos/member/b/7/4/4/thumb_242506916.jpeg",
         "type": "member",
         "base_url": "https://secure.meetupstatic.com"
       }
@@ -776,29 +657,21 @@
     "who": "Game Makers",
     "key_photo": {
       "id": 450213447,
-      "highres_link":
-        "https://secure.meetupstatic.com/photos/event/8/2/a/7/highres_450213447.jpeg",
-      "photo_link":
-        "https://secure.meetupstatic.com/photos/event/8/2/a/7/600_450213447.jpeg",
-      "thumb_link":
-        "https://secure.meetupstatic.com/photos/event/8/2/a/7/thumb_450213447.jpeg",
+      "highres_link": "https://secure.meetupstatic.com/photos/event/8/2/a/7/highres_450213447.jpeg",
+      "photo_link": "https://secure.meetupstatic.com/photos/event/8/2/a/7/600_450213447.jpeg",
+      "thumb_link": "https://secure.meetupstatic.com/photos/event/8/2/a/7/thumb_450213447.jpeg",
       "type": "event",
       "base_url": "https://secure.meetupstatic.com"
     },
     "timezone": "US/Eastern",
     "next_event": {
-      "id": "phftjlywqbvb",
+      "id": "phftjlyxdbwb",
       "name": "Game Project Therapy",
-      "yes_rsvp_count": 6,
-      "time": 1513454400000,
+      "yes_rsvp_count": 11,
+      "time": 1518897600000,
       "utc_offset": -18000000
     },
-    "category": {
-      "id": 34,
-      "name": "Tech",
-      "shortname": "tech",
-      "sort_name": "Tech"
-    },
+    "category": { "id": 34, "name": "Tech", "shortname": "tech", "sort_name": "Tech" },
     "meta_category": {
       "id": 292,
       "shortname": "tech",
@@ -806,12 +679,9 @@
       "sort_name": "Tech",
       "photo": {
         "id": 450131949,
-        "highres_link":
-          "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
-        "photo_link":
-          "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
-        "thumb_link":
-          "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
+        "highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
+        "photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
+        "thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
         "type": "event",
         "base_url": "https://secure.meetupstatic.com"
       },
@@ -820,7 +690,7 @@
     "pro_network": {
       "name": "Unity User Group",
       "urlname": "unity",
-      "number_of_groups": 57,
+      "number_of_groups": 61,
       "network_url": "https://www.meetup.com/pro/unity/"
     }
   },
@@ -842,7 +712,7 @@
     "visibility": "public_limited",
     "lat": 27.96,
     "lon": -82.46,
-    "members": 329,
+    "members": 340,
     "organizer": {
       "id": 200671587,
       "name": "Women In Linux",
@@ -850,12 +720,9 @@
         "Women In Linux is a dynamic group who celebrate Linux centric women in technology, exposing women to other tech careers using the foundation of Linux and a viable resource for obtaining and sustaining a thriving career in tech.",
       "photo": {
         "id": 254386947,
-        "highres_link":
-          "https://secure.meetupstatic.com/photos/member/b/7/6/3/highres_254386947.jpeg",
-        "photo_link":
-          "https://secure.meetupstatic.com/photos/member/b/7/6/3/member_254386947.jpeg",
-        "thumb_link":
-          "https://secure.meetupstatic.com/photos/member/b/7/6/3/thumb_254386947.jpeg",
+        "highres_link": "https://secure.meetupstatic.com/photos/member/b/7/6/3/highres_254386947.jpeg",
+        "photo_link": "https://secure.meetupstatic.com/photos/member/b/7/6/3/member_254386947.jpeg",
+        "thumb_link": "https://secure.meetupstatic.com/photos/member/b/7/6/3/thumb_254386947.jpeg",
         "type": "member",
         "base_url": "https://secure.meetupstatic.com"
       }
@@ -863,22 +730,21 @@
     "who": "Members",
     "key_photo": {
       "id": 448471977,
-      "highres_link":
-        "https://secure.meetupstatic.com/photos/event/7/c/e/9/highres_448471977.jpeg",
-      "photo_link":
-        "https://secure.meetupstatic.com/photos/event/7/c/e/9/600_448471977.jpeg",
-      "thumb_link":
-        "https://secure.meetupstatic.com/photos/event/7/c/e/9/thumb_448471977.jpeg",
+      "highres_link": "https://secure.meetupstatic.com/photos/event/7/c/e/9/highres_448471977.jpeg",
+      "photo_link": "https://secure.meetupstatic.com/photos/event/7/c/e/9/600_448471977.jpeg",
+      "thumb_link": "https://secure.meetupstatic.com/photos/event/7/c/e/9/thumb_448471977.jpeg",
       "type": "event",
       "base_url": "https://secure.meetupstatic.com"
     },
     "timezone": "US/Eastern",
-    "category": {
-      "id": 34,
-      "name": "Tech",
-      "shortname": "tech",
-      "sort_name": "Tech"
+    "next_event": {
+      "id": "247729374",
+      "name": "Understanding Linux",
+      "yes_rsvp_count": 14,
+      "time": 1518739200000,
+      "utc_offset": -18000000
     },
+    "category": { "id": 34, "name": "Tech", "shortname": "tech", "sort_name": "Tech" },
     "meta_category": {
       "id": 292,
       "shortname": "tech",
@@ -886,12 +752,9 @@
       "sort_name": "Tech",
       "photo": {
         "id": 450131949,
-        "highres_link":
-          "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
-        "photo_link":
-          "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
-        "thumb_link":
-          "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
+        "highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
+        "photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
+        "thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
         "type": "event",
         "base_url": "https://secure.meetupstatic.com"
       },
@@ -900,7 +763,7 @@
     "pro_network": {
       "name": "Tampa Bay Tech",
       "urlname": "tampabaytech",
-      "number_of_groups": 41,
+      "number_of_groups": 48,
       "network_url": "https://www.meetup.com/pro/tampabaytech/"
     }
   },
@@ -911,7 +774,7 @@
     "link": "https://www.meetup.com/suncoast-developers-guild/",
     "urlname": "suncoast-developers-guild",
     "description":
-      "<p>The Suncoast Developers Guild is a community representing a number of developer organizations in the Greater Tampa Bay area.<br><br>Be sure to sign up for our Slack team.<br><br>And, most importantly, help us maintain a safe and inviting environment for all kinds of people by reading and adhering to the Suncoast Developers Guild Code of Conduct</p>\n<p><br></p>\n<p><br></p>",
+      "<p>The Suncoast Developers Guild is a community representing a number of developer organizations in the Greater Tampa Bay area. <br> <br>Be sure to sign up for our Slack team. (<a href=\"http://suncoast.io/\">http://suncoast.io/</a>)<br> <br>And, most importantly, help us maintain a safe and inviting environment for all kinds of people by reading and adhering to the Suncoast Developers Guild Code of Conduct.&nbsp;(<a href=\"http://suncoast.io/conduct\">http://suncoast.io/conduct</a>)</p>\n<p> <br></p>\n<p> <br></p>",
     "created": 1415829215000,
     "city": "Saint Petersburg",
     "country": "US",
@@ -922,7 +785,7 @@
     "visibility": "public",
     "lat": 27.77,
     "lon": -82.64,
-    "members": 2533,
+    "members": 2604,
     "organizer": {
       "id": 182514532,
       "name": "Toni Warren",
@@ -930,12 +793,9 @@
         "Hi, I'm Toni, the President of the Suncoast Developers Guild in Tampa Bay. Passionate about supporting the software engineering community.",
       "photo": {
         "id": 253250812,
-        "highres_link":
-          "https://secure.meetupstatic.com/photos/member/c/6/7/c/highres_253250812.jpeg",
-        "photo_link":
-          "https://secure.meetupstatic.com/photos/member/c/6/7/c/member_253250812.jpeg",
-        "thumb_link":
-          "https://secure.meetupstatic.com/photos/member/c/6/7/c/thumb_253250812.jpeg",
+        "highres_link": "https://secure.meetupstatic.com/photos/member/c/6/7/c/highres_253250812.jpeg",
+        "photo_link": "https://secure.meetupstatic.com/photos/member/c/6/7/c/member_253250812.jpeg",
+        "thumb_link": "https://secure.meetupstatic.com/photos/member/c/6/7/c/thumb_253250812.jpeg",
         "type": "member",
         "base_url": "https://secure.meetupstatic.com"
       }
@@ -943,40 +803,29 @@
     "who": "Members",
     "group_photo": {
       "id": 465480332,
-      "highres_link":
-        "https://secure.meetupstatic.com/photos/event/1/4/c/highres_465480332.jpeg",
-      "photo_link":
-        "https://secure.meetupstatic.com/photos/event/1/4/c/600_465480332.jpeg",
-      "thumb_link":
-        "https://secure.meetupstatic.com/photos/event/1/4/c/thumb_465480332.jpeg",
+      "highres_link": "https://secure.meetupstatic.com/photos/event/1/4/c/highres_465480332.jpeg",
+      "photo_link": "https://secure.meetupstatic.com/photos/event/1/4/c/600_465480332.jpeg",
+      "thumb_link": "https://secure.meetupstatic.com/photos/event/1/4/c/thumb_465480332.jpeg",
       "type": "event",
       "base_url": "https://secure.meetupstatic.com"
     },
     "key_photo": {
-      "id": 451655116,
-      "highres_link":
-        "https://secure.meetupstatic.com/photos/event/8/9/2/c/highres_451655116.jpeg",
-      "photo_link":
-        "https://secure.meetupstatic.com/photos/event/8/9/2/c/600_451655116.jpeg",
-      "thumb_link":
-        "https://secure.meetupstatic.com/photos/event/8/9/2/c/thumb_451655116.jpeg",
+      "id": 467725951,
+      "highres_link": "https://secure.meetupstatic.com/photos/event/6/5/5/f/highres_467725951.jpeg",
+      "photo_link": "https://secure.meetupstatic.com/photos/event/6/5/5/f/600_467725951.jpeg",
+      "thumb_link": "https://secure.meetupstatic.com/photos/event/6/5/5/f/thumb_467725951.jpeg",
       "type": "event",
       "base_url": "https://secure.meetupstatic.com"
     },
     "timezone": "US/Eastern",
     "next_event": {
-      "id": "245310555",
-      "name": "Annual Holiday Party!",
-      "yes_rsvp_count": 30,
-      "time": 1513296000000,
+      "id": "247515806",
+      "name": "Startup Week: Journey into Serverless Websites",
+      "yes_rsvp_count": 21,
+      "time": 1518710400000,
       "utc_offset": -18000000
     },
-    "category": {
-      "id": 34,
-      "name": "Tech",
-      "shortname": "tech",
-      "sort_name": "Tech"
-    },
+    "category": { "id": 34, "name": "Tech", "shortname": "tech", "sort_name": "Tech" },
     "meta_category": {
       "id": 292,
       "shortname": "tech",
@@ -984,22 +833,19 @@
       "sort_name": "Tech",
       "photo": {
         "id": 450131949,
-        "highres_link":
-          "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
-        "photo_link":
-          "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
-        "thumb_link":
-          "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
+        "highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
+        "photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
+        "thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
         "type": "event",
         "base_url": "https://secure.meetupstatic.com"
       },
       "category_ids": [34]
     },
     "pro_network": {
-      "name": "The Iron Yard",
-      "urlname": "the-iron-yard",
-      "number_of_groups": 15,
-      "network_url": "https://www.meetup.com/pro/the-iron-yard/"
+      "name": "Tampa Bay Tech",
+      "urlname": "tampabaytech",
+      "number_of_groups": 48,
+      "network_url": "https://www.meetup.com/pro/tampabaytech/"
     }
   },
   {
@@ -1020,20 +866,16 @@
     "visibility": "public",
     "lat": 27.84,
     "lon": -82.8,
-    "members": 506,
+    "members": 533,
     "organizer": {
       "id": 1412901,
       "name": "Gavin Stark",
-      "bio":
-        "Just starting to get serious on some Rails projects and would like to meet others doing the same.",
+      "bio": "Just starting to get serious on some Rails projects and would like to meet others doing the same.",
       "photo": {
         "id": 6716456,
-        "highres_link":
-          "https://secure.meetupstatic.com/photos/member/d/c/8/8/highres_6716456.jpeg",
-        "photo_link":
-          "https://secure.meetupstatic.com/photos/member/d/c/8/8/member_6716456.jpeg",
-        "thumb_link":
-          "https://secure.meetupstatic.com/photos/member/d/c/8/8/thumb_6716456.jpeg",
+        "highres_link": "https://secure.meetupstatic.com/photos/member/d/c/8/8/highres_6716456.jpeg",
+        "photo_link": "https://secure.meetupstatic.com/photos/member/d/c/8/8/member_6716456.jpeg",
+        "thumb_link": "https://secure.meetupstatic.com/photos/member/d/c/8/8/thumb_6716456.jpeg",
         "type": "member",
         "base_url": "https://secure.meetupstatic.com"
       }
@@ -1041,33 +883,22 @@
     "who": "Developers",
     "group_photo": {
       "id": 441180192,
-      "highres_link":
-        "https://secure.meetupstatic.com/photos/event/c/0/highres_441180192.jpeg",
-      "photo_link":
-        "https://secure.meetupstatic.com/photos/event/c/0/600_441180192.jpeg",
-      "thumb_link":
-        "https://secure.meetupstatic.com/photos/event/c/0/thumb_441180192.jpeg",
+      "highres_link": "https://secure.meetupstatic.com/photos/event/c/0/highres_441180192.jpeg",
+      "photo_link": "https://secure.meetupstatic.com/photos/event/c/0/600_441180192.jpeg",
+      "thumb_link": "https://secure.meetupstatic.com/photos/event/c/0/thumb_441180192.jpeg",
       "type": "event",
       "base_url": "https://secure.meetupstatic.com"
     },
     "key_photo": {
       "id": 253087282,
-      "highres_link":
-        "https://secure.meetupstatic.com/photos/event/1/c/7/2/highres_253087282.jpeg",
-      "photo_link":
-        "https://secure.meetupstatic.com/photos/event/1/c/7/2/600_253087282.jpeg",
-      "thumb_link":
-        "https://secure.meetupstatic.com/photos/event/1/c/7/2/thumb_253087282.jpeg",
+      "highres_link": "https://secure.meetupstatic.com/photos/event/1/c/7/2/highres_253087282.jpeg",
+      "photo_link": "https://secure.meetupstatic.com/photos/event/1/c/7/2/600_253087282.jpeg",
+      "thumb_link": "https://secure.meetupstatic.com/photos/event/1/c/7/2/thumb_253087282.jpeg",
       "type": "event",
       "base_url": "https://secure.meetupstatic.com"
     },
     "timezone": "US/Eastern",
-    "category": {
-      "id": 34,
-      "name": "Tech",
-      "shortname": "tech",
-      "sort_name": "Tech"
-    },
+    "category": { "id": 34, "name": "Tech", "shortname": "tech", "sort_name": "Tech" },
     "meta_category": {
       "id": 292,
       "shortname": "tech",
@@ -1075,12 +906,9 @@
       "sort_name": "Tech",
       "photo": {
         "id": 450131949,
-        "highres_link":
-          "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
-        "photo_link":
-          "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
-        "thumb_link":
-          "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
+        "highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
+        "photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
+        "thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
         "type": "event",
         "base_url": "https://secure.meetupstatic.com"
       },
@@ -1089,7 +917,7 @@
     "pro_network": {
       "name": "Tampa Bay Tech",
       "urlname": "tampabaytech",
-      "number_of_groups": 41,
+      "number_of_groups": 48,
       "network_url": "https://www.meetup.com/pro/tampabaytech/"
     }
   },
@@ -1115,16 +943,12 @@
     "organizer": {
       "id": 1412901,
       "name": "Gavin Stark",
-      "bio":
-        "Just starting to get serious on some Rails projects and would like to meet others doing the same.",
+      "bio": "Just starting to get serious on some Rails projects and would like to meet others doing the same.",
       "photo": {
         "id": 6716456,
-        "highres_link":
-          "https://secure.meetupstatic.com/photos/member/d/c/8/8/highres_6716456.jpeg",
-        "photo_link":
-          "https://secure.meetupstatic.com/photos/member/d/c/8/8/member_6716456.jpeg",
-        "thumb_link":
-          "https://secure.meetupstatic.com/photos/member/d/c/8/8/thumb_6716456.jpeg",
+        "highres_link": "https://secure.meetupstatic.com/photos/member/d/c/8/8/highres_6716456.jpeg",
+        "photo_link": "https://secure.meetupstatic.com/photos/member/d/c/8/8/member_6716456.jpeg",
+        "thumb_link": "https://secure.meetupstatic.com/photos/member/d/c/8/8/thumb_6716456.jpeg",
         "type": "member",
         "base_url": "https://secure.meetupstatic.com"
       }
@@ -1132,23 +956,17 @@
     "who": "Geeks",
     "group_photo": {
       "id": 97841892,
-      "highres_link":
-        "https://secure.meetupstatic.com/photos/event/a/3/a/4/highres_97841892.jpeg",
-      "photo_link":
-        "https://secure.meetupstatic.com/photos/event/a/3/a/4/600_97841892.jpeg",
-      "thumb_link":
-        "https://secure.meetupstatic.com/photos/event/a/3/a/4/thumb_97841892.jpeg",
+      "highres_link": "https://secure.meetupstatic.com/photos/event/a/3/a/4/highres_97841892.jpeg",
+      "photo_link": "https://secure.meetupstatic.com/photos/event/a/3/a/4/600_97841892.jpeg",
+      "thumb_link": "https://secure.meetupstatic.com/photos/event/a/3/a/4/thumb_97841892.jpeg",
       "type": "event",
       "base_url": "https://secure.meetupstatic.com"
     },
     "key_photo": {
       "id": 435200915,
-      "highres_link":
-        "https://secure.meetupstatic.com/photos/event/5/1/b/3/highres_435200915.jpeg",
-      "photo_link":
-        "https://secure.meetupstatic.com/photos/event/5/1/b/3/600_435200915.jpeg",
-      "thumb_link":
-        "https://secure.meetupstatic.com/photos/event/5/1/b/3/thumb_435200915.jpeg",
+      "highres_link": "https://secure.meetupstatic.com/photos/event/5/1/b/3/highres_435200915.jpeg",
+      "photo_link": "https://secure.meetupstatic.com/photos/event/5/1/b/3/600_435200915.jpeg",
+      "thumb_link": "https://secure.meetupstatic.com/photos/event/5/1/b/3/thumb_435200915.jpeg",
       "type": "event",
       "base_url": "https://secure.meetupstatic.com"
     },
@@ -1166,12 +984,9 @@
       "sort_name": "Sci-Fi & Games",
       "photo": {
         "id": 450131938,
-        "highres_link":
-          "https://secure.meetupstatic.com/photos/event/2/e/a/2/highres_450131938.jpeg",
-        "photo_link":
-          "https://secure.meetupstatic.com/photos/event/2/e/a/2/600_450131938.jpeg",
-        "thumb_link":
-          "https://secure.meetupstatic.com/photos/event/2/e/a/2/thumb_450131938.jpeg",
+        "highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/2/highres_450131938.jpeg",
+        "photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/2/600_450131938.jpeg",
+        "thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/2/thumb_450131938.jpeg",
         "type": "event",
         "base_url": "https://secure.meetupstatic.com"
       },
@@ -1180,7 +995,7 @@
     "pro_network": {
       "name": "Tampa Bay Tech",
       "urlname": "tampabaytech",
-      "number_of_groups": 41,
+      "number_of_groups": 48,
       "network_url": "https://www.meetup.com/pro/tampabaytech/"
     }
   },
@@ -1202,7 +1017,7 @@
     "visibility": "public",
     "lat": 28.02,
     "lon": -82.77,
-    "members": 342,
+    "members": 347,
     "organizer": {
       "id": 14096341,
       "name": "Eli Wheaton",
@@ -1210,12 +1025,9 @@
         "I'm a freelance web developer that builds websites using Node, Express, MongoDB, JavaScript, PHP, MySQL, Laravel, HTML, CSS, jQuery, CodeIgniter & WordPress.",
       "photo": {
         "id": 271907590,
-        "highres_link":
-          "https://secure.meetupstatic.com/photos/member/b/9/e/6/highres_271907590.jpeg",
-        "photo_link":
-          "https://secure.meetupstatic.com/photos/member/b/9/e/6/member_271907590.jpeg",
-        "thumb_link":
-          "https://secure.meetupstatic.com/photos/member/b/9/e/6/thumb_271907590.jpeg",
+        "highres_link": "https://secure.meetupstatic.com/photos/member/b/9/e/6/highres_271907590.jpeg",
+        "photo_link": "https://secure.meetupstatic.com/photos/member/b/9/e/6/member_271907590.jpeg",
+        "thumb_link": "https://secure.meetupstatic.com/photos/member/b/9/e/6/thumb_271907590.jpeg",
         "type": "member",
         "base_url": "https://secure.meetupstatic.com"
       }
@@ -1223,33 +1035,22 @@
     "who": "Geeks",
     "group_photo": {
       "id": 435309758,
-      "highres_link":
-        "https://secure.meetupstatic.com/photos/event/2/6/1/e/highres_435309758.jpeg",
-      "photo_link":
-        "https://secure.meetupstatic.com/photos/event/2/6/1/e/600_435309758.jpeg",
-      "thumb_link":
-        "https://secure.meetupstatic.com/photos/event/2/6/1/e/thumb_435309758.jpeg",
+      "highres_link": "https://secure.meetupstatic.com/photos/event/2/6/1/e/highres_435309758.jpeg",
+      "photo_link": "https://secure.meetupstatic.com/photos/event/2/6/1/e/600_435309758.jpeg",
+      "thumb_link": "https://secure.meetupstatic.com/photos/event/2/6/1/e/thumb_435309758.jpeg",
       "type": "event",
       "base_url": "https://secure.meetupstatic.com"
     },
     "key_photo": {
       "id": 431720223,
-      "highres_link":
-        "https://secure.meetupstatic.com/photos/event/4/e/f/f/highres_431720223.jpeg",
-      "photo_link":
-        "https://secure.meetupstatic.com/photos/event/4/e/f/f/600_431720223.jpeg",
-      "thumb_link":
-        "https://secure.meetupstatic.com/photos/event/4/e/f/f/thumb_431720223.jpeg",
+      "highres_link": "https://secure.meetupstatic.com/photos/event/4/e/f/f/highres_431720223.jpeg",
+      "photo_link": "https://secure.meetupstatic.com/photos/event/4/e/f/f/600_431720223.jpeg",
+      "thumb_link": "https://secure.meetupstatic.com/photos/event/4/e/f/f/thumb_431720223.jpeg",
       "type": "event",
       "base_url": "https://secure.meetupstatic.com"
     },
     "timezone": "US/Eastern",
-    "category": {
-      "id": 34,
-      "name": "Tech",
-      "shortname": "tech",
-      "sort_name": "Tech"
-    },
+    "category": { "id": 34, "name": "Tech", "shortname": "tech", "sort_name": "Tech" },
     "meta_category": {
       "id": 292,
       "shortname": "tech",
@@ -1257,16 +1058,19 @@
       "sort_name": "Tech",
       "photo": {
         "id": 450131949,
-        "highres_link":
-          "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
-        "photo_link":
-          "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
-        "thumb_link":
-          "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
+        "highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
+        "photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
+        "thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
         "type": "event",
         "base_url": "https://secure.meetupstatic.com"
       },
       "category_ids": [34]
+    },
+    "pro_network": {
+      "name": "Tampa Bay Tech",
+      "urlname": "tampabaytech",
+      "number_of_groups": 48,
+      "network_url": "https://www.meetup.com/pro/tampabaytech/"
     }
   },
   {
@@ -1287,7 +1091,7 @@
     "visibility": "public",
     "lat": 27.79,
     "lon": -82.73,
-    "members": 71,
+    "members": 76,
     "organizer": {
       "id": 2975923,
       "name": "Jason Perry",
@@ -1295,12 +1099,9 @@
         "Jason is a native Floridian, software developer, and game development enthusiast. I also like LEGO and pandas. Yes, I just switched grammatical perspective in the middle of his bio.",
       "photo": {
         "id": 2266405,
-        "highres_link":
-          "https://secure.meetupstatic.com/photos/member/b/5/4/5/highres_2266405.jpeg",
-        "photo_link":
-          "https://secure.meetupstatic.com/photos/member/b/5/4/5/member_2266405.jpeg",
-        "thumb_link":
-          "https://secure.meetupstatic.com/photos/member/b/5/4/5/thumb_2266405.jpeg",
+        "highres_link": "https://secure.meetupstatic.com/photos/member/b/5/4/5/highres_2266405.jpeg",
+        "photo_link": "https://secure.meetupstatic.com/photos/member/b/5/4/5/member_2266405.jpeg",
+        "thumb_link": "https://secure.meetupstatic.com/photos/member/b/5/4/5/thumb_2266405.jpeg",
         "type": "member",
         "base_url": "https://secure.meetupstatic.com"
       }
@@ -1308,33 +1109,22 @@
     "who": "Game Creators",
     "group_photo": {
       "id": 437183441,
-      "highres_link":
-        "https://secure.meetupstatic.com/photos/event/5/b/9/1/highres_437183441.jpeg",
-      "photo_link":
-        "https://secure.meetupstatic.com/photos/event/5/b/9/1/600_437183441.jpeg",
-      "thumb_link":
-        "https://secure.meetupstatic.com/photos/event/5/b/9/1/thumb_437183441.jpeg",
+      "highres_link": "https://secure.meetupstatic.com/photos/event/5/b/9/1/highres_437183441.jpeg",
+      "photo_link": "https://secure.meetupstatic.com/photos/event/5/b/9/1/600_437183441.jpeg",
+      "thumb_link": "https://secure.meetupstatic.com/photos/event/5/b/9/1/thumb_437183441.jpeg",
       "type": "event",
       "base_url": "https://secure.meetupstatic.com"
     },
     "key_photo": {
       "id": 437183441,
-      "highres_link":
-        "https://secure.meetupstatic.com/photos/event/5/b/9/1/highres_437183441.jpeg",
-      "photo_link":
-        "https://secure.meetupstatic.com/photos/event/5/b/9/1/600_437183441.jpeg",
-      "thumb_link":
-        "https://secure.meetupstatic.com/photos/event/5/b/9/1/thumb_437183441.jpeg",
+      "highres_link": "https://secure.meetupstatic.com/photos/event/5/b/9/1/highres_437183441.jpeg",
+      "photo_link": "https://secure.meetupstatic.com/photos/event/5/b/9/1/600_437183441.jpeg",
+      "thumb_link": "https://secure.meetupstatic.com/photos/event/5/b/9/1/thumb_437183441.jpeg",
       "type": "event",
       "base_url": "https://secure.meetupstatic.com"
     },
     "timezone": "US/Eastern",
-    "category": {
-      "id": 34,
-      "name": "Tech",
-      "shortname": "tech",
-      "sort_name": "Tech"
-    },
+    "category": { "id": 34, "name": "Tech", "shortname": "tech", "sort_name": "Tech" },
     "meta_category": {
       "id": 292,
       "shortname": "tech",
@@ -1342,12 +1132,9 @@
       "sort_name": "Tech",
       "photo": {
         "id": 450131949,
-        "highres_link":
-          "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
-        "photo_link":
-          "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
-        "thumb_link":
-          "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
+        "highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
+        "photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
+        "thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
         "type": "event",
         "base_url": "https://secure.meetupstatic.com"
       },
@@ -1372,44 +1159,33 @@
     "visibility": "public",
     "lat": 27.96,
     "lon": -82.46,
-    "members": 883,
+    "members": 942,
     "who": "Python Programmers",
     "group_photo": {
       "id": 456870463,
-      "highres_link":
-        "https://secure.meetupstatic.com/photos/event/7/6/f/f/highres_456870463.jpeg",
-      "photo_link":
-        "https://secure.meetupstatic.com/photos/event/7/6/f/f/600_456870463.jpeg",
-      "thumb_link":
-        "https://secure.meetupstatic.com/photos/event/7/6/f/f/thumb_456870463.jpeg",
+      "highres_link": "https://secure.meetupstatic.com/photos/event/7/6/f/f/highres_456870463.jpeg",
+      "photo_link": "https://secure.meetupstatic.com/photos/event/7/6/f/f/600_456870463.jpeg",
+      "thumb_link": "https://secure.meetupstatic.com/photos/event/7/6/f/f/thumb_456870463.jpeg",
       "type": "event",
       "base_url": "https://secure.meetupstatic.com"
     },
     "key_photo": {
       "id": 85169502,
-      "highres_link":
-        "https://secure.meetupstatic.com/photos/event/7/3/3/e/highres_85169502.jpeg",
-      "photo_link":
-        "https://secure.meetupstatic.com/photos/event/7/3/3/e/600_85169502.jpeg",
-      "thumb_link":
-        "https://secure.meetupstatic.com/photos/event/7/3/3/e/thumb_85169502.jpeg",
+      "highres_link": "https://secure.meetupstatic.com/photos/event/7/3/3/e/highres_85169502.jpeg",
+      "photo_link": "https://secure.meetupstatic.com/photos/event/7/3/3/e/600_85169502.jpeg",
+      "thumb_link": "https://secure.meetupstatic.com/photos/event/7/3/3/e/thumb_85169502.jpeg",
       "type": "event",
       "base_url": "https://secure.meetupstatic.com"
     },
     "timezone": "US/Eastern",
     "next_event": {
-      "id": "wcrtlnywqblc",
+      "id": "wkxxfpyxfbcc",
       "name": "TBD (regular meeting placeholder)",
-      "yes_rsvp_count": 4,
-      "time": 1514503800000,
-      "utc_offset": -18000000
+      "yes_rsvp_count": 0,
+      "time": 1521671400000,
+      "utc_offset": -14400000
     },
-    "category": {
-      "id": 34,
-      "name": "Tech",
-      "shortname": "tech",
-      "sort_name": "Tech"
-    },
+    "category": { "id": 34, "name": "Tech", "shortname": "tech", "sort_name": "Tech" },
     "meta_category": {
       "id": 292,
       "shortname": "tech",
@@ -1417,12 +1193,9 @@
       "sort_name": "Tech",
       "photo": {
         "id": 450131949,
-        "highres_link":
-          "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
-        "photo_link":
-          "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
-        "thumb_link":
-          "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
+        "highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
+        "photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
+        "thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
         "type": "event",
         "base_url": "https://secure.meetupstatic.com"
       },
@@ -1447,19 +1220,16 @@
     "visibility": "public",
     "lat": 27.99,
     "lon": -82.47,
-    "members": 673,
+    "members": 716,
     "organizer": {
       "id": 130184182,
       "name": "Joe Blankenship",
       "bio": "Geographer, Data Geek, Developer, Engineer, Scientist, Hacker",
       "photo": {
         "id": 245461985,
-        "highres_link":
-          "https://secure.meetupstatic.com/photos/member/7/c/1/highres_245461985.jpeg",
-        "photo_link":
-          "https://secure.meetupstatic.com/photos/member/7/c/1/member_245461985.jpeg",
-        "thumb_link":
-          "https://secure.meetupstatic.com/photos/member/7/c/1/thumb_245461985.jpeg",
+        "highres_link": "https://secure.meetupstatic.com/photos/member/7/c/1/highres_245461985.jpeg",
+        "photo_link": "https://secure.meetupstatic.com/photos/member/7/c/1/member_245461985.jpeg",
+        "thumb_link": "https://secure.meetupstatic.com/photos/member/7/c/1/thumb_245461985.jpeg",
         "type": "member",
         "base_url": "https://secure.meetupstatic.com"
       }
@@ -1467,29 +1237,21 @@
     "who": "Data Scientists",
     "key_photo": {
       "id": 451082217,
-      "highres_link":
-        "https://secure.meetupstatic.com/photos/event/8/a/9/highres_451082217.jpeg",
-      "photo_link":
-        "https://secure.meetupstatic.com/photos/event/8/a/9/600_451082217.jpeg",
-      "thumb_link":
-        "https://secure.meetupstatic.com/photos/event/8/a/9/thumb_451082217.jpeg",
+      "highres_link": "https://secure.meetupstatic.com/photos/event/8/a/9/highres_451082217.jpeg",
+      "photo_link": "https://secure.meetupstatic.com/photos/event/8/a/9/600_451082217.jpeg",
+      "thumb_link": "https://secure.meetupstatic.com/photos/event/8/a/9/thumb_451082217.jpeg",
       "type": "event",
       "base_url": "https://secure.meetupstatic.com"
     },
     "timezone": "US/Eastern",
     "next_event": {
-      "id": "nhnhfmywqbpb",
-      "name": "Computational Sociology – Predicting Your City’s Murder Rate",
-      "yes_rsvp_count": 46,
-      "time": 1513207800000,
-      "utc_offset": -18000000
+      "id": "gjmwdpyxfbsb",
+      "name": "TBDSG Standard Meeting",
+      "yes_rsvp_count": 5,
+      "time": 1521066600000,
+      "utc_offset": -14400000
     },
-    "category": {
-      "id": 34,
-      "name": "Tech",
-      "shortname": "tech",
-      "sort_name": "Tech"
-    },
+    "category": { "id": 34, "name": "Tech", "shortname": "tech", "sort_name": "Tech" },
     "meta_category": {
       "id": 292,
       "shortname": "tech",
@@ -1497,12 +1259,9 @@
       "sort_name": "Tech",
       "photo": {
         "id": 450131949,
-        "highres_link":
-          "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
-        "photo_link":
-          "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
-        "thumb_link":
-          "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
+        "highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
+        "photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
+        "thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
         "type": "event",
         "base_url": "https://secure.meetupstatic.com"
       },
@@ -1527,19 +1286,16 @@
     "visibility": "public",
     "lat": 27.27,
     "lon": -82.52,
-    "members": 363,
+    "members": 370,
     "organizer": {
       "id": 12968021,
       "name": "David Christian",
       "bio": "",
       "photo": {
         "id": 255732089,
-        "highres_link":
-          "https://secure.meetupstatic.com/photos/member/2/f/3/9/highres_255732089.jpeg",
-        "photo_link":
-          "https://secure.meetupstatic.com/photos/member/2/f/3/9/member_255732089.jpeg",
-        "thumb_link":
-          "https://secure.meetupstatic.com/photos/member/2/f/3/9/thumb_255732089.jpeg",
+        "highres_link": "https://secure.meetupstatic.com/photos/member/2/f/3/9/highres_255732089.jpeg",
+        "photo_link": "https://secure.meetupstatic.com/photos/member/2/f/3/9/member_255732089.jpeg",
+        "thumb_link": "https://secure.meetupstatic.com/photos/member/2/f/3/9/thumb_255732089.jpeg",
         "type": "member",
         "base_url": "https://secure.meetupstatic.com"
       }
@@ -1547,41 +1303,29 @@
     "who": "Geeks",
     "group_photo": {
       "id": 20106033,
-      "highres_link":
-        "https://secure.meetupstatic.com/photos/event/1/7/9/1/highres_20106033.jpeg",
-      "photo_link":
-        "https://secure.meetupstatic.com/photos/event/1/7/9/1/600_20106033.jpeg",
-      "thumb_link":
-        "https://secure.meetupstatic.com/photos/event/1/7/9/1/thumb_20106033.jpeg",
+      "highres_link": "https://secure.meetupstatic.com/photos/event/1/7/9/1/highres_20106033.jpeg",
+      "photo_link": "https://secure.meetupstatic.com/photos/event/1/7/9/1/600_20106033.jpeg",
+      "thumb_link": "https://secure.meetupstatic.com/photos/event/1/7/9/1/thumb_20106033.jpeg",
       "type": "event",
       "base_url": "https://secure.meetupstatic.com"
     },
     "key_photo": {
       "id": 20106033,
-      "highres_link":
-        "https://secure.meetupstatic.com/photos/event/1/7/9/1/highres_20106033.jpeg",
-      "photo_link":
-        "https://secure.meetupstatic.com/photos/event/1/7/9/1/600_20106033.jpeg",
-      "thumb_link":
-        "https://secure.meetupstatic.com/photos/event/1/7/9/1/thumb_20106033.jpeg",
+      "highres_link": "https://secure.meetupstatic.com/photos/event/1/7/9/1/highres_20106033.jpeg",
+      "photo_link": "https://secure.meetupstatic.com/photos/event/1/7/9/1/600_20106033.jpeg",
+      "thumb_link": "https://secure.meetupstatic.com/photos/event/1/7/9/1/thumb_20106033.jpeg",
       "type": "event",
       "base_url": "https://secure.meetupstatic.com"
     },
     "timezone": "US/Eastern",
     "next_event": {
-      "id": "dptcbpywqbbc",
-      "name":
-        "Coworking and Coffee (South) -- Please read the details before you RSVP!",
-      "yes_rsvp_count": 0,
-      "time": 1513782000000,
+      "id": "jqtcbpyxdblc",
+      "name": "Lunch Hour Meetup",
+      "yes_rsvp_count": 3,
+      "time": 1519837200000,
       "utc_offset": -18000000
     },
-    "category": {
-      "id": 34,
-      "name": "Tech",
-      "shortname": "tech",
-      "sort_name": "Tech"
-    },
+    "category": { "id": 34, "name": "Tech", "shortname": "tech", "sort_name": "Tech" },
     "meta_category": {
       "id": 292,
       "shortname": "tech",
@@ -1589,12 +1333,9 @@
       "sort_name": "Tech",
       "photo": {
         "id": 450131949,
-        "highres_link":
-          "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
-        "photo_link":
-          "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
-        "thumb_link":
-          "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
+        "highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
+        "photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
+        "thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
         "type": "event",
         "base_url": "https://secure.meetupstatic.com"
       },
@@ -1619,19 +1360,16 @@
     "visibility": "public",
     "lat": 27.77,
     "lon": -82.64,
-    "members": 315,
+    "members": 350,
     "organizer": {
       "id": 122437162,
       "name": "Adam Recvlohe",
       "bio": "",
       "photo": {
         "id": 256055747,
-        "highres_link":
-          "https://secure.meetupstatic.com/photos/member/8/b/a/3/highres_256055747.jpeg",
-        "photo_link":
-          "https://secure.meetupstatic.com/photos/member/8/b/a/3/member_256055747.jpeg",
-        "thumb_link":
-          "https://secure.meetupstatic.com/photos/member/8/b/a/3/thumb_256055747.jpeg",
+        "highres_link": "https://secure.meetupstatic.com/photos/member/8/b/a/3/highres_256055747.jpeg",
+        "photo_link": "https://secure.meetupstatic.com/photos/member/8/b/a/3/member_256055747.jpeg",
+        "thumb_link": "https://secure.meetupstatic.com/photos/member/8/b/a/3/thumb_256055747.jpeg",
         "type": "member",
         "base_url": "https://secure.meetupstatic.com"
       }
@@ -1639,40 +1377,29 @@
     "who": "Code Ninjas",
     "group_photo": {
       "id": 453024462,
-      "highres_link":
-        "https://secure.meetupstatic.com/photos/event/5/f/8/e/highres_453024462.jpeg",
-      "photo_link":
-        "https://secure.meetupstatic.com/photos/event/5/f/8/e/600_453024462.jpeg",
-      "thumb_link":
-        "https://secure.meetupstatic.com/photos/event/5/f/8/e/thumb_453024462.jpeg",
+      "highres_link": "https://secure.meetupstatic.com/photos/event/5/f/8/e/highres_453024462.jpeg",
+      "photo_link": "https://secure.meetupstatic.com/photos/event/5/f/8/e/600_453024462.jpeg",
+      "thumb_link": "https://secure.meetupstatic.com/photos/event/5/f/8/e/thumb_453024462.jpeg",
       "type": "event",
       "base_url": "https://secure.meetupstatic.com"
     },
     "key_photo": {
       "id": 453024099,
-      "highres_link":
-        "https://secure.meetupstatic.com/photos/event/5/e/2/3/highres_453024099.jpeg",
-      "photo_link":
-        "https://secure.meetupstatic.com/photos/event/5/e/2/3/600_453024099.jpeg",
-      "thumb_link":
-        "https://secure.meetupstatic.com/photos/event/5/e/2/3/thumb_453024099.jpeg",
+      "highres_link": "https://secure.meetupstatic.com/photos/event/5/e/2/3/highres_453024099.jpeg",
+      "photo_link": "https://secure.meetupstatic.com/photos/event/5/e/2/3/600_453024099.jpeg",
+      "thumb_link": "https://secure.meetupstatic.com/photos/event/5/e/2/3/thumb_453024099.jpeg",
       "type": "event",
       "base_url": "https://secure.meetupstatic.com"
     },
     "timezone": "US/Eastern",
     "next_event": {
-      "id": "tnpslnywqbqb",
+      "id": "247285974",
       "name": "Let's Do Some Fun Code Challenges!",
-      "yes_rsvp_count": 9,
-      "time": 1513123200000,
+      "yes_rsvp_count": 12,
+      "time": 1519776000000,
       "utc_offset": -18000000
     },
-    "category": {
-      "id": 34,
-      "name": "Tech",
-      "shortname": "tech",
-      "sort_name": "Tech"
-    },
+    "category": { "id": 34, "name": "Tech", "shortname": "tech", "sort_name": "Tech" },
     "meta_category": {
       "id": 292,
       "shortname": "tech",
@@ -1680,12 +1407,9 @@
       "sort_name": "Tech",
       "photo": {
         "id": 450131949,
-        "highres_link":
-          "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
-        "photo_link":
-          "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
-        "thumb_link":
-          "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
+        "highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
+        "photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
+        "thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
         "type": "event",
         "base_url": "https://secure.meetupstatic.com"
       },
@@ -1694,7 +1418,7 @@
     "pro_network": {
       "name": "Tampa Bay Tech",
       "urlname": "tampabaytech",
-      "number_of_groups": 41,
+      "number_of_groups": 48,
       "network_url": "https://www.meetup.com/pro/tampabaytech/"
     }
   },
@@ -1716,7 +1440,7 @@
     "visibility": "public",
     "lat": 27.94,
     "lon": -82.51,
-    "members": 396,
+    "members": 410,
     "organizer": {
       "id": 157880462,
       "name": "Eric Nograles",
@@ -1724,12 +1448,9 @@
         "Lifelong technologist who loves to tinker and dabble. Avid runner and cyclist. Occasional guitarist, vocalist, and dancer. All-around nice dude.",
       "photo": {
         "id": 251850265,
-        "highres_link":
-          "https://secure.meetupstatic.com/photos/member/7/6/3/9/highres_251850265.jpeg",
-        "photo_link":
-          "https://secure.meetupstatic.com/photos/member/7/6/3/9/member_251850265.jpeg",
-        "thumb_link":
-          "https://secure.meetupstatic.com/photos/member/7/6/3/9/thumb_251850265.jpeg",
+        "highres_link": "https://secure.meetupstatic.com/photos/member/7/6/3/9/highres_251850265.jpeg",
+        "photo_link": "https://secure.meetupstatic.com/photos/member/7/6/3/9/member_251850265.jpeg",
+        "thumb_link": "https://secure.meetupstatic.com/photos/member/7/6/3/9/thumb_251850265.jpeg",
         "type": "member",
         "base_url": "https://secure.meetupstatic.com"
       }
@@ -1737,33 +1458,22 @@
     "who": "Reactors",
     "group_photo": {
       "id": 449391046,
-      "highres_link":
-        "https://secure.meetupstatic.com/photos/event/c/7/6/6/highres_449391046.jpeg",
-      "photo_link":
-        "https://secure.meetupstatic.com/photos/event/c/7/6/6/600_449391046.jpeg",
-      "thumb_link":
-        "https://secure.meetupstatic.com/photos/event/c/7/6/6/thumb_449391046.jpeg",
+      "highres_link": "https://secure.meetupstatic.com/photos/event/c/7/6/6/highres_449391046.jpeg",
+      "photo_link": "https://secure.meetupstatic.com/photos/event/c/7/6/6/600_449391046.jpeg",
+      "thumb_link": "https://secure.meetupstatic.com/photos/event/c/7/6/6/thumb_449391046.jpeg",
       "type": "event",
       "base_url": "https://secure.meetupstatic.com"
     },
     "key_photo": {
       "id": 450906540,
-      "highres_link":
-        "https://secure.meetupstatic.com/photos/event/1/9/8/c/highres_450906540.jpeg",
-      "photo_link":
-        "https://secure.meetupstatic.com/photos/event/1/9/8/c/600_450906540.jpeg",
-      "thumb_link":
-        "https://secure.meetupstatic.com/photos/event/1/9/8/c/thumb_450906540.jpeg",
+      "highres_link": "https://secure.meetupstatic.com/photos/event/1/9/8/c/highres_450906540.jpeg",
+      "photo_link": "https://secure.meetupstatic.com/photos/event/1/9/8/c/600_450906540.jpeg",
+      "thumb_link": "https://secure.meetupstatic.com/photos/event/1/9/8/c/thumb_450906540.jpeg",
       "type": "event",
       "base_url": "https://secure.meetupstatic.com"
     },
     "timezone": "US/Eastern",
-    "category": {
-      "id": 34,
-      "name": "Tech",
-      "shortname": "tech",
-      "sort_name": "Tech"
-    },
+    "category": { "id": 34, "name": "Tech", "shortname": "tech", "sort_name": "Tech" },
     "meta_category": {
       "id": 292,
       "shortname": "tech",
@@ -1771,12 +1481,9 @@
       "sort_name": "Tech",
       "photo": {
         "id": 450131949,
-        "highres_link":
-          "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
-        "photo_link":
-          "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
-        "thumb_link":
-          "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
+        "highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
+        "photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
+        "thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
         "type": "event",
         "base_url": "https://secure.meetupstatic.com"
       },
@@ -1785,7 +1492,7 @@
     "pro_network": {
       "name": "Tampa Bay Tech",
       "urlname": "tampabaytech",
-      "number_of_groups": 41,
+      "number_of_groups": 48,
       "network_url": "https://www.meetup.com/pro/tampabaytech/"
     }
   },
@@ -1807,7 +1514,7 @@
     "visibility": "public",
     "lat": 27.77,
     "lon": -82.64,
-    "members": 214,
+    "members": 218,
     "organizer": {
       "id": 19538441,
       "name": "Lyle Scott",
@@ -1815,12 +1522,9 @@
         "Fullstack developer that digs Python and enjoys building tools, continuous delivery pipelines, and starting projects that never get finished. Created http://tidenugget.com (Django)",
       "photo": {
         "id": 144545092,
-        "highres_link":
-          "https://secure.meetupstatic.com/photos/member/1/3/e/4/highres_144545092.jpeg",
-        "photo_link":
-          "https://secure.meetupstatic.com/photos/member/1/3/e/4/member_144545092.jpeg",
-        "thumb_link":
-          "https://secure.meetupstatic.com/photos/member/1/3/e/4/thumb_144545092.jpeg",
+        "highres_link": "https://secure.meetupstatic.com/photos/member/1/3/e/4/highres_144545092.jpeg",
+        "photo_link": "https://secure.meetupstatic.com/photos/member/1/3/e/4/member_144545092.jpeg",
+        "thumb_link": "https://secure.meetupstatic.com/photos/member/1/3/e/4/thumb_144545092.jpeg",
         "type": "member",
         "base_url": "https://secure.meetupstatic.com"
       }
@@ -1828,33 +1532,22 @@
     "who": "Members",
     "group_photo": {
       "id": 454161235,
-      "highres_link":
-        "https://secure.meetupstatic.com/photos/event/5/2/f/3/highres_454161235.jpeg",
-      "photo_link":
-        "https://secure.meetupstatic.com/photos/event/5/2/f/3/600_454161235.jpeg",
-      "thumb_link":
-        "https://secure.meetupstatic.com/photos/event/5/2/f/3/thumb_454161235.jpeg",
+      "highres_link": "https://secure.meetupstatic.com/photos/event/5/2/f/3/highres_454161235.jpeg",
+      "photo_link": "https://secure.meetupstatic.com/photos/event/5/2/f/3/600_454161235.jpeg",
+      "thumb_link": "https://secure.meetupstatic.com/photos/event/5/2/f/3/thumb_454161235.jpeg",
       "type": "event",
       "base_url": "https://secure.meetupstatic.com"
     },
     "key_photo": {
       "id": 453664767,
-      "highres_link":
-        "https://secure.meetupstatic.com/photos/event/1/2/9/f/highres_453664767.jpeg",
-      "photo_link":
-        "https://secure.meetupstatic.com/photos/event/1/2/9/f/600_453664767.jpeg",
-      "thumb_link":
-        "https://secure.meetupstatic.com/photos/event/1/2/9/f/thumb_453664767.jpeg",
+      "highres_link": "https://secure.meetupstatic.com/photos/event/1/2/9/f/highres_453664767.jpeg",
+      "photo_link": "https://secure.meetupstatic.com/photos/event/1/2/9/f/600_453664767.jpeg",
+      "thumb_link": "https://secure.meetupstatic.com/photos/event/1/2/9/f/thumb_453664767.jpeg",
       "type": "event",
       "base_url": "https://secure.meetupstatic.com"
     },
     "timezone": "US/Eastern",
-    "category": {
-      "id": 34,
-      "name": "Tech",
-      "shortname": "tech",
-      "sort_name": "Tech"
-    },
+    "category": { "id": 34, "name": "Tech", "shortname": "tech", "sort_name": "Tech" },
     "meta_category": {
       "id": 292,
       "shortname": "tech",
@@ -1862,12 +1555,9 @@
       "sort_name": "Tech",
       "photo": {
         "id": 450131949,
-        "highres_link":
-          "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
-        "photo_link":
-          "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
-        "thumb_link":
-          "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
+        "highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
+        "photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
+        "thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
         "type": "event",
         "base_url": "https://secure.meetupstatic.com"
       },
@@ -1892,17 +1582,16 @@
     "visibility": "public",
     "lat": 27.96,
     "lon": -82.46,
-    "members": 1714,
+    "members": 1721,
     "organizer": {
       "id": 4342293,
       "name": "Alison Foxall",
       "bio": "See twitter profile.",
       "photo": {
-        "id": 81581992,
-        "photo_link":
-          "https://secure.meetupstatic.com/photos/member/a/4/0/8/member_81581992.jpeg",
-        "thumb_link":
-          "https://secure.meetupstatic.com/photos/member/a/4/0/8/thumb_81581992.jpeg",
+        "id": 274339055,
+        "highres_link": "https://secure.meetupstatic.com/photos/member/4/a/6/f/highres_274339055.jpeg",
+        "photo_link": "https://secure.meetupstatic.com/photos/member/4/a/6/f/member_274339055.jpeg",
+        "thumb_link": "https://secure.meetupstatic.com/photos/member/4/a/6/f/thumb_274339055.jpeg",
         "type": "member",
         "base_url": "https://secure.meetupstatic.com"
       }
@@ -1910,33 +1599,22 @@
     "who": "Members",
     "group_photo": {
       "id": 442849243,
-      "highres_link":
-        "https://secure.meetupstatic.com/photos/event/c/0/5/b/highres_442849243.jpeg",
-      "photo_link":
-        "https://secure.meetupstatic.com/photos/event/c/0/5/b/600_442849243.jpeg",
-      "thumb_link":
-        "https://secure.meetupstatic.com/photos/event/c/0/5/b/thumb_442849243.jpeg",
+      "highres_link": "https://secure.meetupstatic.com/photos/event/c/0/5/b/highres_442849243.jpeg",
+      "photo_link": "https://secure.meetupstatic.com/photos/event/c/0/5/b/600_442849243.jpeg",
+      "thumb_link": "https://secure.meetupstatic.com/photos/event/c/0/5/b/thumb_442849243.jpeg",
       "type": "event",
       "base_url": "https://secure.meetupstatic.com"
     },
     "key_photo": {
       "id": 178186492,
-      "highres_link":
-        "https://secure.meetupstatic.com/photos/event/b/5/9/c/highres_178186492.jpeg",
-      "photo_link":
-        "https://secure.meetupstatic.com/photos/event/b/5/9/c/600_178186492.jpeg",
-      "thumb_link":
-        "https://secure.meetupstatic.com/photos/event/b/5/9/c/thumb_178186492.jpeg",
+      "highres_link": "https://secure.meetupstatic.com/photos/event/b/5/9/c/highres_178186492.jpeg",
+      "photo_link": "https://secure.meetupstatic.com/photos/event/b/5/9/c/600_178186492.jpeg",
+      "thumb_link": "https://secure.meetupstatic.com/photos/event/b/5/9/c/thumb_178186492.jpeg",
       "type": "event",
       "base_url": "https://secure.meetupstatic.com"
     },
     "timezone": "US/Eastern",
-    "category": {
-      "id": 34,
-      "name": "Tech",
-      "shortname": "tech",
-      "sort_name": "Tech"
-    },
+    "category": { "id": 34, "name": "Tech", "shortname": "tech", "sort_name": "Tech" },
     "meta_category": {
       "id": 292,
       "shortname": "tech",
@@ -1944,12 +1622,9 @@
       "sort_name": "Tech",
       "photo": {
         "id": 450131949,
-        "highres_link":
-          "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
-        "photo_link":
-          "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
-        "thumb_link":
-          "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
+        "highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
+        "photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
+        "thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
         "type": "event",
         "base_url": "https://secure.meetupstatic.com"
       },
@@ -1974,19 +1649,16 @@
     "visibility": "public",
     "lat": 27.97,
     "lon": -82.51,
-    "members": 131,
+    "members": 144,
     "organizer": {
       "id": 129486192,
       "name": "James LaChance",
       "bio": "",
       "photo": {
         "id": 266447686,
-        "highres_link":
-          "https://secure.meetupstatic.com/photos/member/b/a/4/6/highres_266447686.jpeg",
-        "photo_link":
-          "https://secure.meetupstatic.com/photos/member/b/a/4/6/member_266447686.jpeg",
-        "thumb_link":
-          "https://secure.meetupstatic.com/photos/member/b/a/4/6/thumb_266447686.jpeg",
+        "highres_link": "https://secure.meetupstatic.com/photos/member/b/a/4/6/highres_266447686.jpeg",
+        "photo_link": "https://secure.meetupstatic.com/photos/member/b/a/4/6/member_266447686.jpeg",
+        "thumb_link": "https://secure.meetupstatic.com/photos/member/b/a/4/6/thumb_266447686.jpeg",
         "type": "member",
         "base_url": "https://secure.meetupstatic.com"
       }
@@ -1994,33 +1666,29 @@
     "who": "Laravelers",
     "group_photo": {
       "id": 194350822,
-      "highres_link":
-        "https://secure.meetupstatic.com/photos/event/2/a/4/6/highres_194350822.jpeg",
-      "photo_link":
-        "https://secure.meetupstatic.com/photos/event/2/a/4/6/600_194350822.jpeg",
-      "thumb_link":
-        "https://secure.meetupstatic.com/photos/event/2/a/4/6/thumb_194350822.jpeg",
+      "highres_link": "https://secure.meetupstatic.com/photos/event/2/a/4/6/highres_194350822.jpeg",
+      "photo_link": "https://secure.meetupstatic.com/photos/event/2/a/4/6/600_194350822.jpeg",
+      "thumb_link": "https://secure.meetupstatic.com/photos/event/2/a/4/6/thumb_194350822.jpeg",
       "type": "event",
       "base_url": "https://secure.meetupstatic.com"
     },
     "key_photo": {
       "id": 194350382,
-      "highres_link":
-        "https://secure.meetupstatic.com/photos/event/2/8/8/e/highres_194350382.jpeg",
-      "photo_link":
-        "https://secure.meetupstatic.com/photos/event/2/8/8/e/600_194350382.jpeg",
-      "thumb_link":
-        "https://secure.meetupstatic.com/photos/event/2/8/8/e/thumb_194350382.jpeg",
+      "highres_link": "https://secure.meetupstatic.com/photos/event/2/8/8/e/highres_194350382.jpeg",
+      "photo_link": "https://secure.meetupstatic.com/photos/event/2/8/8/e/600_194350382.jpeg",
+      "thumb_link": "https://secure.meetupstatic.com/photos/event/2/8/8/e/thumb_194350382.jpeg",
       "type": "event",
       "base_url": "https://secure.meetupstatic.com"
     },
     "timezone": "US/Eastern",
-    "category": {
-      "id": 34,
-      "name": "Tech",
-      "shortname": "tech",
-      "sort_name": "Tech"
+    "next_event": {
+      "id": "247759284",
+      "name": "Getting Comfortable with Eloquent Relationships",
+      "yes_rsvp_count": 9,
+      "time": 1519171200000,
+      "utc_offset": -18000000
     },
+    "category": { "id": 34, "name": "Tech", "shortname": "tech", "sort_name": "Tech" },
     "meta_category": {
       "id": 292,
       "shortname": "tech",
@@ -2028,12 +1696,9 @@
       "sort_name": "Tech",
       "photo": {
         "id": 450131949,
-        "highres_link":
-          "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
-        "photo_link":
-          "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
-        "thumb_link":
-          "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
+        "highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
+        "photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
+        "thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
         "type": "event",
         "base_url": "https://secure.meetupstatic.com"
       },
@@ -2042,7 +1707,7 @@
     "pro_network": {
       "name": "Tampa Bay Tech",
       "urlname": "tampabaytech",
-      "number_of_groups": 41,
+      "number_of_groups": 48,
       "network_url": "https://www.meetup.com/pro/tampabaytech/"
     }
   },
@@ -2064,7 +1729,7 @@
     "visibility": "public",
     "lat": 27.88,
     "lon": -82.65,
-    "members": 446,
+    "members": 462,
     "organizer": {
       "id": 12484848,
       "name": "Scott Thisse",
@@ -2072,12 +1737,9 @@
         "I'm the founder member and chief developer for Centripetal Fusion LLC, which does remote software development with a emphasis in Android development.",
       "photo": {
         "id": 264693531,
-        "highres_link":
-          "https://secure.meetupstatic.com/photos/member/8/2/f/b/highres_264693531.jpeg",
-        "photo_link":
-          "https://secure.meetupstatic.com/photos/member/8/2/f/b/member_264693531.jpeg",
-        "thumb_link":
-          "https://secure.meetupstatic.com/photos/member/8/2/f/b/thumb_264693531.jpeg",
+        "highres_link": "https://secure.meetupstatic.com/photos/member/8/2/f/b/highres_264693531.jpeg",
+        "photo_link": "https://secure.meetupstatic.com/photos/member/8/2/f/b/member_264693531.jpeg",
+        "thumb_link": "https://secure.meetupstatic.com/photos/member/8/2/f/b/thumb_264693531.jpeg",
         "type": "member",
         "base_url": "https://secure.meetupstatic.com"
       }
@@ -2085,40 +1747,22 @@
     "who": "Members",
     "group_photo": {
       "id": 462721739,
-      "highres_link":
-        "https://secure.meetupstatic.com/photos/event/6/c/b/highres_462721739.jpeg",
-      "photo_link":
-        "https://secure.meetupstatic.com/photos/event/6/c/b/600_462721739.jpeg",
-      "thumb_link":
-        "https://secure.meetupstatic.com/photos/event/6/c/b/thumb_462721739.jpeg",
+      "highres_link": "https://secure.meetupstatic.com/photos/event/6/c/b/highres_462721739.jpeg",
+      "photo_link": "https://secure.meetupstatic.com/photos/event/6/c/b/600_462721739.jpeg",
+      "thumb_link": "https://secure.meetupstatic.com/photos/event/6/c/b/thumb_462721739.jpeg",
       "type": "event",
       "base_url": "https://secure.meetupstatic.com"
     },
     "key_photo": {
       "id": 462721622,
-      "highres_link":
-        "https://secure.meetupstatic.com/photos/event/6/5/6/highres_462721622.jpeg",
-      "photo_link":
-        "https://secure.meetupstatic.com/photos/event/6/5/6/600_462721622.jpeg",
-      "thumb_link":
-        "https://secure.meetupstatic.com/photos/event/6/5/6/thumb_462721622.jpeg",
+      "highres_link": "https://secure.meetupstatic.com/photos/event/6/5/6/highres_462721622.jpeg",
+      "photo_link": "https://secure.meetupstatic.com/photos/event/6/5/6/600_462721622.jpeg",
+      "thumb_link": "https://secure.meetupstatic.com/photos/event/6/5/6/thumb_462721622.jpeg",
       "type": "event",
       "base_url": "https://secure.meetupstatic.com"
     },
     "timezone": "US/Eastern",
-    "next_event": {
-      "id": "tqmgqnyxcbdb",
-      "name": "45-Minute Talk/30-minute Talk/Round-table discussion",
-      "yes_rsvp_count": 1,
-      "time": 1514937600000,
-      "utc_offset": -18000000
-    },
-    "category": {
-      "id": 34,
-      "name": "Tech",
-      "shortname": "tech",
-      "sort_name": "Tech"
-    },
+    "category": { "id": 34, "name": "Tech", "shortname": "tech", "sort_name": "Tech" },
     "meta_category": {
       "id": 292,
       "shortname": "tech",
@@ -2126,16 +1770,227 @@
       "sort_name": "Tech",
       "photo": {
         "id": 450131949,
-        "highres_link":
-          "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
-        "photo_link":
-          "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
-        "thumb_link":
-          "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
+        "highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
+        "photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
+        "thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
         "type": "event",
         "base_url": "https://secure.meetupstatic.com"
       },
       "category_ids": [34]
+    },
+    "pro_network": {
+      "name": "Tampa Bay Tech",
+      "urlname": "tampabaytech",
+      "number_of_groups": 48,
+      "network_url": "https://www.meetup.com/pro/tampabaytech/"
+    }
+  },
+  {
+    "id": 9862962,
+    "name": "Blockchain Enthusiasts",
+    "status": "active",
+    "link": "https://www.meetup.com/Blockchain-Enthusiasts/",
+    "urlname": "Blockchain-Enthusiasts",
+    "description":
+      "<p>Greetings! This group is about exploring Blockchain technology &amp; cryptocurrency, its history, it's future possible uses, and it's growing importance to decentralization, fintech, digital security and the IoT.&nbsp;<br><br>This group is dedicated to providing education, up to date information on cryptocurrencies &amp; creating a community hub of crypto activity and innovation. We will help you get started, understanding what you need to know to avoid scams (there are many), learn how the blockchain works, and how to safely get &amp; use crypto.&nbsp;<br><br>This is for all people that consider themselves technologists, entrepreneurs, developers, traders, investors, or explorers, who have an interest in discovering new things and just want to find out what this is all about.&nbsp;<br><br>Other groups affiliated with ours that might interest you.<br>-Tampa Bay Bitcoin<br>-Ethereum Tampa Bay<br>-Tampa Bay Blockchain Developers<br></p>",
+    "created": 1376858189000,
+    "city": "Tampa",
+    "country": "US",
+    "localized_country_name": "USA",
+    "localized_location": "Tampa, FL",
+    "state": "FL",
+    "join_mode": "open",
+    "visibility": "public",
+    "lat": 27.89,
+    "lon": -82.51,
+    "members": 369,
+    "organizer": {
+      "id": 141086712,
+      "name": "Gabe Higgins",
+      "bio":
+        "Managing Director of BlockSpaces, home of the Tampa Bay Bitcoineers, where beginners, enthusiasts, entrepreneurs come to learn about cryptocurrencies & blockchain technology.\n\nAll are welcome to join us for our local meetups twice a month.",
+      "photo": {
+        "id": 253485861,
+        "highres_link": "https://secure.meetupstatic.com/photos/member/b/3/2/5/highres_253485861.jpeg",
+        "photo_link": "https://secure.meetupstatic.com/photos/member/b/3/2/5/member_253485861.jpeg",
+        "thumb_link": "https://secure.meetupstatic.com/photos/member/b/3/2/5/thumb_253485861.jpeg",
+        "type": "member",
+        "base_url": "https://secure.meetupstatic.com"
+      }
+    },
+    "who": "Enthusiasts",
+    "group_photo": {
+      "id": 459966495,
+      "highres_link": "https://secure.meetupstatic.com/photos/event/1/9/5/f/highres_459966495.jpeg",
+      "photo_link": "https://secure.meetupstatic.com/photos/event/1/9/5/f/600_459966495.jpeg",
+      "thumb_link": "https://secure.meetupstatic.com/photos/event/1/9/5/f/thumb_459966495.jpeg",
+      "type": "event",
+      "base_url": "https://secure.meetupstatic.com"
+    },
+    "key_photo": {
+      "id": 459966495,
+      "highres_link": "https://secure.meetupstatic.com/photos/event/1/9/5/f/highres_459966495.jpeg",
+      "photo_link": "https://secure.meetupstatic.com/photos/event/1/9/5/f/600_459966495.jpeg",
+      "thumb_link": "https://secure.meetupstatic.com/photos/event/1/9/5/f/thumb_459966495.jpeg",
+      "type": "event",
+      "base_url": "https://secure.meetupstatic.com"
+    },
+    "timezone": "US/Eastern",
+    "next_event": {
+      "id": "pkddbpyxdblc",
+      "name": "Blockchain/Cryptocurrency Meetup: News, Q&A, Networking, Social",
+      "yes_rsvp_count": 4,
+      "time": 1519862400000,
+      "utc_offset": -18000000
+    },
+    "category": { "id": 34, "name": "Tech", "shortname": "tech", "sort_name": "Tech" },
+    "meta_category": {
+      "id": 292,
+      "shortname": "tech",
+      "name": "Tech",
+      "sort_name": "Tech",
+      "photo": {
+        "id": 450131949,
+        "highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
+        "photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
+        "thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
+        "type": "event",
+        "base_url": "https://secure.meetupstatic.com"
+      },
+      "category_ids": [34]
+    }
+  },
+  {
+    "id": 27494857,
+    "name": "Design St. Pete",
+    "status": "active",
+    "link": "https://www.meetup.com/Design-St-Pete/",
+    "urlname": "Design-St-Pete",
+    "description":
+      "<p>This group is for anyone who is interested in the craft of design. Product managers, designers, developers, marketers, business analysts, and c-level executives are welcome. Each month, we plan on making it an interactive workshop on topics including; Design Thinking, Design Sprints, Design Collaboration, Selling Design, User Research Tactics, User Experience, Product Design, Prototyping, and Design Systems.</p>",
+    "created": 1518479055000,
+    "city": "Saint Petersburg",
+    "country": "US",
+    "localized_country_name": "USA",
+    "localized_location": "Saint Petersburg, FL",
+    "state": "FL",
+    "join_mode": "open",
+    "visibility": "public",
+    "lat": 27.77,
+    "lon": -82.64,
+    "members": 30,
+    "organizer": {
+      "id": 245497323,
+      "name": "Cameron Cress",
+      "bio":
+        "I'm a product user experience designer living in St Petersburg. I work with companies through my design agency ctrlaltgo.io.",
+      "photo": {
+        "id": 273602942,
+        "highres_link": "https://secure.meetupstatic.com/photos/member/b/7/e/highres_273602942.jpeg",
+        "photo_link": "https://secure.meetupstatic.com/photos/member/b/7/e/member_273602942.jpeg",
+        "thumb_link": "https://secure.meetupstatic.com/photos/member/b/7/e/thumb_273602942.jpeg",
+        "type": "member",
+        "base_url": "https://secure.meetupstatic.com"
+      }
+    },
+    "who": "Members",
+    "key_photo": {
+      "id": 468429407,
+      "highres_link": "https://secure.meetupstatic.com/photos/event/2/4/b/f/highres_468429407.jpeg",
+      "photo_link": "https://secure.meetupstatic.com/photos/event/2/4/b/f/600_468429407.jpeg",
+      "thumb_link": "https://secure.meetupstatic.com/photos/event/2/4/b/f/thumb_468429407.jpeg",
+      "type": "event",
+      "base_url": "https://secure.meetupstatic.com"
+    },
+    "timezone": "US/Eastern",
+    "category": { "id": 34, "name": "Tech", "shortname": "tech", "sort_name": "Tech" },
+    "meta_category": {
+      "id": 292,
+      "shortname": "tech",
+      "name": "Tech",
+      "sort_name": "Tech",
+      "photo": {
+        "id": 450131949,
+        "highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
+        "photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
+        "thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
+        "type": "event",
+        "base_url": "https://secure.meetupstatic.com"
+      },
+      "category_ids": [34]
+    }
+  },
+  {
+    "id": 17149532,
+    "name": "Tampa JUG",
+    "status": "active",
+    "link": "https://www.meetup.com/Tampa-JUG/",
+    "urlname": "Tampa-JUG",
+    "description":
+      "<p>Tampa JVM User Group (TJUG) is dedicated to all things that run on the Java Virtual Machine. While Java (the language) is predominant on the JVM, other languages are catching up in popularity, sophistication, and features. They cannot be ignored!</p>",
+    "created": 1411419987000,
+    "city": "Saint Petersburg",
+    "country": "US",
+    "localized_country_name": "USA",
+    "localized_location": "Saint Petersburg, FL",
+    "state": "FL",
+    "join_mode": "open",
+    "visibility": "public",
+    "lat": 27.88,
+    "lon": -82.65,
+    "members": 674,
+    "organizer": {
+      "id": 153171592,
+      "name": "Shaun Chung",
+      "bio": "",
+      "photo": {
+        "id": 250005964,
+        "highres_link": "https://secure.meetupstatic.com/photos/member/b/3/8/c/highres_250005964.jpeg",
+        "photo_link": "https://secure.meetupstatic.com/photos/member/b/3/8/c/member_250005964.jpeg",
+        "thumb_link": "https://secure.meetupstatic.com/photos/member/b/3/8/c/thumb_250005964.jpeg",
+        "type": "member",
+        "base_url": "https://secure.meetupstatic.com"
+      }
+    },
+    "who": "JUG Heads",
+    "group_photo": {
+      "id": 436704844,
+      "highres_link": "https://secure.meetupstatic.com/photos/event/6/1/0/c/highres_436704844.jpeg",
+      "photo_link": "https://secure.meetupstatic.com/photos/event/6/1/0/c/600_436704844.jpeg",
+      "thumb_link": "https://secure.meetupstatic.com/photos/event/6/1/0/c/thumb_436704844.jpeg",
+      "type": "event",
+      "base_url": "https://secure.meetupstatic.com"
+    },
+    "key_photo": {
+      "id": 446323229,
+      "highres_link": "https://secure.meetupstatic.com/photos/event/a/8/d/d/highres_446323229.jpeg",
+      "photo_link": "https://secure.meetupstatic.com/photos/event/a/8/d/d/600_446323229.jpeg",
+      "thumb_link": "https://secure.meetupstatic.com/photos/event/a/8/d/d/thumb_446323229.jpeg",
+      "type": "event",
+      "base_url": "https://secure.meetupstatic.com"
+    },
+    "timezone": "US/Eastern",
+    "category": { "id": 34, "name": "Tech", "shortname": "tech", "sort_name": "Tech" },
+    "meta_category": {
+      "id": 292,
+      "shortname": "tech",
+      "name": "Tech",
+      "sort_name": "Tech",
+      "photo": {
+        "id": 450131949,
+        "highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
+        "photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
+        "thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
+        "type": "event",
+        "base_url": "https://secure.meetupstatic.com"
+      },
+      "category_ids": [34]
+    },
+    "pro_network": {
+      "name": "Tampa Bay Tech",
+      "urlname": "tampabaytech",
+      "number_of_groups": 48,
+      "network_url": "https://www.meetup.com/pro/tampabaytech/"
     }
   }
 ]

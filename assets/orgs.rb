@@ -26,6 +26,9 @@ groups = %w[
   Tampa-Bay-WordPress
   Laravel
   Tampa-Bay-Android-Developers-Group
+  Blockchain-Enthusiasts
+  Design-St-Pete
+  Tampa-JUG
 ].map do |urlname|
   puts urlname
   open("https://api.meetup.com/#{urlname}?key=#{ENV['MEETUP_API_KEY']}") do |io|
